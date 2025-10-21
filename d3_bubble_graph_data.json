@@ -1,0 +1,2698 @@
+{
+  "nodes": [
+    {
+      "id": "Arrival",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "TRUE",
+      "descrizione": "Una linguista cerca di comunicare con forme di vita extraterrestri arrivate sulla Terra.",
+      "regista": "Denis Villeneuve",
+      "anno": "2016",
+      "valutazione": "5",
+      "wikiLink": "https://it.wikipedia.org/wiki/Arrival",
+      "streamingLink": "Verificare Netflix/Prime"
+    },
+    {
+      "id": "Blade Runner",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "TRUE",
+      "descrizione": "Un cacciatore di androidi dà la caccia a replicanti fuggitivi in una LA distopica.",
+      "regista": "Ridley Scott",
+      "anno": "1982",
+      "valutazione": "5",
+      "wikiLink": "https://it.wikipedia.org/wiki/Blade_Runner",
+      "streamingLink": "Verificare Netflix/Prime"
+    },
+    {
+      "id": "Brazil",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "TRUE",
+      "descrizione": "Un burocrate in un futuro distopico sogna una vita diversa.",
+      "regista": "Terry Gilliam",
+      "anno": "1985",
+      "valutazione": "5",
+      "wikiLink": "https://it.wikipedia.org/wiki/Brazil_(film)",
+      "streamingLink": "Verificare disponibilità streaming"
+    },
+    {
+      "id": "District 9",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "TRUE",
+      "descrizione": "Extraterrestri rifugiati sulla Terra sono confinati in un ghetto.",
+      "regista": "Neill Blomkamp",
+      "anno": "2009",
+      "valutazione": "5",
+      "wikiLink": "https://it.wikipedia.org/wiki/District_9",
+      "streamingLink": "Verificare Netflix/Prime"
+    },
+    {
+      "id": "Eternal Sunshine of the Spotless Mind",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "TRUE",
+      "descrizione": "Una coppia cancella i ricordi della loro relazione finita.",
+      "regista": "Michel Gondry",
+      "anno": "2004",
+      "valutazione": "5",
+      "wikiLink": "https://it.wikipedia.org/wiki/Se_mi_lasci_ti_cancello",
+      "streamingLink": "Verificare Prime Video"
+    },
+    {
+      "id": "Ex Machina",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "TRUE",
+      "descrizione": "Un programmatore testa l'intelligenza artificiale di un'androide affascinante.",
+      "regista": "Alex Garland",
+      "anno": "2014",
+      "valutazione": "5",
+      "wikiLink": "https://it.wikipedia.org/wiki/Ex_Machina_(film)",
+      "streamingLink": "Verificare Netflix/Prime"
+    },
+    {
+      "id": "Ghost in the Shell (1995)",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "TRUE",
+      "descrizione": "Un cyborg della Sezione 9 dà la caccia a un misterioso hacker noto come Puppet Master",
+      "regista": "Mamoru Oshii",
+      "anno": "1995",
+      "valutazione": "5",
+      "wikiLink": "https://it.wikipedia.org/wiki/Ghost_in_the_Shell_(film_1995",
+      "streamingLink": "Verificare Netflix/Prime"
+    },
+    {
+      "id": "Lei (Her)",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "TRUE",
+      "descrizione": "Un uomo si innamora di un sistema operativo AI avanzato.",
+      "regista": "Spike Jonze",
+      "anno": "2013",
+      "valutazione": "5",
+      "wikiLink": "https://it.wikipedia.org/wiki/Lei_(film)",
+      "streamingLink": "Verificare Netflix/Prime"
+    },
+    {
+      "id": "Metropolis",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "TRUE",
+      "descrizione": "Una città futuristica divisa tra élite e lavoratori, con la creazione di un robot.",
+      "regista": "Fritz Lang",
+      "anno": "1927",
+      "valutazione": "5",
+      "wikiLink": "https://it.wikipedia.org/wiki/Metropolis_(film_1927",
+      "streamingLink": "Varie piattaforme (dominio pubblico/restauri)"
+    },
+    {
+      "id": "Minority Report",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "TRUE",
+      "descrizione": "Un poliziotto accusato di un futuro omicidio deve provare la sua innocenza.",
+      "regista": "Steven Spielberg",
+      "anno": "2002",
+      "valutazione": "5",
+      "wikiLink": "https://it.wikipedia.org/wiki/Minority_Report_(film)",
+      "streamingLink": "Verificare Netflix/Prime"
+    },
+    {
+      "id": "Solaris (1972)",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "TRUE",
+      "descrizione": "Uno psicologo viene inviato su una stazione spaziale orbitante attorno a un pianeta senziente.",
+      "regista": "Andrei Tarkovsky",
+      "anno": "1972",
+      "valutazione": "5",
+      "wikiLink": "https://it.wikipedia.org/wiki/Solaris_(film_1972",
+      "streamingLink": "Verificare disponibilità streaming"
+    },
+    {
+      "id": "The Social Network",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "TRUE",
+      "descrizione": "La controversa nascita di Facebook e del suo fondatore Mark Zuckerberg.",
+      "regista": "David Fincher",
+      "anno": "2010",
+      "valutazione": "5",
+      "wikiLink": "https://it.wikipedia.org/wiki/The_Social_Network",
+      "streamingLink": "Verificare Netflix/Prime"
+    },
+    {
+      "id": "1984 (Nineteen Eighty-Four)",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "TRUE",
+      "descrizione": "Un uomo lotta contro un regime totalitario onnipresente.",
+      "regista": "Michael Radford",
+      "anno": "1984",
+      "valutazione": "4",
+      "wikiLink": "https://it.wikipedia.org/wiki/Orwell_1984",
+      "streamingLink": "Varie piattaforme (es. Prime Video Channels)"
+    },
+    {
+      "id": "A Scanner Darkly - Un oscuro scrutare",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "TRUE",
+      "descrizione": "Un agente sotto copertura in un futuro distopico perde la propria identità.",
+      "regista": "Richard Linklater",
+      "anno": "2006",
+      "valutazione": "4",
+      "wikiLink": "https://it.wikipedia.org/wiki/A_Scanner_Darkly_-_Un_oscuro_scrutare",
+      "streamingLink": "Verificare disponibilità streaming"
+    },
+    {
+      "id": "Akira",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "TRUE",
+      "descrizione": "Un motociclista acquisisce poteri telecinetici in una Neo-Tokyo distopica.",
+      "regista": "Katsuhiro Otomo",
+      "anno": "1988",
+      "valutazione": "4",
+      "wikiLink": "https://it.wikipedia.org/wiki/Akira_(film_1988",
+      "streamingLink": "Verificare Netflix"
+    },
+    {
+      "id": "Black Mirror: Bandersnatch",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "TRUE",
+      "descrizione": "Film interattivo su un programmatore che adatta un libro fantasy oscuro.",
+      "regista": "David Slade",
+      "anno": "2018",
+      "valutazione": "4",
+      "wikiLink": "https://it.wikipedia.org/wiki/Black_Mirror:_Bandersnatch",
+      "streamingLink": "Netflix"
+    },
+    {
+      "id": "Gattaca - La porta dell'universo",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "TRUE",
+      "descrizione": "Un uomo geneticamente \"inferiore\" insegue il suo sogno di viaggiare nello spazio.",
+      "regista": "Andrew Niccol",
+      "anno": "1997",
+      "valutazione": "4",
+      "wikiLink": "https://it.wikipedia.org/wiki/Gattaca_-_La_porta_dell%27universo",
+      "streamingLink": "Verificare Netflix"
+    },
+    {
+      "id": "Idiocracy",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "TRUE",
+      "descrizione": "Un uomo medio si risveglia 500 anni nel futuro in una società stupida.",
+      "regista": "Mike Judge",
+      "anno": "2006",
+      "valutazione": "4",
+      "wikiLink": "https://it.wikipedia.org/wiki/Idiocracy",
+      "streamingLink": "Disney+"
+    },
+    {
+      "id": "Il quinto elemento",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "TRUE",
+      "descrizione": "Un tassista del futuro deve proteggere una donna che è la chiave per salvare il mondo.",
+      "regista": "Luc Besson",
+      "anno": "1997",
+      "valutazione": "4",
+      "wikiLink": "https://it.wikipedia.org/wiki/Il_quinto_elemento",
+      "streamingLink": "Verificare disponibilità streaming"
+    },
+    {
+      "id": "Inception",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "TRUE",
+      "descrizione": "Un ladro ruba informazioni infiltrandosi nei sogni altrui.",
+      "regista": "Christopher Nolan",
+      "anno": "2010",
+      "valutazione": "4",
+      "wikiLink": "https://it.wikipedia.org/wiki/Inception",
+      "streamingLink": "Verificare Netflix/Prime"
+    },
+    {
+      "id": "Lord of War",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "TRUE",
+      "descrizione": "Un trafficante d'armi affronta dilemmi morali.",
+      "regista": "Andrew Niccol",
+      "anno": "2005",
+      "valutazione": "4",
+      "wikiLink": "https://it.wikipedia.org/wiki/Lord_of_War",
+      "streamingLink": "Verificare Netflix/Prime Video"
+    },
+    {
+      "id": "Matrix",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "TRUE",
+      "descrizione": "Un hacker scopre che la realtà è una simulazione creata da macchine intelligenti.",
+      "regista": "Lana & Lilly Wachowski",
+      "anno": "1999",
+      "valutazione": "4",
+      "wikiLink": "https://it.wikipedia.org/wiki/Matrix_(film)",
+      "streamingLink": "Verificare Netflix/Prime"
+    },
+    {
+      "id": "Westworld (Il mondo dei robot)",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "TRUE",
+      "descrizione": "Un parco a tema futuristico con robot realistici va fuori controllo.",
+      "regista": "Michael Crichton",
+      "anno": "1973",
+      "valutazione": "4",
+      "wikiLink": "https://it.wikipedia.org/wiki/Il_mondo_dei_robot",
+      "streamingLink": "Verificare disponibilità streaming"
+    },
+    {
+      "id": "Il tagliaerbe",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "TRUE",
+      "descrizione": "Un giardiniere disabile mentale acquisisce intelligenza sovrumana tramite VR.",
+      "regista": "Brett Leonard",
+      "anno": "1992",
+      "valutazione": "3",
+      "wikiLink": "https://it.wikipedia.org/wiki/Il_tagliaerbe_(film)",
+      "streamingLink": "Verificare disponibilità streaming"
+    },
+    {
+      "id": "Nirvana",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "TRUE",
+      "descrizione": "Un programmatore scopre che il personaggio del suo videogioco ha preso coscienza.",
+      "regista": "Gabriele Salvatores",
+      "anno": "1997",
+      "valutazione": "3",
+      "wikiLink": "https://it.wikipedia.org/wiki/Nirvana_(film)",
+      "streamingLink": "Verificare Prime Video"
+    },
+    {
+      "id": "Automata (Autómata)",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "TRUE",
+      "descrizione": "Un agente assicurativo indaga su robot che si modificano da soli.",
+      "regista": "Gabe Ibáñez",
+      "anno": "2014",
+      "valutazione": "2",
+      "wikiLink": "https://it.wikipedia.org/wiki/Automata_(film)",
+      "streamingLink": "Verificare Prime Video"
+    },
+    {
+      "id": "Dune (1984)",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "TRUE",
+      "descrizione": "Lotte di potere su un pianeta desertico, unica fonte di una spezia preziosa.",
+      "regista": "David Lynch",
+      "anno": "1984",
+      "valutazione": "2",
+      "wikiLink": "https://it.wikipedia.org/wiki/Dune_(film_1984",
+      "streamingLink": "Verificare Netflix"
+    },
+    {
+      "id": "Humandroid (Chappie)",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "TRUE",
+      "descrizione": "Un robot della polizia riprogrammato sviluppa una coscienza.",
+      "regista": "Neill Blomkamp",
+      "anno": "2015",
+      "valutazione": "2",
+      "wikiLink": "https://it.wikipedia.org/wiki/Humandroid",
+      "streamingLink": "https://www.netflix.com/title/80013310"
+    },
+    {
+      "id": "2001: Odissea nello spazio",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "FALSE",
+      "descrizione": "Viaggio spaziale epico con un'IA onnisciente e potenzialmente ostile (HAL 9000).",
+      "regista": "Stanley Kubrick",
+      "anno": "1968",
+      "valutazione": "5",
+      "wikiLink": "https://it.wikipedia.org/wiki/2001:_Odissea_nello_spazio",
+      "streamingLink": "Verificare Netflix/Prime"
+    },
+    {
+      "id": "Eva",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "FALSE",
+      "descrizione": "Un ingegnere cibernetico torna a casa per creare un bambino robot.",
+      "regista": "Kike Maíllo",
+      "anno": "2011",
+      "valutazione": "5",
+      "wikiLink": "https://it.wikipedia.org/wiki/Eva_(film_2011",
+      "streamingLink": "Verificare disponibilità streaming"
+    },
+    {
+      "id": "Anon",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "FALSE",
+      "descrizione": "In un futuro senza privacy, un detective indaga su un serial killer invisibile.",
+      "regista": "Andrew Niccol",
+      "anno": "2018",
+      "valutazione": "3",
+      "wikiLink": "https://it.wikipedia.org/wiki/Anon_(film)",
+      "streamingLink": "Verificare Netflix"
+    },
+    {
+      "id": "Ghost in the Shell (2017)",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "FALSE",
+      "descrizione": "Adattamento live-action dell'omonimo manga e anime.",
+      "regista": "Rupert Sanders",
+      "anno": "2017",
+      "valutazione": "3",
+      "wikiLink": "https://it.wikipedia.org/wiki/Ghost_in_the_Shell_(film_2017)",
+      "streamingLink": "Verificare Netflix"
+    },
+    {
+      "id": "A History of Violence",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "La vita tranquilla di un uomo viene sconvolta dal suo passato violento.",
+      "regista": "David Cronenberg",
+      "anno": "2005",
+      "valutazione": "5",
+      "wikiLink": "https://it.wikipedia.org/wiki/A_History_of_Violence",
+      "streamingLink": "Verificare disponibilità streaming"
+    },
+    {
+      "id": "Ad Astra",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "Un astronauta viaggia ai confini del sistema solare per trovare suo padre.",
+      "regista": "James Gray",
+      "anno": "2019",
+      "valutazione": "5",
+      "wikiLink": "https://it.wikipedia.org/wiki/Ad_Astra_(film)",
+      "streamingLink": "Verificare disponibilità streaming"
+    },
+    {
+      "id": "Andromeda (The Andromeda Strain)",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "Scienziati studiano un microrganismo extraterrestre mortale.",
+      "regista": "Robert Wise",
+      "anno": "1971",
+      "valutazione": "5",
+      "wikiLink": "https://it.wikipedia.org/wiki/Andromeda_(film)",
+      "streamingLink": "Verificare disponibilità streaming"
+    },
+    {
+      "id": "Arancia meccanica",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "Un giovane delinquente subisce un condizionamento psicologico sperimentale.",
+      "regista": "Stanley Kubrick",
+      "anno": "1971",
+      "valutazione": "5",
+      "wikiLink": "https://it.wikipedia.org/wiki/Arancia_meccanica_(film)",
+      "streamingLink": "Verificare Prime Video"
+    },
+    {
+      "id": "Blade Runner 2049",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "Un nuovo Blade Runner scopre un segreto che potrebbe far precipitare la società nel caos.",
+      "regista": "Denis Villeneuve",
+      "anno": "2017",
+      "valutazione": "5",
+      "wikiLink": "https://it.wikipedia.org/wiki/Blade_Runner_2049",
+      "streamingLink": "https://www.netflix.com/title/80185798"
+    },
+    {
+      "id": "Everything Everywhere All at Once",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "Una donna scopre di poter accedere a versioni di sé da universi paralleli.",
+      "regista": "Daniel Kwan, Daniel Scheinert",
+      "anno": "2022",
+      "valutazione": "5",
+      "wikiLink": "https://it.wikipedia.org/wiki/Everything_Everywhere_All_at_Once",
+      "streamingLink": "Verificare disponibilità streaming"
+    },
+    {
+      "id": "Fa' la cosa giusta",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "Tensioni razziali esplodono in un quartiere di Brooklyn in un giorno d'estate.",
+      "regista": "Spike Lee",
+      "anno": "1989",
+      "valutazione": "5",
+      "wikiLink": "https://it.wikipedia.org/wiki/Fa%27_la_cosa_giusta",
+      "streamingLink": "Verificare disponibilità streaming"
+    },
+    {
+      "id": "I figli degli uomini (Children of Men)",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "In un futuro sterile, una donna rimane miracolosamente incinta.",
+      "regista": "Alfonso Cuarón",
+      "anno": "2006",
+      "valutazione": "5",
+      "wikiLink": "https://it.wikipedia.org/wiki/I_figli_degli_uomini_(film)",
+      "streamingLink": "Verificare disponibilità streaming"
+    },
+    {
+      "id": "Il caso Spotlight",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "Un team di giornalisti investiga sugli abusi nella Chiesa Cattolica.",
+      "regista": "Tom McCarthy",
+      "anno": "2015",
+      "valutazione": "5",
+      "wikiLink": "https://it.wikipedia.org/wiki/Il_caso_Spotlight",
+      "streamingLink": "Verificare Netflix/Prime"
+    },
+    {
+      "id": "Il Petroliere (There Will Be Blood)",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "L'ascesa spietata di un cercatore di petrolio all'inizio del XX secolo.",
+      "regista": "Paul Thomas Anderson",
+      "anno": "2007",
+      "valutazione": "5",
+      "wikiLink": "https://it.wikipedia.org/wiki/Il_petroliere",
+      "streamingLink": "Verificare Netflix/Prime"
+    },
+    {
+      "id": "Il Pianeta Proibito (Forbidden Planet)",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "Un'astronave indaga sulla scomparsa di una colonia su un pianeta lontano.",
+      "regista": "Fred M. Wilcox",
+      "anno": "1956",
+      "valutazione": "5",
+      "wikiLink": "https://it.wikipedia.org/wiki/Il_pianeta_proibito",
+      "streamingLink": "Verificare disponibilità streaming"
+    },
+    {
+      "id": "L'esercito delle 12 scimmie",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "Un prigioniero viaggia nel tempo per prevenire una pandemia che ha devastato il mondo.",
+      "regista": "Terry Gilliam",
+      "anno": "1995",
+      "valutazione": "5",
+      "wikiLink": "https://it.wikipedia.org/wiki/L%27esercito_delle_12_scimmie",
+      "streamingLink": "Verificare Prime Video"
+    },
+    {
+      "id": "La vita futura (Things to Come)",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "Film epico che mostra decenni di progresso tecnologico e guerra.",
+      "regista": "William Cameron Menzies",
+      "anno": "1936",
+      "valutazione": "5",
+      "wikiLink": "https://it.wikipedia.org/wiki/La_vita_futura",
+      "streamingLink": "Varie (es. YouTube, Archive.org)"
+    },
+    {
+      "id": "Looper",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "Un killer del futuro deve uccidere la versione futura di se stesso.",
+      "regista": "Rian Johnson",
+      "anno": "2012",
+      "valutazione": "5",
+      "wikiLink": "https://it.wikipedia.org/wiki/Looper_(film)",
+      "streamingLink": "Verificare Prime Video"
+    },
+    {
+      "id": "Mad Max: Fury Road",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "In un deserto post-apocalittico, Max aiuta Furiosa a liberare le mogli di un tiranno.",
+      "regista": "George Miller",
+      "anno": "2015",
+      "valutazione": "5",
+      "wikiLink": "https://it.wikipedia.org/wiki/Mad_Max:_Fury_Road",
+      "streamingLink": "Verificare Netflix/Prime"
+    },
+    {
+      "id": "Terminator",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "Un cyborg assassino viaggia indietro nel tempo per uccidere Sarah Connor.",
+      "regista": "James Cameron",
+      "anno": "1984",
+      "valutazione": "5",
+      "wikiLink": "https://it.wikipedia.org/wiki/Terminator_(film)",
+      "streamingLink": "Verificare Prime Video"
+    },
+    {
+      "id": "The Truman Show",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "Un uomo scopre che tutta la sua vita è un reality show televisivo.",
+      "regista": "Peter Weir",
+      "anno": "1998",
+      "valutazione": "5",
+      "wikiLink": "https://it.wikipedia.org/wiki/The_Truman_Show",
+      "streamingLink": "Verificare Netflix/Prime"
+    },
+    {
+      "id": "WALL•E",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "Un robot spazzino sulla Terra abbandonata si innamora di un'altra robot.",
+      "regista": "Andrew Stanton",
+      "anno": "2008",
+      "valutazione": "5",
+      "wikiLink": "https://it.wikipedia.org/wiki/WALL%E2%80%A2E",
+      "streamingLink": "Disney+"
+    },
+    {
+      "id": "WarGames - Giochi di guerra",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "Un giovane hacker rischia involontariamente una guerra nucleare con un supercomputer AI.",
+      "regista": "John Badham",
+      "anno": "1983",
+      "valutazione": "5",
+      "wikiLink": "https://it.wikipedia.org/wiki/WarGames_-_Giochi_di_guerra",
+      "streamingLink": "Verificare Prime Video"
+    },
+    {
+      "id": "2022: i sopravvissuti (Soylent Green)",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "Un detective indaga su un omicidio in una New York sovrappopolata e inquinata.",
+      "regista": "Richard Fleischer",
+      "anno": "1973",
+      "valutazione": "4",
+      "wikiLink": "https://it.wikipedia.org/wiki/2022:_i_sopravvissuti",
+      "streamingLink": "Verificare disponibilità streaming"
+    },
+    {
+      "id": "A.I. - Intelligenza artificiale",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "Un bambino robot cerca di diventare umano per riconquistare l'amore materno.",
+      "regista": "Steven Spielberg",
+      "anno": "2001",
+      "valutazione": "4",
+      "wikiLink": "https://it.wikipedia.org/wiki/A.I._-_Intelligenza_artificiale",
+      "streamingLink": "Verificare disponibilità"
+    },
+    {
+      "id": "Dark City",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "Un uomo si sveglia senza memoria in una città dove il sole non sorge mai.",
+      "regista": "Alex Proyas",
+      "anno": "1998",
+      "valutazione": "4",
+      "wikiLink": "https://it.wikipedia.org/wiki/Dark_City_(film_1998",
+      "streamingLink": "Verificare disponibilità streaming"
+    },
+    {
+      "id": "Dune (2021)",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "Il figlio di una nobile casata deve proteggere il futuro del suo popolo su un pianeta pericoloso.",
+      "regista": "Denis Villeneuve",
+      "anno": "2021",
+      "valutazione": "4",
+      "wikiLink": "https://it.wikipedia.org/wiki/Dune_(film_2021)",
+      "streamingLink": "Verificare Netflix/Prime"
+    },
+    {
+      "id": "Edge of Tomorrow - Senza domani",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "Un soldato rivive lo stesso giorno di battaglia contro alieni invasori.",
+      "regista": "Doug Liman",
+      "anno": "2014",
+      "valutazione": "4",
+      "wikiLink": "https://it.wikipedia.org/wiki/Edge_of_Tomorrow_-_Senza_domani",
+      "streamingLink": "Verificare Netflix/Prime"
+    },
+    {
+      "id": "eXistenZ",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "Giocatori si immergono in un gioco VR biologico, confondendo realtà e finzione.",
+      "regista": "David Cronenberg",
+      "anno": "1999",
+      "valutazione": "4",
+      "wikiLink": "https://it.wikipedia.org/wiki/EXistenZ",
+      "streamingLink": "Verificare disponibilità streaming"
+    },
+    {
+      "id": "Il tredicesimo piano",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "Un uomo scopre che il suo mondo potrebbe essere una simulazione computerizzata.",
+      "regista": "Josef Rusnak",
+      "anno": "1999",
+      "valutazione": "4",
+      "wikiLink": "https://it.wikipedia.org/wiki/Il_tredicesimo_piano",
+      "streamingLink": "Verificare disponibilità streaming"
+    },
+    {
+      "id": "Interstellar",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "Un team viaggia attraverso un wormhole per trovare un nuovo pianeta per l'umanità.",
+      "regista": "Christopher Nolan",
+      "anno": "2014",
+      "valutazione": "4",
+      "wikiLink": "https://it.wikipedia.org/wiki/Interstellar",
+      "streamingLink": "Verificare Netflix/Prime"
+    },
+    {
+      "id": "Moon",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "Un astronauta isolato sulla Luna scopre una verità inquietante sulla sua missione.",
+      "regista": "Duncan Jones",
+      "anno": "2009",
+      "valutazione": "4",
+      "wikiLink": "https://it.wikipedia.org/wiki/Moon_(film)",
+      "streamingLink": "Verificare Netflix/Prime"
+    },
+    {
+      "id": "Ready Player One",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "In un futuro distopico, le persone fuggono in un vasto universo VR chiamato OASIS.",
+      "regista": "Steven Spielberg",
+      "anno": "2018",
+      "valutazione": "4",
+      "wikiLink": "https://it.wikipedia.org/wiki/Ready_Player_One_(film)",
+      "streamingLink": "Verificare Netflix/Prime"
+    },
+    {
+      "id": "RoboCop",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "Un poliziotto ucciso viene riportato in vita come un cyborg tutore della legge.",
+      "regista": "Paul Verhoeven",
+      "anno": "1987",
+      "valutazione": "4",
+      "wikiLink": "https://it.wikipedia.org/wiki/RoboCop_(film_1987",
+      "streamingLink": "Verificare Prime Video"
+    },
+    {
+      "id": "Source Code",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "Un soldato rivive ripetutamente 8 minuti per sventare un attentato.",
+      "regista": "Duncan Jones",
+      "anno": "2011",
+      "valutazione": "4",
+      "wikiLink": "https://it.wikipedia.org/wiki/Source_Code",
+      "streamingLink": "Verificare Netflix/Prime"
+    },
+    {
+      "id": "Strange Days",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "Un ex poliziotto vende registrazioni di esperienze reali nel futuro prossimo.",
+      "regista": "Kathryn Bigelow",
+      "anno": "1995",
+      "valutazione": "4",
+      "wikiLink": "https://it.wikipedia.org/wiki/Strange_Days_(film)",
+      "streamingLink": "Verificare disponibilità streaming"
+    },
+    {
+      "id": "Swan Song (2021)",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "Un uomo malato terminale considera di clonarsi per risparmiare dolore alla famiglia.",
+      "regista": "Benjamin Cleary",
+      "anno": "2021",
+      "valutazione": "4",
+      "wikiLink": "https://en.wikipedia.org/wiki/Swan_Song_(2021_Benjamin_Cleary_film)",
+      "streamingLink": "Apple TV+"
+    },
+    {
+      "id": "The Lobster",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "In una società distopica, i single devono trovare un partner o essere trasformati in animali.",
+      "regista": "Yorgos Lanthimos",
+      "anno": "2015",
+      "valutazione": "4",
+      "wikiLink": "https://it.wikipedia.org/wiki/The_Lobster",
+      "streamingLink": "Verificare disponibilità streaming"
+    },
+    {
+      "id": "Total Recall (1990)",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "Un uomo scopre che i suoi ricordi potrebbero essere impianti artificiali.",
+      "regista": "Paul Verhoeven",
+      "anno": "1990",
+      "valutazione": "4",
+      "wikiLink": "https://it.wikipedia.org/wiki/Atto_di_forza_(film_1990)",
+      "streamingLink": "Verificare Prime Video"
+    },
+    {
+      "id": "Tron",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "Un programmatore viene digitalizzato e intrappolato in un mondo di computer.",
+      "regista": "Steven Lisberger",
+      "anno": "1982",
+      "valutazione": "4",
+      "wikiLink": "https://it.wikipedia.org/wiki/Tron_(film)",
+      "streamingLink": "Disney+"
+    },
+    {
+      "id": "Alita - Angelo della battaglia",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "Un cyborg senza memoria riscopre il suo passato in un mondo distopico.",
+      "regista": "Robert Rodriguez",
+      "anno": "2019",
+      "valutazione": "3",
+      "wikiLink": "https://it.wikipedia.org/wiki/Alita_-_Angelo_della_battaglia",
+      "streamingLink": "Disney+"
+    },
+    {
+      "id": "Il mondo dei replicanti (Surrogates)",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "Gli umani vivono tramite avatar robotici controllati a distanza.",
+      "regista": "Jonathan Mostow",
+      "anno": "2009",
+      "valutazione": "3",
+      "wikiLink": "https://it.wikipedia.org/wiki/Il_mondo_dei_replicanti",
+      "streamingLink": "Disney+"
+    },
+    {
+      "id": "La fuga di Logan",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "In una società futura utopica, la vita termina a 30 anni.",
+      "regista": "Michael Anderson",
+      "anno": "1976",
+      "valutazione": "3",
+      "wikiLink": "https://it.wikipedia.org/wiki/La_fuga_di_Logan_(film)",
+      "streamingLink": "Verificare disponibilità streaming"
+    },
+    {
+      "id": "Oblivion",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "Un tecnico sulla Terra post-apocalittica scopre una verità scioccante.",
+      "regista": "Joseph Kosinski",
+      "anno": "2013",
+      "valutazione": "3",
+      "wikiLink": "https://it.wikipedia.org/wiki/Oblivion_(film)",
+      "streamingLink": "Netflix"
+    },
+    {
+      "id": "Real Steel",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "In futuro, robot pugili combattono al posto degli umani.",
+      "regista": "Shawn Levy",
+      "anno": "2011",
+      "valutazione": "3",
+      "wikiLink": "https://it.wikipedia.org/wiki/Real_Steel",
+      "streamingLink": "Verificare Netflix"
+    },
+    {
+      "id": "Short Circuit (Corto circuito)",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "Un robot militare prende coscienza dopo essere stato colpito da un fulmine.",
+      "regista": "John Badham",
+      "anno": "1986",
+      "valutazione": "3",
+      "wikiLink": "https://it.wikipedia.org/wiki/Corto_circuito_(film)",
+      "streamingLink": "Verificare disponibilità streaming"
+    },
+    {
+      "id": "The Island",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "Residenti di una struttura isolata scoprono di essere cloni destinati all'espianto.",
+      "regista": "Michael Bay",
+      "anno": "2005",
+      "valutazione": "3",
+      "wikiLink": "https://it.wikipedia.org/wiki/The_Island_(film_2005",
+      "streamingLink": "Verificare Netflix"
+    },
+    {
+      "id": "The Net - Intrappolata nella rete",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "L'identità di un'analista di sistemi viene cancellata digitalmente.",
+      "regista": "Irwin Winkler",
+      "anno": "1995",
+      "valutazione": "3",
+      "wikiLink": "https://it.wikipedia.org/wiki/The_Net_-_Intrappolata_nella_rete",
+      "streamingLink": "Verificare disponibilità streaming"
+    },
+    {
+      "id": "The Zero Theorem",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "Un programmatore cerca il senso della vita in un futuro distopico e iperconnesso.",
+      "regista": "Terry Gilliam",
+      "anno": "2013",
+      "valutazione": "3",
+      "wikiLink": "https://it.wikipedia.org/wiki/The_Zero_Theorem",
+      "streamingLink": "Verificare disponibilità streaming"
+    },
+    {
+      "id": "Unfriended: Dark Web",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "Un gruppo di amici scopre file inquietanti sul laptop di uno di loro.",
+      "regista": "Stephen Susco",
+      "anno": "2018",
+      "valutazione": "3",
+      "wikiLink": "https://it.wikipedia.org/wiki/Unfriended:_Dark_Web",
+      "streamingLink": "Verificare Netflix/Prime"
+    },
+    {
+      "id": "Zardoz",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "Un barbaro scopre la verità dietro una società futuristica immortale.",
+      "regista": "John Boorman",
+      "anno": "1974",
+      "valutazione": "3",
+      "wikiLink": "https://it.wikipedia.org/wiki/Zardoz",
+      "streamingLink": "Verificare disponibilità streaming"
+    },
+    {
+      "id": "Equilibrium",
+      "type": "item",
+      "group": "Film",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "In una società futura, le emozioni sono soppresse tramite farmaci.",
+      "regista": "Kurt Wimmer",
+      "anno": "2002",
+      "valutazione": "2",
+      "wikiLink": "https://it.wikipedia.org/wiki/Equilibrium_(film)",
+      "streamingLink": "Verificare Prime Video"
+    },
+    {
+      "id": "Futuro",
+      "type": "tag",
+      "group": "tag",
+      "value": 26
+    },
+    {
+      "id": "Sci-fi",
+      "type": "tag",
+      "group": "tag",
+      "value": 6
+    },
+    {
+      "id": "Alieni",
+      "type": "tag",
+      "group": "tag",
+      "value": 2
+    },
+    {
+      "id": "Linguistica",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Etica",
+      "type": "tag",
+      "group": "tag",
+      "value": 6
+    },
+    {
+      "id": "AI",
+      "type": "tag",
+      "group": "tag",
+      "value": 13
+    },
+    {
+      "id": "Distopia",
+      "type": "tag",
+      "group": "tag",
+      "value": 19
+    },
+    {
+      "id": "Robot (Replicanti)",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Distopia (Burocrazia)",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Surrealismo",
+      "type": "tag",
+      "group": "tag",
+      "value": 2
+    },
+    {
+      "id": "Distopia (Apartheid)",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Futuro (tecnologia)",
+      "type": "tag",
+      "group": "tag",
+      "value": 2
+    },
+    {
+      "id": "Digitale (memoria)",
+      "type": "tag",
+      "group": "tag",
+      "value": 2
+    },
+    {
+      "id": "Robot",
+      "type": "tag",
+      "group": "tag",
+      "value": 11
+    },
+    {
+      "id": "Thriller",
+      "type": "tag",
+      "group": "tag",
+      "value": 2
+    },
+    {
+      "id": "Internet",
+      "type": "tag",
+      "group": "tag",
+      "value": 9
+    },
+    {
+      "id": "Cyberpunk",
+      "type": "tag",
+      "group": "tag",
+      "value": 3
+    },
+    {
+      "id": "Digitale",
+      "type": "tag",
+      "group": "tag",
+      "value": 10
+    },
+    {
+      "id": "Amore",
+      "type": "tag",
+      "group": "tag",
+      "value": 2
+    },
+    {
+      "id": "Classismo",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "AI (predittiva)",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Spazio",
+      "type": "tag",
+      "group": "tag",
+      "value": 7
+    },
+    {
+      "id": "Psicologia",
+      "type": "tag",
+      "group": "tag",
+      "value": 2
+    },
+    {
+      "id": "Social Media",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Biografico",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Distopia (Totalitarismo)",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Digitale (Sorveglianza)",
+      "type": "tag",
+      "group": "tag",
+      "value": 2
+    },
+    {
+      "id": "Droga",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Anime",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Interattivo",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Scelta",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Distopia (Genetica)",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Commedia",
+      "type": "tag",
+      "group": "tag",
+      "value": 3
+    },
+    {
+      "id": "Satira",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Azione",
+      "type": "tag",
+      "group": "tag",
+      "value": 7
+    },
+    {
+      "id": "Digitale (sogni)",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Traffico d'armi",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Morale",
+      "type": "tag",
+      "group": "tag",
+      "value": 6
+    },
+    {
+      "id": "Crimine",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Simulazione",
+      "type": "tag",
+      "group": "tag",
+      "value": 2
+    },
+    {
+      "id": "Parco a tema",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "VR",
+      "type": "tag",
+      "group": "tag",
+      "value": 3
+    },
+    {
+      "id": "Intelligenza",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Videogiochi",
+      "type": "tag",
+      "group": "tag",
+      "value": 2
+    },
+    {
+      "id": "Politica",
+      "type": "tag",
+      "group": "tag",
+      "value": 2
+    },
+    {
+      "id": "Privacy",
+      "type": "tag",
+      "group": "tag",
+      "value": 2
+    },
+    {
+      "id": "Violenza",
+      "type": "tag",
+      "group": "tag",
+      "value": 2
+    },
+    {
+      "id": "Identità",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Famiglia",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Biologia",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Distopia (Controllo mentale)",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Futuro (Multiverso)",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Digitale (temi)",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Razzismo",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Società",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Dramma",
+      "type": "tag",
+      "group": "tag",
+      "value": 4
+    },
+    {
+      "id": "Distopia (Infertilità)",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Giornalismo",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Verità",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Ambizione",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Capitalismo",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Distopia (Pandemia)",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Time T.",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Guerra",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Progresso",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Time Travel",
+      "type": "tag",
+      "group": "tag",
+      "value": 2
+    },
+    {
+      "id": "Distopia (Post-apoc.)",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Digitale (Media)",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Controllo",
+      "type": "tag",
+      "group": "tag",
+      "value": 2
+    },
+    {
+      "id": "Ecologia",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Guerra Fredda",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Distopia (Sovrappopolazione)",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Cibo",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Distopia (Manipolazione realtà)",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Noir",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Time Loop",
+      "type": "tag",
+      "group": "tag",
+      "value": 2
+    },
+    {
+      "id": "Body Horror",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Robot (TARS",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "CASE)",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Isolamento",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Robot (Cyborg)",
+      "type": "tag",
+      "group": "tag",
+      "value": 2
+    },
+    {
+      "id": "Memoria",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Clonazione",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Assurdità",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Robot (Avatar)",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Post-apoc.",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Mistero",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Pugilato",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "AI (emergente)",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Distopia (Clonazione)",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Filosofia",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Horror",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Dark Web",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Distopia (Controllo emotivo)",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "Arrival",
+      "target": "Futuro"
+    },
+    {
+      "source": "Arrival",
+      "target": "Sci-fi"
+    },
+    {
+      "source": "Arrival",
+      "target": "Alieni"
+    },
+    {
+      "source": "Arrival",
+      "target": "Linguistica"
+    },
+    {
+      "source": "Arrival",
+      "target": "Etica"
+    },
+    {
+      "source": "Blade Runner",
+      "target": "AI"
+    },
+    {
+      "source": "Blade Runner",
+      "target": "Distopia"
+    },
+    {
+      "source": "Blade Runner",
+      "target": "Robot (Replicanti)"
+    },
+    {
+      "source": "Brazil",
+      "target": "Distopia (Burocrazia)"
+    },
+    {
+      "source": "Brazil",
+      "target": "Surrealismo"
+    },
+    {
+      "source": "District 9",
+      "target": "Distopia (Apartheid)"
+    },
+    {
+      "source": "District 9",
+      "target": "Sci-fi"
+    },
+    {
+      "source": "District 9",
+      "target": "Alieni"
+    },
+    {
+      "source": "Eternal Sunshine of the Spotless Mind",
+      "target": "Futuro (tecnologia)"
+    },
+    {
+      "source": "Eternal Sunshine of the Spotless Mind",
+      "target": "Digitale (memoria)"
+    },
+    {
+      "source": "Ex Machina",
+      "target": "AI"
+    },
+    {
+      "source": "Ex Machina",
+      "target": "Robot"
+    },
+    {
+      "source": "Ex Machina",
+      "target": "Etica"
+    },
+    {
+      "source": "Ex Machina",
+      "target": "Thriller"
+    },
+    {
+      "source": "Ghost in the Shell (1995)",
+      "target": "AI"
+    },
+    {
+      "source": "Ghost in the Shell (1995)",
+      "target": "Internet"
+    },
+    {
+      "source": "Ghost in the Shell (1995)",
+      "target": "Futuro"
+    },
+    {
+      "source": "Ghost in the Shell (1995)",
+      "target": "Cyberpunk"
+    },
+    {
+      "source": "Lei (Her)",
+      "target": "AI"
+    },
+    {
+      "source": "Lei (Her)",
+      "target": "Digitale"
+    },
+    {
+      "source": "Lei (Her)",
+      "target": "Futuro"
+    },
+    {
+      "source": "Lei (Her)",
+      "target": "Amore"
+    },
+    {
+      "source": "Lei (Her)",
+      "target": "Etica"
+    },
+    {
+      "source": "Metropolis",
+      "target": "Robot"
+    },
+    {
+      "source": "Metropolis",
+      "target": "Distopia"
+    },
+    {
+      "source": "Metropolis",
+      "target": "Futuro"
+    },
+    {
+      "source": "Metropolis",
+      "target": "Classismo"
+    },
+    {
+      "source": "Minority Report",
+      "target": "Futuro"
+    },
+    {
+      "source": "Minority Report",
+      "target": "Distopia"
+    },
+    {
+      "source": "Minority Report",
+      "target": "AI (predittiva)"
+    },
+    {
+      "source": "Minority Report",
+      "target": "Etica"
+    },
+    {
+      "source": "Solaris (1972)",
+      "target": "Futuro"
+    },
+    {
+      "source": "Solaris (1972)",
+      "target": "Sci-fi"
+    },
+    {
+      "source": "Solaris (1972)",
+      "target": "Spazio"
+    },
+    {
+      "source": "Solaris (1972)",
+      "target": "Psicologia"
+    },
+    {
+      "source": "The Social Network",
+      "target": "Internet"
+    },
+    {
+      "source": "The Social Network",
+      "target": "Social Media"
+    },
+    {
+      "source": "The Social Network",
+      "target": "Biografico"
+    },
+    {
+      "source": "1984 (Nineteen Eighty-Four)",
+      "target": "Distopia (Totalitarismo)"
+    },
+    {
+      "source": "A Scanner Darkly - Un oscuro scrutare",
+      "target": "Distopia"
+    },
+    {
+      "source": "A Scanner Darkly - Un oscuro scrutare",
+      "target": "Digitale (Sorveglianza)"
+    },
+    {
+      "source": "A Scanner Darkly - Un oscuro scrutare",
+      "target": "Droga"
+    },
+    {
+      "source": "Akira",
+      "target": "Distopia"
+    },
+    {
+      "source": "Akira",
+      "target": "Cyberpunk"
+    },
+    {
+      "source": "Akira",
+      "target": "Anime"
+    },
+    {
+      "source": "Black Mirror: Bandersnatch",
+      "target": "Internet"
+    },
+    {
+      "source": "Black Mirror: Bandersnatch",
+      "target": "Digitale"
+    },
+    {
+      "source": "Black Mirror: Bandersnatch",
+      "target": "Interattivo"
+    },
+    {
+      "source": "Black Mirror: Bandersnatch",
+      "target": "Scelta"
+    },
+    {
+      "source": "Gattaca - La porta dell'universo",
+      "target": "Distopia (Genetica)"
+    },
+    {
+      "source": "Gattaca - La porta dell'universo",
+      "target": "Futuro"
+    },
+    {
+      "source": "Gattaca - La porta dell'universo",
+      "target": "Spazio"
+    },
+    {
+      "source": "Idiocracy",
+      "target": "Distopia"
+    },
+    {
+      "source": "Idiocracy",
+      "target": "Futuro"
+    },
+    {
+      "source": "Idiocracy",
+      "target": "Commedia"
+    },
+    {
+      "source": "Idiocracy",
+      "target": "Satira"
+    },
+    {
+      "source": "Il quinto elemento",
+      "target": "Futuro"
+    },
+    {
+      "source": "Il quinto elemento",
+      "target": "Sci-fi"
+    },
+    {
+      "source": "Il quinto elemento",
+      "target": "Azione"
+    },
+    {
+      "source": "Il quinto elemento",
+      "target": "Commedia"
+    },
+    {
+      "source": "Inception",
+      "target": "Futuro (tecnologia)"
+    },
+    {
+      "source": "Inception",
+      "target": "Digitale (sogni)"
+    },
+    {
+      "source": "Lord of War",
+      "target": "Traffico d'armi"
+    },
+    {
+      "source": "Lord of War",
+      "target": "Morale"
+    },
+    {
+      "source": "Lord of War",
+      "target": "Crimine"
+    },
+    {
+      "source": "Matrix",
+      "target": "AI"
+    },
+    {
+      "source": "Matrix",
+      "target": "Internet"
+    },
+    {
+      "source": "Matrix",
+      "target": "Distopia"
+    },
+    {
+      "source": "Matrix",
+      "target": "Simulazione"
+    },
+    {
+      "source": "Westworld (Il mondo dei robot)",
+      "target": "Robot"
+    },
+    {
+      "source": "Westworld (Il mondo dei robot)",
+      "target": "Futuro"
+    },
+    {
+      "source": "Westworld (Il mondo dei robot)",
+      "target": "Parco a tema"
+    },
+    {
+      "source": "Il tagliaerbe",
+      "target": "Digitale"
+    },
+    {
+      "source": "Il tagliaerbe",
+      "target": "VR"
+    },
+    {
+      "source": "Il tagliaerbe",
+      "target": "Intelligenza"
+    },
+    {
+      "source": "Nirvana",
+      "target": "Internet"
+    },
+    {
+      "source": "Nirvana",
+      "target": "Digitale"
+    },
+    {
+      "source": "Nirvana",
+      "target": "Videogiochi"
+    },
+    {
+      "source": "Nirvana",
+      "target": "AI"
+    },
+    {
+      "source": "Automata (Autómata)",
+      "target": "AI"
+    },
+    {
+      "source": "Automata (Autómata)",
+      "target": "Robot"
+    },
+    {
+      "source": "Automata (Autómata)",
+      "target": "Distopia"
+    },
+    {
+      "source": "Automata (Autómata)",
+      "target": "Futuro"
+    },
+    {
+      "source": "Dune (1984)",
+      "target": "Futuro"
+    },
+    {
+      "source": "Dune (1984)",
+      "target": "Distopia"
+    },
+    {
+      "source": "Dune (1984)",
+      "target": "Spazio"
+    },
+    {
+      "source": "Dune (1984)",
+      "target": "Politica"
+    },
+    {
+      "source": "Humandroid (Chappie)",
+      "target": "AI"
+    },
+    {
+      "source": "Humandroid (Chappie)",
+      "target": "Robot"
+    },
+    {
+      "source": "Humandroid (Chappie)",
+      "target": "Futuro"
+    },
+    {
+      "source": "2001: Odissea nello spazio",
+      "target": "AI"
+    },
+    {
+      "source": "2001: Odissea nello spazio",
+      "target": "Futuro"
+    },
+    {
+      "source": "2001: Odissea nello spazio",
+      "target": "Spazio"
+    },
+    {
+      "source": "2001: Odissea nello spazio",
+      "target": "Sci-fi"
+    },
+    {
+      "source": "Eva",
+      "target": "AI"
+    },
+    {
+      "source": "Eva",
+      "target": "Robot"
+    },
+    {
+      "source": "Eva",
+      "target": "Futuro"
+    },
+    {
+      "source": "Eva",
+      "target": "Etica"
+    },
+    {
+      "source": "Anon",
+      "target": "Futuro"
+    },
+    {
+      "source": "Anon",
+      "target": "Digitale (Sorveglianza)"
+    },
+    {
+      "source": "Anon",
+      "target": "Privacy"
+    },
+    {
+      "source": "Ghost in the Shell (2017)",
+      "target": "AI"
+    },
+    {
+      "source": "Ghost in the Shell (2017)",
+      "target": "Internet"
+    },
+    {
+      "source": "Ghost in the Shell (2017)",
+      "target": "Futuro"
+    },
+    {
+      "source": "Ghost in the Shell (2017)",
+      "target": "Cyberpunk"
+    },
+    {
+      "source": "A History of Violence",
+      "target": "Violenza"
+    },
+    {
+      "source": "A History of Violence",
+      "target": "Morale"
+    },
+    {
+      "source": "A History of Violence",
+      "target": "Identità"
+    },
+    {
+      "source": "A History of Violence",
+      "target": "Thriller"
+    },
+    {
+      "source": "Ad Astra",
+      "target": "Futuro"
+    },
+    {
+      "source": "Ad Astra",
+      "target": "Spazio"
+    },
+    {
+      "source": "Ad Astra",
+      "target": "Psicologia"
+    },
+    {
+      "source": "Ad Astra",
+      "target": "Famiglia"
+    },
+    {
+      "source": "Andromeda (The Andromeda Strain)",
+      "target": "Futuro"
+    },
+    {
+      "source": "Andromeda (The Andromeda Strain)",
+      "target": "Sci-fi"
+    },
+    {
+      "source": "Andromeda (The Andromeda Strain)",
+      "target": "Biologia"
+    },
+    {
+      "source": "Arancia meccanica",
+      "target": "Distopia (Controllo mentale)"
+    },
+    {
+      "source": "Arancia meccanica",
+      "target": "Violenza"
+    },
+    {
+      "source": "Blade Runner 2049",
+      "target": "AI"
+    },
+    {
+      "source": "Blade Runner 2049",
+      "target": "Distopia"
+    },
+    {
+      "source": "Blade Runner 2049",
+      "target": "Futuro"
+    },
+    {
+      "source": "Blade Runner 2049",
+      "target": "Robot"
+    },
+    {
+      "source": "Everything Everywhere All at Once",
+      "target": "Futuro (Multiverso)"
+    },
+    {
+      "source": "Everything Everywhere All at Once",
+      "target": "Digitale (temi)"
+    },
+    {
+      "source": "Fa' la cosa giusta",
+      "target": "Razzismo"
+    },
+    {
+      "source": "Fa' la cosa giusta",
+      "target": "Morale"
+    },
+    {
+      "source": "Fa' la cosa giusta",
+      "target": "Società"
+    },
+    {
+      "source": "Fa' la cosa giusta",
+      "target": "Dramma"
+    },
+    {
+      "source": "I figli degli uomini (Children of Men)",
+      "target": "Distopia (Infertilità)"
+    },
+    {
+      "source": "I figli degli uomini (Children of Men)",
+      "target": "Futuro"
+    },
+    {
+      "source": "Il caso Spotlight",
+      "target": "Giornalismo"
+    },
+    {
+      "source": "Il caso Spotlight",
+      "target": "Morale"
+    },
+    {
+      "source": "Il caso Spotlight",
+      "target": "Verità"
+    },
+    {
+      "source": "Il caso Spotlight",
+      "target": "Dramma"
+    },
+    {
+      "source": "Il Petroliere (There Will Be Blood)",
+      "target": "Ambizione"
+    },
+    {
+      "source": "Il Petroliere (There Will Be Blood)",
+      "target": "Morale"
+    },
+    {
+      "source": "Il Petroliere (There Will Be Blood)",
+      "target": "Capitalismo"
+    },
+    {
+      "source": "Il Petroliere (There Will Be Blood)",
+      "target": "Dramma"
+    },
+    {
+      "source": "Il Pianeta Proibito (Forbidden Planet)",
+      "target": "Futuro"
+    },
+    {
+      "source": "Il Pianeta Proibito (Forbidden Planet)",
+      "target": "Robot"
+    },
+    {
+      "source": "Il Pianeta Proibito (Forbidden Planet)",
+      "target": "Spazio"
+    },
+    {
+      "source": "Il Pianeta Proibito (Forbidden Planet)",
+      "target": "Sci-fi"
+    },
+    {
+      "source": "L'esercito delle 12 scimmie",
+      "target": "Distopia (Pandemia)"
+    },
+    {
+      "source": "L'esercito delle 12 scimmie",
+      "target": "Futuro"
+    },
+    {
+      "source": "L'esercito delle 12 scimmie",
+      "target": "Time T."
+    },
+    {
+      "source": "La vita futura (Things to Come)",
+      "target": "Futuro"
+    },
+    {
+      "source": "La vita futura (Things to Come)",
+      "target": "Distopia"
+    },
+    {
+      "source": "La vita futura (Things to Come)",
+      "target": "Guerra"
+    },
+    {
+      "source": "La vita futura (Things to Come)",
+      "target": "Progresso"
+    },
+    {
+      "source": "Looper",
+      "target": "Futuro"
+    },
+    {
+      "source": "Looper",
+      "target": "Time Travel"
+    },
+    {
+      "source": "Looper",
+      "target": "Azione"
+    },
+    {
+      "source": "Looper",
+      "target": "Morale"
+    },
+    {
+      "source": "Mad Max: Fury Road",
+      "target": "Distopia (Post-apoc.)"
+    },
+    {
+      "source": "Mad Max: Fury Road",
+      "target": "Futuro"
+    },
+    {
+      "source": "Mad Max: Fury Road",
+      "target": "Azione"
+    },
+    {
+      "source": "Terminator",
+      "target": "AI"
+    },
+    {
+      "source": "Terminator",
+      "target": "Robot"
+    },
+    {
+      "source": "Terminator",
+      "target": "Futuro"
+    },
+    {
+      "source": "Terminator",
+      "target": "Time Travel"
+    },
+    {
+      "source": "The Truman Show",
+      "target": "Distopia"
+    },
+    {
+      "source": "The Truman Show",
+      "target": "Digitale (Media)"
+    },
+    {
+      "source": "The Truman Show",
+      "target": "Controllo"
+    },
+    {
+      "source": "WALL•E",
+      "target": "Robot"
+    },
+    {
+      "source": "WALL•E",
+      "target": "Distopia"
+    },
+    {
+      "source": "WALL•E",
+      "target": "Futuro"
+    },
+    {
+      "source": "WALL•E",
+      "target": "Ecologia"
+    },
+    {
+      "source": "WarGames - Giochi di guerra",
+      "target": "AI"
+    },
+    {
+      "source": "WarGames - Giochi di guerra",
+      "target": "Internet"
+    },
+    {
+      "source": "WarGames - Giochi di guerra",
+      "target": "Guerra Fredda"
+    },
+    {
+      "source": "2022: i sopravvissuti (Soylent Green)",
+      "target": "Distopia (Sovrappopolazione)"
+    },
+    {
+      "source": "2022: i sopravvissuti (Soylent Green)",
+      "target": "Cibo"
+    },
+    {
+      "source": "A.I. - Intelligenza artificiale",
+      "target": "AI"
+    },
+    {
+      "source": "A.I. - Intelligenza artificiale",
+      "target": "Robot"
+    },
+    {
+      "source": "A.I. - Intelligenza artificiale",
+      "target": "Futuro"
+    },
+    {
+      "source": "A.I. - Intelligenza artificiale",
+      "target": "Etica"
+    },
+    {
+      "source": "Dark City",
+      "target": "Distopia (Manipolazione realtà)"
+    },
+    {
+      "source": "Dark City",
+      "target": "Noir"
+    },
+    {
+      "source": "Dune (2021)",
+      "target": "Futuro"
+    },
+    {
+      "source": "Dune (2021)",
+      "target": "Distopia"
+    },
+    {
+      "source": "Dune (2021)",
+      "target": "Spazio"
+    },
+    {
+      "source": "Dune (2021)",
+      "target": "Politica"
+    },
+    {
+      "source": "Edge of Tomorrow - Senza domani",
+      "target": "Futuro"
+    },
+    {
+      "source": "Edge of Tomorrow - Senza domani",
+      "target": "Sci-fi"
+    },
+    {
+      "source": "Edge of Tomorrow - Senza domani",
+      "target": "Time Loop"
+    },
+    {
+      "source": "Edge of Tomorrow - Senza domani",
+      "target": "Azione"
+    },
+    {
+      "source": "eXistenZ",
+      "target": "Internet"
+    },
+    {
+      "source": "eXistenZ",
+      "target": "Digitale"
+    },
+    {
+      "source": "eXistenZ",
+      "target": "VR"
+    },
+    {
+      "source": "eXistenZ",
+      "target": "Body Horror"
+    },
+    {
+      "source": "Il tredicesimo piano",
+      "target": "Internet"
+    },
+    {
+      "source": "Il tredicesimo piano",
+      "target": "Digitale"
+    },
+    {
+      "source": "Il tredicesimo piano",
+      "target": "Simulazione"
+    },
+    {
+      "source": "Interstellar",
+      "target": "Futuro"
+    },
+    {
+      "source": "Interstellar",
+      "target": "Spazio"
+    },
+    {
+      "source": "Interstellar",
+      "target": "Robot (TARS"
+    },
+    {
+      "source": "Interstellar",
+      "target": "CASE)"
+    },
+    {
+      "source": "Moon",
+      "target": "AI"
+    },
+    {
+      "source": "Moon",
+      "target": "Futuro"
+    },
+    {
+      "source": "Moon",
+      "target": "Spazio"
+    },
+    {
+      "source": "Moon",
+      "target": "Isolamento"
+    },
+    {
+      "source": "Ready Player One",
+      "target": "Internet"
+    },
+    {
+      "source": "Ready Player One",
+      "target": "Digitale"
+    },
+    {
+      "source": "Ready Player One",
+      "target": "Futuro"
+    },
+    {
+      "source": "Ready Player One",
+      "target": "VR"
+    },
+    {
+      "source": "RoboCop",
+      "target": "Robot (Cyborg)"
+    },
+    {
+      "source": "RoboCop",
+      "target": "Distopia"
+    },
+    {
+      "source": "RoboCop",
+      "target": "Azione"
+    },
+    {
+      "source": "Source Code",
+      "target": "AI"
+    },
+    {
+      "source": "Source Code",
+      "target": "Digitale"
+    },
+    {
+      "source": "Source Code",
+      "target": "Futuro"
+    },
+    {
+      "source": "Source Code",
+      "target": "Time Loop"
+    },
+    {
+      "source": "Strange Days",
+      "target": "Futuro"
+    },
+    {
+      "source": "Strange Days",
+      "target": "Digitale"
+    },
+    {
+      "source": "Strange Days",
+      "target": "Memoria"
+    },
+    {
+      "source": "Swan Song (2021)",
+      "target": "Futuro"
+    },
+    {
+      "source": "Swan Song (2021)",
+      "target": "Clonazione"
+    },
+    {
+      "source": "Swan Song (2021)",
+      "target": "Etica"
+    },
+    {
+      "source": "Swan Song (2021)",
+      "target": "Dramma"
+    },
+    {
+      "source": "The Lobster",
+      "target": "Distopia"
+    },
+    {
+      "source": "The Lobster",
+      "target": "Amore"
+    },
+    {
+      "source": "The Lobster",
+      "target": "Assurdità"
+    },
+    {
+      "source": "The Lobster",
+      "target": "Morale"
+    },
+    {
+      "source": "Total Recall (1990)",
+      "target": "Futuro"
+    },
+    {
+      "source": "Total Recall (1990)",
+      "target": "Digitale (memoria)"
+    },
+    {
+      "source": "Total Recall (1990)",
+      "target": "Azione"
+    },
+    {
+      "source": "Tron",
+      "target": "Internet"
+    },
+    {
+      "source": "Tron",
+      "target": "Digitale"
+    },
+    {
+      "source": "Tron",
+      "target": "Videogiochi"
+    },
+    {
+      "source": "Alita - Angelo della battaglia",
+      "target": "Robot (Cyborg)"
+    },
+    {
+      "source": "Alita - Angelo della battaglia",
+      "target": "Distopia"
+    },
+    {
+      "source": "Alita - Angelo della battaglia",
+      "target": "Azione"
+    },
+    {
+      "source": "Il mondo dei replicanti (Surrogates)",
+      "target": "Robot (Avatar)"
+    },
+    {
+      "source": "Il mondo dei replicanti (Surrogates)",
+      "target": "Digitale"
+    },
+    {
+      "source": "Il mondo dei replicanti (Surrogates)",
+      "target": "Futuro"
+    },
+    {
+      "source": "La fuga di Logan",
+      "target": "Distopia"
+    },
+    {
+      "source": "La fuga di Logan",
+      "target": "Futuro"
+    },
+    {
+      "source": "La fuga di Logan",
+      "target": "Controllo"
+    },
+    {
+      "source": "Oblivion",
+      "target": "Futuro"
+    },
+    {
+      "source": "Oblivion",
+      "target": "AI"
+    },
+    {
+      "source": "Oblivion",
+      "target": "Post-apoc."
+    },
+    {
+      "source": "Oblivion",
+      "target": "Mistero"
+    },
+    {
+      "source": "Real Steel",
+      "target": "Robot"
+    },
+    {
+      "source": "Real Steel",
+      "target": "Futuro"
+    },
+    {
+      "source": "Real Steel",
+      "target": "Pugilato"
+    },
+    {
+      "source": "Short Circuit (Corto circuito)",
+      "target": "Robot"
+    },
+    {
+      "source": "Short Circuit (Corto circuito)",
+      "target": "AI (emergente)"
+    },
+    {
+      "source": "Short Circuit (Corto circuito)",
+      "target": "Commedia"
+    },
+    {
+      "source": "The Island",
+      "target": "Distopia (Clonazione)"
+    },
+    {
+      "source": "The Island",
+      "target": "Azione"
+    },
+    {
+      "source": "The Net - Intrappolata nella rete",
+      "target": "Internet"
+    },
+    {
+      "source": "The Net - Intrappolata nella rete",
+      "target": "Digitale"
+    },
+    {
+      "source": "The Net - Intrappolata nella rete",
+      "target": "Thriller"
+    },
+    {
+      "source": "The Net - Intrappolata nella rete",
+      "target": "Privacy"
+    },
+    {
+      "source": "The Zero Theorem",
+      "target": "Futuro"
+    },
+    {
+      "source": "The Zero Theorem",
+      "target": "Digitale"
+    },
+    {
+      "source": "The Zero Theorem",
+      "target": "Distopia"
+    },
+    {
+      "source": "The Zero Theorem",
+      "target": "Filosofia"
+    },
+    {
+      "source": "Unfriended: Dark Web",
+      "target": "Internet"
+    },
+    {
+      "source": "Unfriended: Dark Web",
+      "target": "Digitale"
+    },
+    {
+      "source": "Unfriended: Dark Web",
+      "target": "Horror"
+    },
+    {
+      "source": "Unfriended: Dark Web",
+      "target": "Dark Web"
+    },
+    {
+      "source": "Zardoz",
+      "target": "Distopia"
+    },
+    {
+      "source": "Zardoz",
+      "target": "Futuro"
+    },
+    {
+      "source": "Zardoz",
+      "target": "Surrealismo"
+    },
+    {
+      "source": "Equilibrium",
+      "target": "Distopia (Controllo emotivo)"
+    },
+    {
+      "source": "Equilibrium",
+      "target": "Azione"
+    }
+  ]
+}
