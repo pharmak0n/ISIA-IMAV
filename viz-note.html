@@ -207,7 +207,7 @@
                     connectedItems.forEach(itemNode => {
                         const li = itemList.append('li').attr('class', 'list-group-item list-group-item-action');
                         if (itemNode.date) {
-                            li.append('h4').text(new Date(itemNode.date).toLocaleString());
+                            li.append('small').text(new Date(itemNode.date).toLocaleString());
                         }
                         li.append('p').text(itemNode.id);
                         li.datum(itemNode); // Associa i dati completi all'elemento li
