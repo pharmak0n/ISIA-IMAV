@@ -1,0 +1,4283 @@
+{
+ "name": "Collector",
+ "type": "private_supergroup",
+ "id": 2455166157,
+ "messages": [
+  {
+   "id": -999779738,
+   "type": "service",
+   "date": "2024-12-05T19:27:00",
+   "date_unixtime": "1733423220",
+   "actor": "Antonello Lipori",
+   "actor_id": "user12856895",
+   "action": "create_group",
+   "title": "Collector",
+   "members": [
+    "Antonello Lipori",
+    "Federico Parrella",
+    "Francesco Ulleri"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999779737,
+   "type": "service",
+   "date": "2024-12-05T19:27:01",
+   "date_unixtime": "1733423221",
+   "actor": "Antonello Lipori",
+   "actor_id": "user12856895",
+   "action": "edit_group_photo",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 35102,
+   "width": 640,
+   "height": 640,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999779736,
+   "type": "message",
+   "date": "2024-12-05T20:38:06",
+   "date_unixtime": "1733427486",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "Buonasera,\nHo creato il gruppo per collezionare link utili e belli. Il nome non è granché, l'ho scelto al volo, accetto proposte.\n\nL'idea è quella di collezionare link utili e belli qui. Con ",
+    {
+     "type": "mention",
+     "text": "@Hoodead"
+    },
+    " parlavamo oggi di fare qualche test e agganciare un bot che possa salvare i link altrove strutturandoli in un db relazionale stile obsidian (o simili)"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Buonasera,\nHo creato il gruppo per collezionare link utili e belli. Il nome non è granché, l'ho scelto al volo, accetto proposte.\n\nL'idea è quella di collezionare link utili e belli qui. Con "
+    },
+    {
+     "type": "mention",
+     "text": "@Hoodead"
+    },
+    {
+     "type": "plain",
+     "text": " parlavamo oggi di fare qualche test e agganciare un bot che possa salvare i link altrove strutturandoli in un db relazionale stile obsidian (o simili)"
+    }
+   ]
+  },
+  {
+   "id": -999779735,
+   "type": "message",
+   "date": "2024-12-05T20:39:06",
+   "date_unixtime": "1733427546",
+   "edited": "2024-12-05T20:39:46",
+   "edited_unixtime": "1733427586",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": "Vi consiglio di silenziare il gruppo, tendenzialmente vedo e mi appunto cose la notte, se so che non disturbo li aggiungo, se so che disturbo non li carico più 😀",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Vi consiglio di silenziare il gruppo, tendenzialmente vedo e mi appunto cose la notte, se so che non disturbo li aggiungo, se so che disturbo non li carico più 😀"
+    }
+   ]
+  },
+  {
+   "id": -999779734,
+   "type": "message",
+   "date": "2024-12-05T20:39:53",
+   "date_unixtime": "1733427593",
+   "from": "Federico Parrella",
+   "from_id": "user28679887",
+   "text": "Bello, grazie!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Bello, grazie!"
+    }
+   ]
+  },
+  {
+   "id": -999779732,
+   "type": "service",
+   "date": "2024-12-05T20:41:29",
+   "date_unixtime": "1733427689",
+   "actor": "Antonello Lipori",
+   "actor_id": "user12856895",
+   "action": "migrate_to_supergroup",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 1,
+   "type": "service",
+   "date": "2024-12-05T20:41:29",
+   "date_unixtime": "1733427689",
+   "actor": "Collector",
+   "actor_id": "channel2455166157",
+   "action": "migrate_from_group",
+   "title": "Collector",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 2,
+   "type": "message",
+   "date": "2024-12-06T07:59:48",
+   "date_unixtime": "1733468388",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://codepen.io/meodai/full/XWXyoYK?s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://codepen.io/meodai/full/XWXyoYK?s=35"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "type": "message",
+   "date": "2024-12-06T08:02:06",
+   "date_unixtime": "1733468526",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://github.com/Tencent/HunyuanVideo?s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://github.com/Tencent/HunyuanVideo?s=35"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "type": "message",
+   "date": "2024-12-06T20:44:47",
+   "date_unixtime": "1733514287",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://x.com/hollyherndon/status/1865087479444812264?t=VyyYY04151xJuzPJK56saw&s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://x.com/hollyherndon/status/1865087479444812264?t=VyyYY04151xJuzPJK56saw&s=35"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "type": "message",
+   "date": "2024-12-06T21:46:05",
+   "date_unixtime": "1733517965",
+   "from": "Francesco Ulleri",
+   "from_id": "user149445717",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://www.kaggle.com/datasets/fernandogarciah24/top-1000-imdb-dataset"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://www.kaggle.com/datasets/fernandogarciah24/top-1000-imdb-dataset"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "type": "message",
+   "date": "2024-12-10T19:06:34",
+   "date_unixtime": "1733853994",
+   "from": "Federico Parrella",
+   "from_id": "user28679887",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://github.com/amineyarman/Kinesis.js"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://github.com/amineyarman/Kinesis.js"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "type": "message",
+   "date": "2024-12-10T19:09:14",
+   "date_unixtime": "1733854154",
+   "from": "Federico Parrella",
+   "from_id": "user28679887",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://markwhen.com"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://markwhen.com"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "type": "message",
+   "date": "2024-12-11T10:21:25",
+   "date_unixtime": "1733908885",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://github.com/bjesus/pipet?s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://github.com/bjesus/pipet?s=35"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "type": "message",
+   "date": "2024-12-11T10:21:44",
+   "date_unixtime": "1733908904",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://github.com/AugustDev/enchanted?s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://github.com/AugustDev/enchanted?s=35"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "type": "message",
+   "date": "2024-12-11T10:22:09",
+   "date_unixtime": "1733908929",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://github.com/jasonppy/VoiceCraft?s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://github.com/jasonppy/VoiceCraft?s=35"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "type": "message",
+   "date": "2024-12-11T10:24:18",
+   "date_unixtime": "1733909058",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://github.com/AykutSarac/jsoncrack.com?s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://github.com/AykutSarac/jsoncrack.com?s=35"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "type": "message",
+   "date": "2024-12-11T10:25:10",
+   "date_unixtime": "1733909110",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://uxdesign.cc/understanding-css-clamp-for-typography-a-guide-for-ui-designers-6f522c2ed90f?s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://uxdesign.cc/understanding-css-clamp-for-typography-a-guide-for-ui-designers-6f522c2ed90f?s=35"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "type": "message",
+   "date": "2024-12-11T10:40:46",
+   "date_unixtime": "1733910046",
+   "from": "Francesco Ulleri",
+   "from_id": "user149445717",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://colab.google/"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://colab.google/"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "type": "message",
+   "date": "2024-12-11T11:09:46",
+   "date_unixtime": "1733911786",
+   "from": "Federico Parrella",
+   "from_id": "user28679887",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://upscayl.org"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://upscayl.org"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "type": "message",
+   "date": "2024-12-11T11:10:07",
+   "date_unixtime": "1733911807",
+   "from": "Federico Parrella",
+   "from_id": "user28679887",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://github.com/danielgatis/rembg"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://github.com/danielgatis/rembg"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "type": "message",
+   "date": "2024-12-11T11:10:30",
+   "date_unixtime": "1733911830",
+   "from": "Federico Parrella",
+   "from_id": "user28679887",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://github.com/lllyasviel/Fooocus"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://github.com/lllyasviel/Fooocus"
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "type": "message",
+   "date": "2024-12-11T11:11:02",
+   "date_unixtime": "1733911862",
+   "from": "Federico Parrella",
+   "from_id": "user28679887",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://ultimatevocalremover.com"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://ultimatevocalremover.com"
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "type": "message",
+   "date": "2024-12-11T11:11:26",
+   "date_unixtime": "1733911886",
+   "from": "Federico Parrella",
+   "from_id": "user28679887",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://ollama.com"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://ollama.com"
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "type": "message",
+   "date": "2024-12-11T11:11:53",
+   "date_unixtime": "1733911913",
+   "from": "Federico Parrella",
+   "from_id": "user28679887",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://github.com/QwenLM/Qwen2.5"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://github.com/QwenLM/Qwen2.5"
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "type": "message",
+   "date": "2024-12-11T12:58:26",
+   "date_unixtime": "1733918306",
+   "edited": "2024-12-11T20:11:41",
+   "edited_unixtime": "1733944301",
+   "from": "Federico Parrella",
+   "from_id": "user28679887",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://www.shapeof.ai"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://www.shapeof.ai"
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 1,
+      "emoji": "❤",
+      "recent": [
+       {
+        "from": "Antonello Lipori",
+        "from_id": "user12856895",
+        "date": "2024-12-11T20:11:41"
+       }
+      ]
+     }
+    ]
+  },
+  {
+   "id": 25,
+   "type": "message",
+   "date": "2024-12-11T20:10:35",
+   "date_unixtime": "1733944235",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "L'AI sta facendo impazzire i programmatori open source | Wired Italia\n",
+    {
+     "type": "link",
+     "text": "https://www.wired.it/article/ai-bug-programmatori-open-source/"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "L'AI sta facendo impazzire i programmatori open source | Wired Italia\n"
+    },
+    {
+     "type": "link",
+     "text": "https://www.wired.it/article/ai-bug-programmatori-open-source/"
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "type": "message",
+   "date": "2024-12-12T10:29:56",
+   "date_unixtime": "1733995796",
+   "from": "Francesco Ulleri",
+   "from_id": "user149445717",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://fontsinmovies.com/"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://fontsinmovies.com/"
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "type": "message",
+   "date": "2024-12-12T19:10:46",
+   "date_unixtime": "1734027046",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "The Octalysis Framework for Gamification & Behavioral Design\n",
+    {
+     "type": "link",
+     "text": "https://yukaichou.com/gamification-examples/octalysis-complete-gamification-framework/"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "The Octalysis Framework for Gamification & Behavioral Design\n"
+    },
+    {
+     "type": "link",
+     "text": "https://yukaichou.com/gamification-examples/octalysis-complete-gamification-framework/"
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "type": "message",
+   "date": "2024-12-13T22:20:46",
+   "date_unixtime": "1734124846",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "Google's Project Aristotle - Psych Safety\n",
+    {
+     "type": "link",
+     "text": "https://psychsafety.co.uk/googles-project-aristotle/"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Google's Project Aristotle - Psych Safety\n"
+    },
+    {
+     "type": "link",
+     "text": "https://psychsafety.co.uk/googles-project-aristotle/"
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "type": "message",
+   "date": "2024-12-15T17:17:32",
+   "date_unixtime": "1734279452",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://github.com/microsoft/markitdown?s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://github.com/microsoft/markitdown?s=35"
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "type": "message",
+   "date": "2024-12-17T23:31:08",
+   "date_unixtime": "1734474668",
+   "edited": "2024-12-17T23:31:15",
+   "edited_unixtime": "1734474675",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://loopsandlogic.com/"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://loopsandlogic.com/"
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "type": "message",
+   "date": "2024-12-18T09:29:37",
+   "date_unixtime": "1734510577",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "Intelligenza artificiale, Harvard lancerà un enorme dataset gratuito per l'addestramento | Wired Italia\n",
+    {
+     "type": "link",
+     "text": "https://www.wired.it/article/intelligenza-artificiale-harvard-dataset-gratuito-addestramento/"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Intelligenza artificiale, Harvard lancerà un enorme dataset gratuito per l'addestramento | Wired Italia\n"
+    },
+    {
+     "type": "link",
+     "text": "https://www.wired.it/article/intelligenza-artificiale-harvard-dataset-gratuito-addestramento/"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "type": "message",
+   "date": "2024-12-18T22:15:10",
+   "date_unixtime": "1734556510",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://renyuan.io/commit/?s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://renyuan.io/commit/?s=35"
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "type": "message",
+   "date": "2024-12-19T01:03:20",
+   "date_unixtime": "1734566600",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://x.com/MrPrudence/status/1869314047730131445?t=Yk20VyZEusRdawRHPlwJKw&s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://x.com/MrPrudence/status/1869314047730131445?t=Yk20VyZEusRdawRHPlwJKw&s=35"
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "type": "message",
+   "date": "2024-12-21T19:48:57",
+   "date_unixtime": "1734806937",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "Elden Ring è stato completamente ricreato usando Excel - ",
+    {
+     "type": "link",
+     "text": "Multiplayer.it"
+    },
+    "\n",
+    {
+     "type": "link",
+     "text": "https://multiplayer.it/notizie/elden-ring-e-stato-completamente-ricreato-usando-excel.html"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Elden Ring è stato completamente ricreato usando Excel - "
+    },
+    {
+     "type": "link",
+     "text": "Multiplayer.it"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "link",
+     "text": "https://multiplayer.it/notizie/elden-ring-e-stato-completamente-ricreato-usando-excel.html"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "type": "message",
+   "date": "2024-12-23T23:29:16",
+   "date_unixtime": "1734992956",
+   "from": "Francesco Ulleri",
+   "from_id": "user149445717",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://boardgamedesignlab.com/mechanism-master-list/"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://boardgamedesignlab.com/mechanism-master-list/"
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "type": "message",
+   "date": "2024-12-24T00:27:21",
+   "date_unixtime": "1734996441",
+   "from": "Francesco Ulleri",
+   "from_id": "user149445717",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://anydice.com/"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://anydice.com/"
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "type": "message",
+   "date": "2024-12-24T00:35:34",
+   "date_unixtime": "1734996934",
+   "from": "Francesco Ulleri",
+   "from_id": "user149445717",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://game-icons.net/"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://game-icons.net/"
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "type": "message",
+   "date": "2024-12-26T14:07:19",
+   "date_unixtime": "1735218439",
+   "from": "Francesco Ulleri",
+   "from_id": "user149445717",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://www.si.edu/OpenAccess"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://www.si.edu/OpenAccess"
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "type": "message",
+   "date": "2024-12-26T14:07:20",
+   "date_unixtime": "1735218440",
+   "from": "Francesco Ulleri",
+   "from_id": "user149445717",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://picryl.com/"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://picryl.com/"
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "type": "message",
+   "date": "2024-12-29T16:12:56",
+   "date_unixtime": "1735485176",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "Collection of Benjamin Palmer, if no yes .com by rafaël rozendaal, 2013\n",
+    {
+     "type": "link",
+     "text": "https://ifnoyes.com/"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Collection of Benjamin Palmer, if no yes .com by rafaël rozendaal, 2013\n"
+    },
+    {
+     "type": "link",
+     "text": "https://ifnoyes.com/"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "type": "message",
+   "date": "2024-12-29T16:13:11",
+   "date_unixtime": "1735485191",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "L’installazione digitale di Rafaël Rozendaal al MoMA di New York\n",
+    {
+     "type": "link",
+     "text": "https://www.artribune.com/progettazione/new-media/2024/12/installazione-digitale-rafael-rozendaal-moma-new-york/"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "L’installazione digitale di Rafaël Rozendaal al MoMA di New York\n"
+    },
+    {
+     "type": "link",
+     "text": "https://www.artribune.com/progettazione/new-media/2024/12/installazione-digitale-rafael-rozendaal-moma-new-york/"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "type": "message",
+   "date": "2024-12-29T19:29:36",
+   "date_unixtime": "1735496976",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "Rafaël Rozendaal\n",
+    {
+     "type": "link",
+     "text": "https://www.newrafael.com/"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Rafaël Rozendaal\n"
+    },
+    {
+     "type": "link",
+     "text": "https://www.newrafael.com/"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "type": "message",
+   "date": "2024-12-29T19:33:23",
+   "date_unixtime": "1735497203",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "Collection of Stedelijk Museum, Amsterdam - Abstract Browsing by Rafaël Rozendaal, 2014\n",
+    {
+     "type": "link",
+     "text": "https://www.abstractbrowsing.net/"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Collection of Stedelijk Museum, Amsterdam - Abstract Browsing by Rafaël Rozendaal, 2014\n"
+    },
+    {
+     "type": "link",
+     "text": "https://www.abstractbrowsing.net/"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "type": "message",
+   "date": "2024-12-30T14:39:49",
+   "date_unixtime": "1735565989",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://x.com/hamptonism/status/1873494956524085675?t=agjjPDoDHaRuRDjMJrQmLg&s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://x.com/hamptonism/status/1873494956524085675?t=agjjPDoDHaRuRDjMJrQmLg&s=35"
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "type": "message",
+   "date": "2024-12-31T15:43:31",
+   "date_unixtime": "1735656211",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://github.com/microsoft/markitdown?s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://github.com/microsoft/markitdown?s=35"
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "type": "message",
+   "date": "2025-01-08T19:13:15",
+   "date_unixtime": "1736359995",
+   "from": "Federico Parrella",
+   "from_id": "user28679887",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://landin.gs/tools/type-scale-generator/"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://landin.gs/tools/type-scale-generator/"
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "type": "message",
+   "date": "2025-01-11T22:49:51",
+   "date_unixtime": "1736632191",
+   "from": "Francesco Ulleri",
+   "from_id": "user149445717",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://nlp.uniroma1.it/minerva/"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://nlp.uniroma1.it/minerva/"
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "type": "message",
+   "date": "2025-01-12T20:55:42",
+   "date_unixtime": "1736711742",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://x.com/deedydas/status/1878472012819284195?t=G30_Kwr9054GnGKwCZVjqA&s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://x.com/deedydas/status/1878472012819284195?t=G30_Kwr9054GnGKwCZVjqA&s=35"
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "type": "message",
+   "date": "2025-01-17T22:17:35",
+   "date_unixtime": "1737148655",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://x.com/rohanpaul_ai/status/1880184389218496770?t=MdaIok5eFfn08juiTuNv4A&s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://x.com/rohanpaul_ai/status/1880184389218496770?t=MdaIok5eFfn08juiTuNv4A&s=35"
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "type": "message",
+   "date": "2025-01-20T10:22:10",
+   "date_unixtime": "1737364930",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://www.aalto.fi/en/nokia-design-archive"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://www.aalto.fi/en/nokia-design-archive"
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "type": "message",
+   "date": "2025-01-22T13:28:16",
+   "date_unixtime": "1737548896",
+   "from": "Francesco Ulleri",
+   "from_id": "user149445717",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://whishper.net/"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://whishper.net/"
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "type": "message",
+   "date": "2025-01-22T13:29:12",
+   "date_unixtime": "1737548952",
+   "from": "Francesco Ulleri",
+   "from_id": "user149445717",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://scriberr.app/"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://scriberr.app/"
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "type": "message",
+   "date": "2025-01-22T13:37:48",
+   "date_unixtime": "1737549468",
+   "from": "Francesco Ulleri",
+   "from_id": "user149445717",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://github.com/anvaka/graph-drawing-libraries"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://github.com/anvaka/graph-drawing-libraries"
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "type": "message",
+   "date": "2025-01-23T22:50:57",
+   "date_unixtime": "1737669057",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "Zeroth Bot Dev Kit - The World's Most Accessible Humanoid for AI - Launching Soon on Kickstarter!\n",
+    {
+     "type": "link",
+     "text": "https://pre-launch.grandjourney.ai/?fbclid=PAZXh0bgNhZW0BMABhZGlkAasWUsBzmSYBphNkQc_e6l_LlHaz8FVUsUpCdfTTn4rGNcpLnu2D9wl0_T4EfQ4miMMQ5w_aem_Opnl3jyqsKabwh2r0U2mbA&utm_source=facebook&utm_medium=paid&campaign_id=120214291234600774&ad_id=120214320121160774"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Zeroth Bot Dev Kit - The World's Most Accessible Humanoid for AI - Launching Soon on Kickstarter!\n"
+    },
+    {
+     "type": "link",
+     "text": "https://pre-launch.grandjourney.ai/?fbclid=PAZXh0bgNhZW0BMABhZGlkAasWUsBzmSYBphNkQc_e6l_LlHaz8FVUsUpCdfTTn4rGNcpLnu2D9wl0_T4EfQ4miMMQ5w_aem_Opnl3jyqsKabwh2r0U2mbA&utm_source=facebook&utm_medium=paid&campaign_id=120214291234600774&ad_id=120214320121160774"
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "type": "message",
+   "date": "2025-01-27T20:05:59",
+   "date_unixtime": "1738004759",
+   "from": "Francesco Ulleri",
+   "from_id": "user149445717",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://github.com/dnhkng/GLaDOS"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://github.com/dnhkng/GLaDOS"
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "type": "message",
+   "date": "2025-01-28T13:59:56",
+   "date_unixtime": "1738069196",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://github.com/gcui-art/markdown-to-image?s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://github.com/gcui-art/markdown-to-image?s=35"
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "type": "message",
+   "date": "2025-01-29T18:58:11",
+   "date_unixtime": "1738173491",
+   "edited": "2025-01-29T19:09:14",
+   "edited_unixtime": "1738174154",
+   "from": "Francesco Ulleri",
+   "from_id": "user149445717",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://www.learnhouse.app/"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://www.learnhouse.app/"
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 1,
+      "emoji": "🔥",
+      "recent": [
+       {
+        "from": "Federico Parrella",
+        "from_id": "user28679887",
+        "date": "2025-01-29T19:09:14"
+       }
+      ]
+     }
+    ]
+  },
+  {
+   "id": 58,
+   "type": "message",
+   "date": "2025-01-30T12:26:17",
+   "date_unixtime": "1738236377",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://github.com/knadh/tg-archive"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://github.com/knadh/tg-archive"
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "type": "message",
+   "date": "2025-01-31T20:05:10",
+   "date_unixtime": "1738350310",
+   "from": "Francesco Ulleri",
+   "from_id": "user149445717",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://revealjs.com/"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://revealjs.com/"
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "type": "message",
+   "date": "2025-02-01T08:04:13",
+   "date_unixtime": "1738393453",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "The Minimal Company | Live More, Scroll Less.\n",
+    {
+     "type": "link",
+     "text": "https://minimalcompany.com/"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "The Minimal Company | Live More, Scroll Less.\n"
+    },
+    {
+     "type": "link",
+     "text": "https://minimalcompany.com/"
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "type": "message",
+   "date": "2025-02-01T22:01:34",
+   "date_unixtime": "1738443694",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://github.com/ggml-org/llama.vscode?s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://github.com/ggml-org/llama.vscode?s=35"
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "type": "message",
+   "date": "2025-02-03T20:55:48",
+   "date_unixtime": "1738612548",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "European Citizens' Initiative - Statements of support collected online\n",
+    {
+     "type": "link",
+     "text": "https://eci.ec.europa.eu/045/public/#/screen/home"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "European Citizens' Initiative - Statements of support collected online\n"
+    },
+    {
+     "type": "link",
+     "text": "https://eci.ec.europa.eu/045/public/#/screen/home"
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "type": "message",
+   "date": "2025-02-10T14:44:05",
+   "date_unixtime": "1739195045",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "Lo studio shock sui CAPTCHA: il lato oscuro della sicurezza - Tom's Hardware\n",
+    {
+     "type": "link",
+     "text": "https://www.tomshw.it/hardware/lo-studio-shock-sui-captcha-il-lato-oscuro-della-sicurezza-2025-02-09"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lo studio shock sui CAPTCHA: il lato oscuro della sicurezza - Tom's Hardware\n"
+    },
+    {
+     "type": "link",
+     "text": "https://www.tomshw.it/hardware/lo-studio-shock-sui-captcha-il-lato-oscuro-della-sicurezza-2025-02-09"
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "type": "message",
+   "date": "2025-02-14T11:47:51",
+   "date_unixtime": "1739530071",
+   "from": "Federico Parrella",
+   "from_id": "user28679887",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://5adesign.notion.site/PNA-Digital-traccia-dell-incontro-del-14-02-2026-19a98ea4938080ca85cfc29039bfb1e1?pvs=4"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://5adesign.notion.site/PNA-Digital-traccia-dell-incontro-del-14-02-2026-19a98ea4938080ca85cfc29039bfb1e1?pvs=4"
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "type": "message",
+   "date": "2025-02-16T13:35:42",
+   "date_unixtime": "1739709342",
+   "from": "Francesco Ulleri",
+   "from_id": "user149445717",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://www.gbstudio.dev/"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://www.gbstudio.dev/"
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "type": "message",
+   "date": "2025-02-19T22:59:28",
+   "date_unixtime": "1740002368",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://juggl.io/"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://juggl.io/"
+    }
+   ]
+  },
+  {
+   "id": 67,
+   "type": "message",
+   "date": "2025-02-19T23:01:07",
+   "date_unixtime": "1740002467",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://publish.obsidian.md/breadcrumbs-docs/Home"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://publish.obsidian.md/breadcrumbs-docs/Home"
+    }
+   ]
+  },
+  {
+   "id": 68,
+   "type": "message",
+   "date": "2025-02-21T17:40:06",
+   "date_unixtime": "1740156006",
+   "from": "Francesco Ulleri",
+   "from_id": "user149445717",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://www.oreilly.com/openbook/opensources/book/"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://www.oreilly.com/openbook/opensources/book/"
+    }
+   ]
+  },
+  {
+   "id": 69,
+   "type": "message",
+   "date": "2025-02-24T19:56:02",
+   "date_unixtime": "1740423362",
+   "from": "Francesco Ulleri",
+   "from_id": "user149445717",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://smallweb.cc/"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://smallweb.cc/"
+    }
+   ]
+  },
+  {
+   "id": 70,
+   "type": "message",
+   "date": "2025-03-05T06:56:52",
+   "date_unixtime": "1741154212",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://youthful-fan-3d7.notion.site/3923866a194a443abe53bf4816915452?v=37a4ff8ac3934f49814b8b59f7432a72&s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://youthful-fan-3d7.notion.site/3923866a194a443abe53bf4816915452?v=37a4ff8ac3934f49814b8b59f7432a72&s=35"
+    }
+   ]
+  },
+  {
+   "id": 71,
+   "type": "message",
+   "date": "2025-03-05T18:11:33",
+   "date_unixtime": "1741194693",
+   "from": "Francesco Ulleri",
+   "from_id": "user149445717",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://github.com/VikParuchuri/marker?tab=readme-ov-file"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://github.com/VikParuchuri/marker?tab=readme-ov-file"
+    }
+   ]
+  },
+  {
+   "id": 72,
+   "type": "message",
+   "date": "2025-03-12T22:46:27",
+   "date_unixtime": "1741815987",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://www.makingsoftware.com/?s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://www.makingsoftware.com/?s=35"
+    }
+   ]
+  },
+  {
+   "id": 73,
+   "type": "message",
+   "date": "2025-03-12T22:50:50",
+   "date_unixtime": "1741816250",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "Dan Hollick (",
+    {
+     "type": "mention",
+     "text": "@DanHollick"
+    },
+    ")\n",
+    {
+     "type": "link",
+     "text": "https://typefully.com/DanHollick"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Dan Hollick ("
+    },
+    {
+     "type": "mention",
+     "text": "@DanHollick"
+    },
+    {
+     "type": "plain",
+     "text": ")\n"
+    },
+    {
+     "type": "link",
+     "text": "https://typefully.com/DanHollick"
+    }
+   ]
+  },
+  {
+   "id": 74,
+   "type": "message",
+   "date": "2025-03-20T17:54:01",
+   "date_unixtime": "1742489641",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://x.com/kimmonismus/status/1902234320380563813?t=pjBw_xUsyRJtvw42fFDhZQ&s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://x.com/kimmonismus/status/1902234320380563813?t=pjBw_xUsyRJtvw42fFDhZQ&s=35"
+    }
+   ]
+  },
+  {
+   "id": 75,
+   "type": "message",
+   "date": "2025-03-21T22:48:50",
+   "date_unixtime": "1742593730",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "Getting Started with AutoGluon: Your First Steps in Automated Machine Learning - KDnuggets\n",
+    {
+     "type": "link",
+     "text": "https://www.kdnuggets.com/getting-started-with-autogluon-your-first-steps-in-automated-machine-learning"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Getting Started with AutoGluon: Your First Steps in Automated Machine Learning - KDnuggets\n"
+    },
+    {
+     "type": "link",
+     "text": "https://www.kdnuggets.com/getting-started-with-autogluon-your-first-steps-in-automated-machine-learning"
+    }
+   ]
+  },
+  {
+   "id": 76,
+   "type": "message",
+   "date": "2025-03-21T22:52:59",
+   "date_unixtime": "1742593979",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "Quick Reminder That :is() and :where() Are Basically the Same With One Key Difference | CSS-Tricks\n",
+    {
+     "type": "link",
+     "text": "https://css-tricks.com/quick-reminder-that-is-and-where-are-basically-the-same-with-one-key-difference/"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Quick Reminder That :is() and :where() Are Basically the Same With One Key Difference | CSS-Tricks\n"
+    },
+    {
+     "type": "link",
+     "text": "https://css-tricks.com/quick-reminder-that-is-and-where-are-basically-the-same-with-one-key-difference/"
+    }
+   ]
+  },
+  {
+   "id": 77,
+   "type": "message",
+   "date": "2025-03-22T09:40:11",
+   "date_unixtime": "1742632811",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://www.instagram.com/reel/DDnVzP0ih3y/?igsh=c3J2eW1odTJ0a2hs"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://www.instagram.com/reel/DDnVzP0ih3y/?igsh=c3J2eW1odTJ0a2hs"
+    }
+   ]
+  },
+  {
+   "id": 78,
+   "type": "message",
+   "date": "2025-03-22T09:40:39",
+   "date_unixtime": "1742632839",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://www.instagram.com/atype_movement?igsh=MWFldTEzZDRwbjYxeQ=="
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://www.instagram.com/atype_movement?igsh=MWFldTEzZDRwbjYxeQ=="
+    }
+   ]
+  },
+  {
+   "id": 79,
+   "type": "message",
+   "date": "2025-03-22T21:52:11",
+   "date_unixtime": "1742676731",
+   "edited": "2025-03-23T12:00:20",
+   "edited_unixtime": "1742727620",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://x.com/MengTo/status/1903316180045337073?t=2R08qx6a5Bbs3BLNZ1knqw&s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://x.com/MengTo/status/1903316180045337073?t=2R08qx6a5Bbs3BLNZ1knqw&s=35"
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 1,
+      "emoji": "👍",
+      "recent": [
+       {
+        "from": "Antonello Lipori",
+        "from_id": "user12856895",
+        "date": "2025-03-23T12:00:20"
+       }
+      ]
+     }
+    ]
+  },
+  {
+   "id": 80,
+   "type": "message",
+   "date": "2025-03-22T21:55:35",
+   "date_unixtime": "1742676935",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://www.nngroup.com/articles/free-ux-templates/?s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://www.nngroup.com/articles/free-ux-templates/?s=35"
+    }
+   ]
+  },
+  {
+   "id": 81,
+   "type": "message",
+   "date": "2025-03-23T13:49:51",
+   "date_unixtime": "1742734191",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "file": "files/Careless People (Sarah Wynn).epub",
+   "file_name": "Careless People (Sarah Wynn).epub",
+   "file_size": 1012695,
+   "mime_type": "application/epub+zip",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 82,
+   "type": "message",
+   "date": "2025-03-31T21:15:52",
+   "date_unixtime": "1743448552",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://x.com/godofprompt/status/1906102689051861270?t=7kdZ6wuahtx-B77ULIQx6A&s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://x.com/godofprompt/status/1906102689051861270?t=7kdZ6wuahtx-B77ULIQx6A&s=35"
+    }
+   ]
+  },
+  {
+   "id": 83,
+   "type": "message",
+   "date": "2025-04-02T20:24:40",
+   "date_unixtime": "1743618280",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://x.com/BrivaelLp/status/1907417574339465490?t=cxGsHbeB3lWME1gUfJKApQ&s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://x.com/BrivaelLp/status/1907417574339465490?t=cxGsHbeB3lWME1gUfJKApQ&s=35"
+    }
+   ]
+  },
+  {
+   "id": 84,
+   "type": "message",
+   "date": "2025-04-03T16:11:05",
+   "date_unixtime": "1743689465",
+   "from": "Francesco Ulleri",
+   "from_id": "user149445717",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://hitomezashi.com/"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://hitomezashi.com/"
+    }
+   ]
+  },
+  {
+   "id": 85,
+   "type": "message",
+   "date": "2025-04-06T08:28:45",
+   "date_unixtime": "1743920925",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://x.com/mdancho84/status/1908545574200135775?t=lpryzrarjinSvXvCFxDbOQ&s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://x.com/mdancho84/status/1908545574200135775?t=lpryzrarjinSvXvCFxDbOQ&s=35"
+    }
+   ]
+  },
+  {
+   "id": 86,
+   "type": "message",
+   "date": "2025-04-06T18:19:01",
+   "date_unixtime": "1743956341",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "Navbar Gallery – Navigation Design Inspiration\n",
+    {
+     "type": "link",
+     "text": "https://www.navbar.gallery/"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Navbar Gallery – Navigation Design Inspiration\n"
+    },
+    {
+     "type": "link",
+     "text": "https://www.navbar.gallery/"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 87,
+   "type": "message",
+   "date": "2025-04-07T14:10:03",
+   "date_unixtime": "1744027803",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://x.com/mdancho84/status/1908906456146989226?t=P7qOEtxaacr7ihHk8PbK1A&s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://x.com/mdancho84/status/1908906456146989226?t=P7qOEtxaacr7ihHk8PbK1A&s=35"
+    }
+   ]
+  },
+  {
+   "id": 88,
+   "type": "message",
+   "date": "2025-04-09T00:18:04",
+   "date_unixtime": "1744150684",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://catalogue.projectsbyif.com/?s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://catalogue.projectsbyif.com/?s=35"
+    }
+   ]
+  },
+  {
+   "id": 89,
+   "type": "message",
+   "date": "2025-04-09T18:51:23",
+   "date_unixtime": "1744217483",
+   "from": "Francesco Ulleri",
+   "from_id": "user149445717",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://dark.netflix.io/"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://dark.netflix.io/"
+    }
+   ]
+  },
+  {
+   "id": 90,
+   "type": "message",
+   "date": "2025-04-09T19:21:50",
+   "date_unixtime": "1744219310",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://x.com/davidm_ml/status/1909863649096749082?t=QgRB3SY64g6deIx_2WwifQ&s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://x.com/davidm_ml/status/1909863649096749082?t=QgRB3SY64g6deIx_2WwifQ&s=35"
+    }
+   ]
+  },
+  {
+   "id": 91,
+   "type": "message",
+   "date": "2025-04-12T16:31:24",
+   "date_unixtime": "1744468284",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://x.com/poetengineer__/status/1910057249378099667?t=iw-t_AYakexiN3Mvzk1e6A&s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://x.com/poetengineer__/status/1910057249378099667?t=iw-t_AYakexiN3Mvzk1e6A&s=35"
+    }
+   ]
+  },
+  {
+   "id": 92,
+   "type": "message",
+   "date": "2025-04-12T16:34:15",
+   "date_unixtime": "1744468455",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://principles.design/?s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://principles.design/?s=35"
+    }
+   ]
+  },
+  {
+   "id": 93,
+   "type": "message",
+   "date": "2025-04-12T20:48:32",
+   "date_unixtime": "1744483712",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://x.com/DamonCrockett/status/1910752262470639854?t=YV4wDuiCXPaYl0wl85lOtA&s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://x.com/DamonCrockett/status/1910752262470639854?t=YV4wDuiCXPaYl0wl85lOtA&s=35"
+    }
+   ]
+  },
+  {
+   "id": 94,
+   "type": "message",
+   "date": "2025-05-01T21:52:02",
+   "date_unixtime": "1746129122",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "I replaced Google Photos, Drive, and Docs with these free self-hosted services — and they're better, too\n",
+    {
+     "type": "link",
+     "text": "https://www.xda-developers.com/replaced-google-photos-drive-docs/"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I replaced Google Photos, Drive, and Docs with these free self-hosted services — and they're better, too\n"
+    },
+    {
+     "type": "link",
+     "text": "https://www.xda-developers.com/replaced-google-photos-drive-docs/"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 95,
+   "type": "message",
+   "date": "2025-05-03T21:35:49",
+   "date_unixtime": "1746300949",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://x.com/GithubProjects/status/1918500931517186410?t=GPx3SmFjRIn4K_jx3tOe_w&s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://x.com/GithubProjects/status/1918500931517186410?t=GPx3SmFjRIn4K_jx3tOe_w&s=35"
+    }
+   ]
+  },
+  {
+   "id": 96,
+   "type": "message",
+   "date": "2025-05-03T21:39:07",
+   "date_unixtime": "1746301147",
+   "from": "Francesco Ulleri",
+   "from_id": "user149445717",
+   "text": [
+    "AIDC-AI/Ovis2-8B · Hugging Face\n",
+    {
+     "type": "link",
+     "text": "https://huggingface.co/AIDC-AI/Ovis2-8B"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "AIDC-AI/Ovis2-8B · Hugging Face\n"
+    },
+    {
+     "type": "link",
+     "text": "https://huggingface.co/AIDC-AI/Ovis2-8B"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 97,
+   "type": "message",
+   "date": "2025-05-06T09:11:20",
+   "date_unixtime": "1746515480",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://x.com/godofprompt/status/1919391876882313246?t=9cQHvWKnA6q6KXnj2qiGlw&s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://x.com/godofprompt/status/1919391876882313246?t=9cQHvWKnA6q6KXnj2qiGlw&s=35"
+    }
+   ]
+  },
+  {
+   "id": 98,
+   "type": "message",
+   "date": "2025-05-07T19:23:06",
+   "date_unixtime": "1746638586",
+   "from": "Francesco Ulleri",
+   "from_id": "user149445717",
+   "text": [
+    "Manim Community\n",
+    {
+     "type": "link",
+     "text": "https://www.manim.community/"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Manim Community\n"
+    },
+    {
+     "type": "link",
+     "text": "https://www.manim.community/"
+    }
+   ]
+  },
+  {
+   "id": 101,
+   "type": "message",
+   "date": "2025-05-07T21:48:59",
+   "date_unixtime": "1746647339",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://github.com/markmap/markmap?s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://github.com/markmap/markmap?s=35"
+    }
+   ]
+  },
+  {
+   "id": 102,
+   "type": "message",
+   "date": "2025-05-07T21:49:18",
+   "date_unixtime": "1746647358",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://github.com/slidevjs/slidev?s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://github.com/slidevjs/slidev?s=35"
+    }
+   ]
+  },
+  {
+   "id": 103,
+   "type": "message",
+   "date": "2025-05-07T23:04:46",
+   "date_unixtime": "1746651886",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://anytype.io/"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://anytype.io/"
+    }
+   ]
+  },
+  {
+   "id": 104,
+   "type": "message",
+   "date": "2025-05-08T11:07:15",
+   "date_unixtime": "1746695235",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://threejsresources.com/category/website?s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://threejsresources.com/category/website?s=35"
+    }
+   ]
+  },
+  {
+   "id": 105,
+   "type": "message",
+   "date": "2025-05-11T19:40:16",
+   "date_unixtime": "1746985216",
+   "from": "Francesco Ulleri",
+   "from_id": "user149445717",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://github.com/italia/awesome-italian-public-datasets"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://github.com/italia/awesome-italian-public-datasets"
+    }
+   ]
+  },
+  {
+   "id": 106,
+   "type": "message",
+   "date": "2025-05-11T20:39:05",
+   "date_unixtime": "1746988745",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "Electricity2024-Analysisandforecastto2026.pdf\n",
+    {
+     "type": "link",
+     "text": "https://iea.blob.core.windows.net/assets/6b2fd954-2017-408e-bf08-952fdd62118a/Electricity2024-Analysisandforecastto2026.pdf"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Electricity2024-Analysisandforecastto2026.pdf\n"
+    },
+    {
+     "type": "link",
+     "text": "https://iea.blob.core.windows.net/assets/6b2fd954-2017-408e-bf08-952fdd62118a/Electricity2024-Analysisandforecastto2026.pdf"
+    }
+   ]
+  },
+  {
+   "id": 108,
+   "type": "message",
+   "date": "2025-05-12T18:42:21",
+   "date_unixtime": "1747068141",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://css-generators.com/svg-to-css/?s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://css-generators.com/svg-to-css/?s=35"
+    }
+   ]
+  },
+  {
+   "id": 109,
+   "type": "message",
+   "date": "2025-05-12T18:42:31",
+   "date_unixtime": "1747068151",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101.pdf?s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101.pdf?s=35"
+    }
+   ]
+  },
+  {
+   "id": 110,
+   "type": "message",
+   "date": "2025-05-18T20:29:06",
+   "date_unixtime": "1747592946",
+   "from": "Francesco Ulleri",
+   "from_id": "user149445717",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://developers.google.com/machine-learning/crash-course?hl=it"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://developers.google.com/machine-learning/crash-course?hl=it"
+    }
+   ]
+  },
+  {
+   "id": 111,
+   "type": "message",
+   "date": "2025-05-18T20:29:18",
+   "date_unixtime": "1747592958",
+   "from": "Francesco Ulleri",
+   "from_id": "user149445717",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://developers.google.com/machine-learning/crash-course?hl=it"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://developers.google.com/machine-learning/crash-course?hl=it"
+    }
+   ]
+  },
+  {
+   "id": 112,
+   "type": "message",
+   "date": "2025-05-18T20:31:42",
+   "date_unixtime": "1747593102",
+   "from": "Francesco Ulleri",
+   "from_id": "user149445717",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://aistudio.google.com/"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://aistudio.google.com/"
+    }
+   ]
+  },
+  {
+   "id": 113,
+   "type": "message",
+   "date": "2025-05-18T20:40:27",
+   "date_unixtime": "1747593627",
+   "from": "Francesco Ulleri",
+   "from_id": "user149445717",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://codeassist.google/?hl=it"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://codeassist.google/?hl=it"
+    }
+   ]
+  },
+  {
+   "id": 114,
+   "type": "message",
+   "date": "2025-05-19T10:04:01",
+   "date_unixtime": "1747641841",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "12 Timeless Books Every Programmer Should Read - DEV Community\n",
+    {
+     "type": "link",
+     "text": "https://dev.to/somadevtoo/12-timeless-books-every-programmer-should-read-3202"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "12 Timeless Books Every Programmer Should Read - DEV Community\n"
+    },
+    {
+     "type": "link",
+     "text": "https://dev.to/somadevtoo/12-timeless-books-every-programmer-should-read-3202"
+    }
+   ]
+  },
+  {
+   "id": 115,
+   "type": "message",
+   "date": "2025-06-01T17:38:57",
+   "date_unixtime": "1748792337",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "Email, browser e ricerche, le migliori alternative europee alle big tech per proteggere la privacy | Wired Italia\n",
+    {
+     "type": "link",
+     "text": "https://www.wired.it/article/email-browser-ricerche-alternative-europee-big-tech-privacy/"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Email, browser e ricerche, le migliori alternative europee alle big tech per proteggere la privacy | Wired Italia\n"
+    },
+    {
+     "type": "link",
+     "text": "https://www.wired.it/article/email-browser-ricerche-alternative-europee-big-tech-privacy/"
+    }
+   ]
+  },
+  {
+   "id": 116,
+   "type": "message",
+   "date": "2025-06-02T15:25:10",
+   "date_unixtime": "1748870710",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://www.saastr.com/the-top-10-learnings-from-mary-meekers-latest-report-on-ai/?s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://www.saastr.com/the-top-10-learnings-from-mary-meekers-latest-report-on-ai/?s=35"
+    }
+   ]
+  },
+  {
+   "id": 117,
+   "type": "message",
+   "date": "2025-06-05T19:26:18",
+   "date_unixtime": "1749144378",
+   "from": "Francesco Ulleri",
+   "from_id": "user149445717",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://cooklang.org/"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://cooklang.org/"
+    }
+   ]
+  },
+  {
+   "id": 118,
+   "type": "message",
+   "date": "2025-06-19T17:04:10",
+   "date_unixtime": "1750345450",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://www.uibot.app/"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://www.uibot.app/"
+    }
+   ]
+  },
+  {
+   "id": 119,
+   "type": "message",
+   "date": "2025-06-22T20:07:50",
+   "date_unixtime": "1750615670",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "Overview ‹ Your Brain on ChatGPT — MIT Media Lab\n",
+    {
+     "type": "link",
+     "text": "https://www.media.mit.edu/projects/your-brain-on-chatgpt/overview/#faq-is-it-safe-to-say-that-llms-are-in-essence-making-us-dumber"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Overview ‹ Your Brain on ChatGPT — MIT Media Lab\n"
+    },
+    {
+     "type": "link",
+     "text": "https://www.media.mit.edu/projects/your-brain-on-chatgpt/overview/#faq-is-it-safe-to-say-that-llms-are-in-essence-making-us-dumber"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 120,
+   "type": "message",
+   "date": "2025-06-25T23:43:14",
+   "date_unixtime": "1750887794",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "EuroStack\n",
+    {
+     "type": "link",
+     "text": "https://www.euro-stack.info/"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "EuroStack\n"
+    },
+    {
+     "type": "link",
+     "text": "https://www.euro-stack.info/"
+    }
+   ]
+  },
+  {
+   "id": 121,
+   "type": "message",
+   "date": "2025-06-25T23:48:02",
+   "date_unixtime": "1750888082",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "Copyright Cases Should Not Threaten Chatbot Users’ Privacy | Electronic Frontier Foundation\n",
+    {
+     "type": "link",
+     "text": "https://www.eff.org/deeplinks/2025/06/copyright-cases-should-not-threaten-chatbot-users-privacy"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Copyright Cases Should Not Threaten Chatbot Users’ Privacy | Electronic Frontier Foundation\n"
+    },
+    {
+     "type": "link",
+     "text": "https://www.eff.org/deeplinks/2025/06/copyright-cases-should-not-threaten-chatbot-users-privacy"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 123,
+   "type": "message",
+   "date": "2025-06-26T21:49:15",
+   "date_unixtime": "1750967355",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "Microsoft Work Trend Index: l’AI per evitare la giornata lavorativa infinita - Microsoft News Center Italy\n",
+    {
+     "type": "link",
+     "text": "https://news.microsoft.com/it-it/2025/06/24/microsoft-work-trend-index-lai-per-evitare-la-giornata-lavorativa-infinita/"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Microsoft Work Trend Index: l’AI per evitare la giornata lavorativa infinita - Microsoft News Center Italy\n"
+    },
+    {
+     "type": "link",
+     "text": "https://news.microsoft.com/it-it/2025/06/24/microsoft-work-trend-index-lai-per-evitare-la-giornata-lavorativa-infinita/"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 125,
+   "type": "message",
+   "date": "2025-06-26T21:50:32",
+   "date_unixtime": "1750967432",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "2025_Work_Trend_Index_Annual_Report_680aaa7fe52dd.pdf\n",
+    {
+     "type": "link",
+     "text": "https://assets-c4akfrf5b4d3f4b7.z01.azurefd.net/assets/2025/04/2025_Work_Trend_Index_Annual_Report_680aaa7fe52dd.pdf"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "2025_Work_Trend_Index_Annual_Report_680aaa7fe52dd.pdf\n"
+    },
+    {
+     "type": "link",
+     "text": "https://assets-c4akfrf5b4d3f4b7.z01.azurefd.net/assets/2025/04/2025_Work_Trend_Index_Annual_Report_680aaa7fe52dd.pdf"
+    }
+   ]
+  },
+  {
+   "id": 126,
+   "type": "message",
+   "date": "2025-06-27T23:07:27",
+   "date_unixtime": "1751058447",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "paper-la-neuroscienza-dietro-la-scrittura-giugno-2025.pdf ",
+    {
+     "type": "link",
+     "text": "https://share.google/dkxonkMJtzUKquEJW"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "paper-la-neuroscienza-dietro-la-scrittura-giugno-2025.pdf "
+    },
+    {
+     "type": "link",
+     "text": "https://share.google/dkxonkMJtzUKquEJW"
+    }
+   ]
+  },
+  {
+   "id": 127,
+   "type": "message",
+   "date": "2025-07-05T13:46:30",
+   "date_unixtime": "1751715990",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://nannystateindex.org/?twclid=274judc48raljws0frxseulcrl&s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://nannystateindex.org/?twclid=274judc48raljws0frxseulcrl&s=35"
+    }
+   ]
+  },
+  {
+   "id": 128,
+   "type": "message",
+   "date": "2025-07-09T19:09:55",
+   "date_unixtime": "1752080995",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "Bitchat, come funziona l'app di messaggistica che non ha bisogno di internet | Wired Italia ",
+    {
+     "type": "link",
+     "text": "https://share.google/8mjSseU487QjqhDA6"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Bitchat, come funziona l'app di messaggistica che non ha bisogno di internet | Wired Italia "
+    },
+    {
+     "type": "link",
+     "text": "https://share.google/8mjSseU487QjqhDA6"
+    }
+   ]
+  },
+  {
+   "id": 129,
+   "type": "message",
+   "date": "2025-07-10T12:18:28",
+   "date_unixtime": "1752142708",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "Revealed: Hacked Sites & Expired Domains Are Being Used as Sources for ChatGPT's Recommendations | Digitaloft ",
+    {
+     "type": "link",
+     "text": "https://share.google/fvc9OEaNOl8vnSm0P"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Revealed: Hacked Sites & Expired Domains Are Being Used as Sources for ChatGPT's Recommendations | Digitaloft "
+    },
+    {
+     "type": "link",
+     "text": "https://share.google/fvc9OEaNOl8vnSm0P"
+    }
+   ]
+  },
+  {
+   "id": 130,
+   "type": "message",
+   "date": "2025-07-10T16:53:18",
+   "date_unixtime": "1752159198",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "Le allucinazioni dell'intelligenza artificiale sono arrivate in tribunale | Wired Italia ",
+    {
+     "type": "link",
+     "text": "https://share.google/HTDNtrQ8kkY4mw1e6"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Le allucinazioni dell'intelligenza artificiale sono arrivate in tribunale | Wired Italia "
+    },
+    {
+     "type": "link",
+     "text": "https://share.google/HTDNtrQ8kkY4mw1e6"
+    }
+   ]
+  },
+  {
+   "id": 131,
+   "type": "message",
+   "date": "2025-07-14T12:34:53",
+   "date_unixtime": "1752489293",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://ifdesign.com/iF-Design-Trend-Report-2025.pdf"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://ifdesign.com/iF-Design-Trend-Report-2025.pdf"
+    }
+   ]
+  },
+  {
+   "id": 132,
+   "type": "message",
+   "date": "2025-07-18T21:38:09",
+   "date_unixtime": "1752867489",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "K-Scale Labs: Open-source humanoid robots, built for developers ",
+    {
+     "type": "link",
+     "text": "https://share.google/A0Raylarzkqg9QfFQ"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "K-Scale Labs: Open-source humanoid robots, built for developers "
+    },
+    {
+     "type": "link",
+     "text": "https://share.google/A0Raylarzkqg9QfFQ"
+    }
+   ]
+  },
+  {
+   "id": 133,
+   "type": "message",
+   "date": "2025-07-19T11:17:49",
+   "date_unixtime": "1752916669",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "Mark Zuckerberg ha chiuso con un patteggiamento il processo da 8 miliardi che lo accusava di aver sacrificato la privacy dei suoi utenti | Wired Italia ",
+    {
+     "type": "link",
+     "text": "https://share.google/KnO9iTDsCuqftXqIB"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Mark Zuckerberg ha chiuso con un patteggiamento il processo da 8 miliardi che lo accusava di aver sacrificato la privacy dei suoi utenti | Wired Italia "
+    },
+    {
+     "type": "link",
+     "text": "https://share.google/KnO9iTDsCuqftXqIB"
+    }
+   ]
+  },
+  {
+   "id": 134,
+   "type": "message",
+   "date": "2025-07-23T23:16:56",
+   "date_unixtime": "1753305416",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://x.com/satyanadella/status/1948101877486452897?t=OigLQjQSbXgL9t2c8b06lQ&s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://x.com/satyanadella/status/1948101877486452897?t=OigLQjQSbXgL9t2c8b06lQ&s=35"
+    }
+   ]
+  },
+  {
+   "id": 135,
+   "type": "message",
+   "date": "2025-07-28T08:09:47",
+   "date_unixtime": "1753682987",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "Avanzano le community della disintossicazione digitale consapevole - Il Sole 24 ORE ",
+    {
+     "type": "link",
+     "text": "https://share.google/CJoShnypQzLo1umMc"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Avanzano le community della disintossicazione digitale consapevole - Il Sole 24 ORE "
+    },
+    {
+     "type": "link",
+     "text": "https://share.google/CJoShnypQzLo1umMc"
+    }
+   ]
+  },
+  {
+   "id": 136,
+   "type": "message",
+   "date": "2025-07-28T15:12:45",
+   "date_unixtime": "1753708365",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://futurism.com/openai-investor-chatgpt-mental-health"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://futurism.com/openai-investor-chatgpt-mental-health"
+    }
+   ]
+  },
+  {
+   "id": 137,
+   "type": "message",
+   "date": "2025-07-30T21:51:09",
+   "date_unixtime": "1753905069",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://storm.genie.stanford.edu/?s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://storm.genie.stanford.edu/?s=35"
+    }
+   ]
+  },
+  {
+   "id": 138,
+   "type": "message",
+   "date": "2025-07-30T21:53:22",
+   "date_unixtime": "1753905202",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://github.com/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://github.com/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies"
+    }
+   ]
+  },
+  {
+   "id": 139,
+   "type": "message",
+   "date": "2025-07-31T18:20:07",
+   "date_unixtime": "1753978807",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "una.im"
+    },
+    " | Creating a scroll-spy with 2 lines of CSS ",
+    {
+     "type": "link",
+     "text": "https://share.google/bkRUsU1fGAY7vnbm0"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "una.im"
+    },
+    {
+     "type": "plain",
+     "text": " | Creating a scroll-spy with 2 lines of CSS "
+    },
+    {
+     "type": "link",
+     "text": "https://share.google/bkRUsU1fGAY7vnbm0"
+    }
+   ]
+  },
+  {
+   "id": 140,
+   "type": "message",
+   "date": "2025-07-31T21:00:23",
+   "date_unixtime": "1753988423",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "How to Discover a CSS Trick | CSS-Tricks ",
+    {
+     "type": "link",
+     "text": "https://share.google/dYRlbI1ko6NLFVmfV"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "How to Discover a CSS Trick | CSS-Tricks "
+    },
+    {
+     "type": "link",
+     "text": "https://share.google/dYRlbI1ko6NLFVmfV"
+    }
+   ]
+  },
+  {
+   "id": 141,
+   "type": "message",
+   "date": "2025-08-02T20:35:58",
+   "date_unixtime": "1754159758",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://x.com/googleaidevs/status/1951343120144388364?t=qWSCc_toUHE3t25Vcd5r8Q&s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://x.com/googleaidevs/status/1951343120144388364?t=qWSCc_toUHE3t25Vcd5r8Q&s=35"
+    }
+   ]
+  },
+  {
+   "id": 142,
+   "type": "message",
+   "date": "2025-08-02T22:56:33",
+   "date_unixtime": "1754168193",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "La pittura al grafene che promette di scaldare casa meglio dei termosifoni | Wired Italia ",
+    {
+     "type": "link",
+     "text": "https://share.google/NBFAMtOjh9Fx10Fxn"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "La pittura al grafene che promette di scaldare casa meglio dei termosifoni | Wired Italia "
+    },
+    {
+     "type": "link",
+     "text": "https://share.google/NBFAMtOjh9Fx10Fxn"
+    }
+   ]
+  },
+  {
+   "id": 143,
+   "type": "message",
+   "date": "2025-08-05T08:03:13",
+   "date_unixtime": "1754373793",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "The Death Of Industrial Design And The Era Of Dull Electronics | Hackaday\n",
+    {
+     "type": "link",
+     "text": "https://hackaday.com/2025/07/23/the-death-of-industrial-design-and-the-era-of-dull-electronics/"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "The Death Of Industrial Design And The Era Of Dull Electronics | Hackaday\n"
+    },
+    {
+     "type": "link",
+     "text": "https://hackaday.com/2025/07/23/the-death-of-industrial-design-and-the-era-of-dull-electronics/"
+    }
+   ]
+  },
+  {
+   "id": 144,
+   "type": "message",
+   "date": "2025-08-10T19:44:30",
+   "date_unixtime": "1754847870",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "Working with AI: Measuring the Occupational Implications of Generative AI - Microsoft Research\n",
+    {
+     "type": "link",
+     "text": "https://www.microsoft.com/en-us/research/publication/working-with-ai-measuring-the-occupational-implications-of-generative-ai/"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Working with AI: Measuring the Occupational Implications of Generative AI - Microsoft Research\n"
+    },
+    {
+     "type": "link",
+     "text": "https://www.microsoft.com/en-us/research/publication/working-with-ai-measuring-the-occupational-implications-of-generative-ai/"
+    }
+   ]
+  },
+  {
+   "id": 145,
+   "type": "message",
+   "date": "2025-08-11T14:34:10",
+   "date_unixtime": "1754915650",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://www.bbc.com/culture/article/20161004-was-modern-art-a-weapon-of-the-cia?s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://www.bbc.com/culture/article/20161004-was-modern-art-a-weapon-of-the-cia?s=35"
+    }
+   ]
+  },
+  {
+   "id": 146,
+   "type": "message",
+   "date": "2025-08-11T19:01:30",
+   "date_unixtime": "1754931690",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "The Decentralized Identity Blockchain | Humanity Protocol ",
+    {
+     "type": "link",
+     "text": "https://share.google/3vt4OGkG4jghMLRsQ"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "The Decentralized Identity Blockchain | Humanity Protocol "
+    },
+    {
+     "type": "link",
+     "text": "https://share.google/3vt4OGkG4jghMLRsQ"
+    }
+   ]
+  },
+  {
+   "id": 147,
+   "type": "message",
+   "date": "2025-08-12T16:25:15",
+   "date_unixtime": "1755008715",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://github.com/danielmiessler/fabric"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://github.com/danielmiessler/fabric"
+    }
+   ]
+  },
+  {
+   "id": 148,
+   "type": "message",
+   "date": "2025-08-14T12:03:15",
+   "date_unixtime": "1755165795",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "DeepStateMAP | День 1268 | Мапа війни в Україні\n",
+    {
+     "type": "link",
+     "text": "https://deepstatemap.live/#10/48.4081503/36.9580078"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "DeepStateMAP | День 1268 | Мапа війни в Україні\n"
+    },
+    {
+     "type": "link",
+     "text": "https://deepstatemap.live/#10/48.4081503/36.9580078"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 149,
+   "type": "message",
+   "date": "2025-08-15T09:37:13",
+   "date_unixtime": "1755243433",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://www.reuters.com/investigates/special-report/meta-ai-chatbot-death/?s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://www.reuters.com/investigates/special-report/meta-ai-chatbot-death/?s=35"
+    }
+   ]
+  },
+  {
+   "id": 150,
+   "type": "message",
+   "date": "2025-08-15T18:22:01",
+   "date_unixtime": "1755274921",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://x.com/konstipaulus/status/1954539980564435318?t=guI5HlfJCRe_RxgKU5n46g&s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://x.com/konstipaulus/status/1954539980564435318?t=guI5HlfJCRe_RxgKU5n46g&s=35"
+    }
+   ]
+  },
+  {
+   "id": 151,
+   "type": "message",
+   "date": "2025-08-16T18:15:41",
+   "date_unixtime": "1755360941",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "[2508.03430] The Science Fiction Science Method\n",
+    {
+     "type": "link",
+     "text": "https://arxiv.org/abs/2508.03430"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "[2508.03430] The Science Fiction Science Method\n"
+    },
+    {
+     "type": "link",
+     "text": "https://arxiv.org/abs/2508.03430"
+    }
+   ]
+  },
+  {
+   "id": 152,
+   "type": "message",
+   "date": "2025-08-16T18:16:35",
+   "date_unixtime": "1755360995",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "Science Fiction Science — Iyad Rahwan\n",
+    {
+     "type": "link",
+     "text": "https://www.rahwan.me/science/sci-fi-sci"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Science Fiction Science — Iyad Rahwan\n"
+    },
+    {
+     "type": "link",
+     "text": "https://www.rahwan.me/science/sci-fi-sci"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 153,
+   "type": "message",
+   "date": "2025-08-16T20:43:11",
+   "date_unixtime": "1755369791",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "Luigi Lineri ",
+    {
+     "type": "link",
+     "text": "https://share.google/HuT9l9XvNi4PHR5Bf"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Luigi Lineri "
+    },
+    {
+     "type": "link",
+     "text": "https://share.google/HuT9l9XvNi4PHR5Bf"
+    }
+   ]
+  },
+  {
+   "id": 154,
+   "type": "message",
+   "date": "2025-08-21T21:32:20",
+   "date_unixtime": "1755804740",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "PermessoNegato_IBSA2023_Report_ITA.pdf\n",
+    {
+     "type": "link",
+     "text": "https://www.permessonegato.it/wp-content/uploads/2024/09/PermessoNegato_IBSA2023_Report_ITA.pdf"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "PermessoNegato_IBSA2023_Report_ITA.pdf\n"
+    },
+    {
+     "type": "link",
+     "text": "https://www.permessonegato.it/wp-content/uploads/2024/09/PermessoNegato_IBSA2023_Report_ITA.pdf"
+    }
+   ]
+  },
+  {
+   "id": 155,
+   "type": "message",
+   "date": "2025-08-21T21:34:12",
+   "date_unixtime": "1755804852",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "Home Page - PermessoNegato\n",
+    {
+     "type": "link",
+     "text": "https://www.permessonegato.it/"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Home Page - PermessoNegato\n"
+    },
+    {
+     "type": "link",
+     "text": "https://www.permessonegato.it/"
+    }
+   ]
+  },
+  {
+   "id": 156,
+   "type": "message",
+   "date": "2025-08-22T21:18:42",
+   "date_unixtime": "1755890322",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://learn.microsoft.com/en-us/shows/generative-ai-for-beginners/introduction-to-generative-ai-and-llms-generative-ai-for-beginners?s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://learn.microsoft.com/en-us/shows/generative-ai-for-beginners/introduction-to-generative-ai-and-llms-generative-ai-for-beginners?s=35"
+    }
+   ]
+  },
+  {
+   "id": 157,
+   "type": "message",
+   "date": "2025-08-24T21:08:07",
+   "date_unixtime": "1756062487",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "Ranked: The Most Cited Websites by AI Models ",
+    {
+     "type": "link",
+     "text": "https://share.google/GV5MniTltsASgiwT4"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ranked: The Most Cited Websites by AI Models "
+    },
+    {
+     "type": "link",
+     "text": "https://share.google/GV5MniTltsASgiwT4"
+    }
+   ]
+  },
+  {
+   "id": 158,
+   "type": "message",
+   "date": "2025-08-24T21:08:33",
+   "date_unixtime": "1756062513",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "Google AI Mode vs. Traditional Search & Other LLMs [Study] ",
+    {
+     "type": "link",
+     "text": "https://share.google/jDAiXCEdczjTSnr98"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Google AI Mode vs. Traditional Search & Other LLMs [Study] "
+    },
+    {
+     "type": "link",
+     "text": "https://share.google/jDAiXCEdczjTSnr98"
+    }
+   ]
+  },
+  {
+   "id": 159,
+   "type": "message",
+   "date": "2025-08-25T16:04:14",
+   "date_unixtime": "1756130654",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://sciencevsmagic.net/"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://sciencevsmagic.net/"
+    }
+   ]
+  },
+  {
+   "id": 160,
+   "type": "message",
+   "date": "2025-08-27T22:03:54",
+   "date_unixtime": "1756325034",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "Canaries_BrynjolfssonChandarChen.pdf ",
+    {
+     "type": "link",
+     "text": "https://share.google/B9PHv8ehEYHmr5cP1"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Canaries_BrynjolfssonChandarChen.pdf "
+    },
+    {
+     "type": "link",
+     "text": "https://share.google/B9PHv8ehEYHmr5cP1"
+    }
+   ]
+  },
+  {
+   "id": 161,
+   "type": "message",
+   "date": "2025-08-30T14:53:17",
+   "date_unixtime": "1756558397",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "This free and open-source NotebookLM alternative does nearly everything the original can do, and you control your data ",
+    {
+     "type": "link",
+     "text": "https://share.google/h7tAuMW4SorVb7DR6"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "This free and open-source NotebookLM alternative does nearly everything the original can do, and you control your data "
+    },
+    {
+     "type": "link",
+     "text": "https://share.google/h7tAuMW4SorVb7DR6"
+    }
+   ]
+  },
+  {
+   "id": 162,
+   "type": "message",
+   "date": "2025-08-31T22:54:57",
+   "date_unixtime": "1756673697",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "Summit With OpenAI, Google DeepMind Reaches Bleak Agreement | TIME ",
+    {
+     "type": "link",
+     "text": "https://share.google/5FDnVXnWqfmgCjoBJ"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Summit With OpenAI, Google DeepMind Reaches Bleak Agreement | TIME "
+    },
+    {
+     "type": "link",
+     "text": "https://share.google/5FDnVXnWqfmgCjoBJ"
+    }
+   ]
+  },
+  {
+   "id": 163,
+   "type": "message",
+   "date": "2025-08-31T23:03:00",
+   "date_unixtime": "1756674180",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://www.agisocialcontract.org/"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://www.agisocialcontract.org/"
+    }
+   ]
+  },
+  {
+   "id": 164,
+   "type": "message",
+   "date": "2025-08-31T23:54:03",
+   "date_unixtime": "1756677243",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://beyondresolution.info/"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://beyondresolution.info/"
+    }
+   ]
+  },
+  {
+   "id": 165,
+   "type": "message",
+   "date": "2025-09-01T16:17:41",
+   "date_unixtime": "1756736261",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://x.com/fablesimulation/status/1950589974262448505?t=w7Q7ky7lJF8MRnVJ-8VXWA&s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://x.com/fablesimulation/status/1950589974262448505?t=w7Q7ky7lJF8MRnVJ-8VXWA&s=35"
+    }
+   ]
+  },
+  {
+   "id": 166,
+   "type": "message",
+   "date": "2025-09-03T08:00:10",
+   "date_unixtime": "1756879210",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "Il curioso esperimento del social network popolato interamente da chatbot - Il Sole 24 ORE ",
+    {
+     "type": "link",
+     "text": "https://share.google/cVgnFlOlRbzthiQNC"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Il curioso esperimento del social network popolato interamente da chatbot - Il Sole 24 ORE "
+    },
+    {
+     "type": "link",
+     "text": "https://share.google/cVgnFlOlRbzthiQNC"
+    }
+   ]
+  },
+  {
+   "id": 167,
+   "type": "message",
+   "date": "2025-09-03T23:27:26",
+   "date_unixtime": "1756934846",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "T-Index: which languages will the market speak?\n",
+    {
+     "type": "link",
+     "text": "https://imminent.translated.com/t-index"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "T-Index: which languages will the market speak?\n"
+    },
+    {
+     "type": "link",
+     "text": "https://imminent.translated.com/t-index"
+    }
+   ]
+  },
+  {
+   "id": 168,
+   "type": "message",
+   "date": "2025-09-05T13:24:56",
+   "date_unixtime": "1757071496",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "Guided Learning in Gemini: From answers to understanding\n",
+    {
+     "type": "link",
+     "text": "https://blog.google/outreach-initiatives/education/guided-learning/"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Guided Learning in Gemini: From answers to understanding\n"
+    },
+    {
+     "type": "link",
+     "text": "https://blog.google/outreach-initiatives/education/guided-learning/"
+    }
+   ]
+  },
+  {
+   "id": 169,
+   "type": "message",
+   "date": "2025-09-06T22:17:55",
+   "date_unixtime": "1757189875",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://www.theatlantic.com/podcasts/archive/2025/09/ai-and-the-fight-between-democracy-and-autocracy/684095/?gift=VKTPfqGIqBNOaUPDrxFJbQ1li1XSxpx0x8DKwrFaxvw&utm_source=copy-link&utm_medium=social&utm_campaign=share&s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://www.theatlantic.com/podcasts/archive/2025/09/ai-and-the-fight-between-democracy-and-autocracy/684095/?gift=VKTPfqGIqBNOaUPDrxFJbQ1li1XSxpx0x8DKwrFaxvw&utm_source=copy-link&utm_medium=social&utm_campaign=share&s=35"
+    }
+   ]
+  },
+  {
+   "id": 170,
+   "type": "message",
+   "date": "2025-09-07T09:14:48",
+   "date_unixtime": "1757229288",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "Prompt injection, cos'è e perché Gemini è tra i chatbot a rischio | Wired Italia ",
+    {
+     "type": "link",
+     "text": "https://share.google/6AJHwRhiU6mIVOBs2"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Prompt injection, cos'è e perché Gemini è tra i chatbot a rischio | Wired Italia "
+    },
+    {
+     "type": "link",
+     "text": "https://share.google/6AJHwRhiU6mIVOBs2"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 171,
+   "type": "message",
+   "date": "2025-09-08T07:47:24",
+   "date_unixtime": "1757310444",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "Diventare virali sui social, il metodo studiato da Harvard | Wired Italia ",
+    {
+     "type": "link",
+     "text": "https://share.google/6FECo5Nvu3rz3isKR"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Diventare virali sui social, il metodo studiato da Harvard | Wired Italia "
+    },
+    {
+     "type": "link",
+     "text": "https://share.google/6FECo5Nvu3rz3isKR"
+    }
+   ]
+  },
+  {
+   "id": 172,
+   "type": "message",
+   "date": "2025-09-12T19:57:16",
+   "date_unixtime": "1757699836",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "In Albania ci sarà una ministra fatta con un’intelligenza artificiale: ",
+    {
+     "type": "link",
+     "text": "https://www.ilpost.it/2025/09/12/intelligenza-artificiale-diella-albania/"
+    },
+    "."
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "In Albania ci sarà una ministra fatta con un’intelligenza artificiale: "
+    },
+    {
+     "type": "link",
+     "text": "https://www.ilpost.it/2025/09/12/intelligenza-artificiale-diella-albania/"
+    },
+    {
+     "type": "plain",
+     "text": "."
+    }
+   ]
+  },
+  {
+   "id": 173,
+   "type": "message",
+   "date": "2025-09-13T09:31:50",
+   "date_unixtime": "1757748710",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "Official Nano-Banana Prompting Guide with Test Case Comparisons | by ",
+    {
+     "type": "link",
+     "text": "302.AI"
+    },
+    " | Sep, 2025 | Generative AI\n",
+    {
+     "type": "link",
+     "text": "https://generativeai.pub/official-nano-banana-prompting-guide-with-test-case-comparisons-93d15d27de4d"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Official Nano-Banana Prompting Guide with Test Case Comparisons | by "
+    },
+    {
+     "type": "link",
+     "text": "302.AI"
+    },
+    {
+     "type": "plain",
+     "text": " | Sep, 2025 | Generative AI\n"
+    },
+    {
+     "type": "link",
+     "text": "https://generativeai.pub/official-nano-banana-prompting-guide-with-test-case-comparisons-93d15d27de4d"
+    }
+   ]
+  },
+  {
+   "id": 174,
+   "type": "message",
+   "date": "2025-09-13T18:42:00",
+   "date_unixtime": "1757781720",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://alignmentalignment.ai/caaac/blog/explainer-alignment?t=CqGNWGHBfTz6TdaSYNBsVg&s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://alignmentalignment.ai/caaac/blog/explainer-alignment?t=CqGNWGHBfTz6TdaSYNBsVg&s=35"
+    }
+   ]
+  },
+  {
+   "id": 175,
+   "type": "message",
+   "date": "2025-09-14T19:38:41",
+   "date_unixtime": "1757871521",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "Accelera anche in Italia l'adozione dell'intelligenza artificiale generativa - Info Data ",
+    {
+     "type": "link",
+     "text": "https://share.google/bMZGFfgGvKPFwcqzv"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Accelera anche in Italia l'adozione dell'intelligenza artificiale generativa - Info Data "
+    },
+    {
+     "type": "link",
+     "text": "https://share.google/bMZGFfgGvKPFwcqzv"
+    }
+   ]
+  },
+  {
+   "id": 176,
+   "type": "message",
+   "date": "2025-09-17T20:21:04",
+   "date_unixtime": "1758133264",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "Home | LawZero\n",
+    {
+     "type": "link",
+     "text": "https://lawzero.org/en"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Home | LawZero\n"
+    },
+    {
+     "type": "link",
+     "text": "https://lawzero.org/en"
+    }
+   ]
+  },
+  {
+   "id": 177,
+   "type": "message",
+   "date": "2025-09-19T07:59:08",
+   "date_unixtime": "1758261548",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "La Bibbia raccontata dai cortometraggi fatti con l'Ai diventa un blockbuster (e l'Apocalisse il pezzo forte) | Wired Italia ",
+    {
+     "type": "link",
+     "text": "https://share.google/iR2aNnvfOWCW7PaTo"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "La Bibbia raccontata dai cortometraggi fatti con l'Ai diventa un blockbuster (e l'Apocalisse il pezzo forte) | Wired Italia "
+    },
+    {
+     "type": "link",
+     "text": "https://share.google/iR2aNnvfOWCW7PaTo"
+    }
+   ]
+  },
+  {
+   "id": 178,
+   "type": "message",
+   "date": "2025-09-20T16:51:21",
+   "date_unixtime": "1758379881",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "Jannik Sinner e FocusCalm, chi c'è dietro la fascia neurale che migliora la concentrazione | Wired Italia ",
+    {
+     "type": "link",
+     "text": "https://share.google/lVAHi8zStLBFkhet0"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Jannik Sinner e FocusCalm, chi c'è dietro la fascia neurale che migliora la concentrazione | Wired Italia "
+    },
+    {
+     "type": "link",
+     "text": "https://share.google/lVAHi8zStLBFkhet0"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 179,
+   "type": "message",
+   "date": "2025-09-25T00:02:13",
+   "date_unixtime": "1758751333",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "ChatGPT e le altre IA possono sbagliare di proposito se sotto pressione: cos'è lo «scheming» e come si può evitare - Open ",
+    {
+     "type": "link",
+     "text": "https://share.google/myShLWpSFctvML50N"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ChatGPT e le altre IA possono sbagliare di proposito se sotto pressione: cos'è lo «scheming» e come si può evitare - Open "
+    },
+    {
+     "type": "link",
+     "text": "https://share.google/myShLWpSFctvML50N"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 180,
+   "type": "message",
+   "date": "2025-09-28T15:03:26",
+   "date_unixtime": "1759064606",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "labs.google.com/mixboard/welcome"
+    },
+    " ",
+    {
+     "type": "link",
+     "text": "https://share.google/bYJizXwS4RfoZDwDv"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "labs.google.com/mixboard/welcome"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "link",
+     "text": "https://share.google/bYJizXwS4RfoZDwDv"
+    }
+   ]
+  },
+  {
+   "id": 181,
+   "type": "message",
+   "date": "2025-09-28T15:48:17",
+   "date_unixtime": "1759067297",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://wipp.info/"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://wipp.info/"
+    }
+   ]
+  },
+  {
+   "id": 182,
+   "type": "message",
+   "date": "2025-10-01T23:57:36",
+   "date_unixtime": "1759355856",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://forensic-architecture.org/"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://forensic-architecture.org/"
+    }
+   ]
+  },
+  {
+   "id": 183,
+   "type": "message",
+   "date": "2025-10-04T12:33:31",
+   "date_unixtime": "1759574011",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "I ricercatori sulla sicurezza antropica si trovano nei guai quando un nuovo modello si rende conto di essere in fase di test ",
+    {
+     "type": "link",
+     "text": "https://share.google/Wy6MjLVAqPTqJd5nj"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I ricercatori sulla sicurezza antropica si trovano nei guai quando un nuovo modello si rende conto di essere in fase di test "
+    },
+    {
+     "type": "link",
+     "text": "https://share.google/Wy6MjLVAqPTqJd5nj"
+    }
+   ]
+  },
+  {
+   "id": 185,
+   "type": "message",
+   "date": "2025-10-07T09:41:38",
+   "date_unixtime": "1759822898",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "Blog – Rodney Brooks\n",
+    {
+     "type": "link",
+     "text": "https://rodneybrooks.com/blog/"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Blog – Rodney Brooks\n"
+    },
+    {
+     "type": "link",
+     "text": "https://rodneybrooks.com/blog/"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 186,
+   "type": "message",
+   "date": "2025-10-08T18:49:08",
+   "date_unixtime": "1759942148",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "Want a security starter pack? | Surveillance Self-Defense\n",
+    {
+     "type": "link",
+     "text": "https://ssd.eff.org/playlist/want-security-starter-pack"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Want a security starter pack? | Surveillance Self-Defense\n"
+    },
+    {
+     "type": "link",
+     "text": "https://ssd.eff.org/playlist/want-security-starter-pack"
+    }
+   ]
+  },
+  {
+   "id": 187,
+   "type": "message",
+   "date": "2025-10-11T08:55:07",
+   "date_unixtime": "1760165707",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://www.onverticality.com/?utm_source=substack&utm_medium=email"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://www.onverticality.com/?utm_source=substack&utm_medium=email"
+    }
+   ]
+  },
+  {
+   "id": 188,
+   "type": "message",
+   "date": "2025-10-11T13:54:20",
+   "date_unixtime": "1760183660",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "[2510.06105] Moloch's Bargain: Emergent Misalignment When LLMs Compete for Audiences\n",
+    {
+     "type": "link",
+     "text": "https://arxiv.org/abs/2510.06105"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "[2510.06105] Moloch's Bargain: Emergent Misalignment When LLMs Compete for Audiences\n"
+    },
+    {
+     "type": "link",
+     "text": "https://arxiv.org/abs/2510.06105"
+    }
+   ]
+  },
+  {
+   "id": 189,
+   "type": "message",
+   "date": "2025-10-11T13:56:02",
+   "date_unixtime": "1760183762",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "Moloch’s Bargain: emergent misalignment when LLMS compete for audiences - Rivista AI\n",
+    {
+     "type": "link",
+     "text": "https://www.rivista.ai/2025/10/10/molochs-bargain-emergent-misalignment-when-llms-compete-for-audiences/"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Moloch’s Bargain: emergent misalignment when LLMS compete for audiences - Rivista AI\n"
+    },
+    {
+     "type": "link",
+     "text": "https://www.rivista.ai/2025/10/10/molochs-bargain-emergent-misalignment-when-llms-compete-for-audiences/"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 190,
+   "type": "message",
+   "date": "2025-10-16T19:25:33",
+   "date_unixtime": "1760635533",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    "L'intelligenza artificiale generativa può davvero avere una coscienza? | Wired Italia ",
+    {
+     "type": "link",
+     "text": "https://share.google/olrqtgk2zRe9OXtyo"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "L'intelligenza artificiale generativa può davvero avere una coscienza? | Wired Italia "
+    },
+    {
+     "type": "link",
+     "text": "https://share.google/olrqtgk2zRe9OXtyo"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 191,
+   "type": "message",
+   "date": "2025-10-17T14:16:51",
+   "date_unixtime": "1760703411",
+   "from": "Antonello Lipori",
+   "from_id": "user12856895",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://www.opensourceprojects.dev/post/1959600649026302372?t=buj13CRqco5_S15cp73OGg&s=35"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://www.opensourceprojects.dev/post/1959600649026302372?t=buj13CRqco5_S15cp73OGg&s=35"
+    }
+   ]
+  }
+ ]
+}

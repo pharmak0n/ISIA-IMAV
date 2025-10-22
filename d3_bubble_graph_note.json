@@ -6,7 +6,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "(Nessuna descrizione trovata)",
-      "url": "https://codepen.io/meodai/full/XWXyoYK?s=35"
+      "url": "https://codepen.io/meodai/full/XWXyoYK?s=35",
+      "date": "2024-12-06T07:59:48"
     },
     {
       "id": "HunyuanVideo: A Systematic Framework For Large Video Generative Models",
@@ -14,7 +15,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Modello open-source di fondazione per la generazione di video, sviluppato da Tencent. Utilizza un framework sistematico per l'addestramento e l'inferenza di modelli video di grandi dimensioni con 13 miliardi di parametri, eccellendo in qualit\u00e0 visiva, dinamiche di movimento e allineamento testo-video.",
-      "url": "https://github.com/Tencent/HunyuanVideo?s=35"
+      "url": "https://github.com/Tencent/HunyuanVideo?s=35",
+      "date": "2024-12-06T08:02:06"
     },
     {
       "id": "(Contenuto non recuperabile)",
@@ -22,7 +24,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Stato su X (Twitter) di Holly Herndon.",
-      "url": "https://x.com/hollyherndon/status/1865087479444812264?t=VyyYY04151xJuzPJK56saw&s=35"
+      "url": "https://x.com/hollyherndon/status/1865087479444812264?t=VyyYY04151xJuzPJK56saw&s=35",
+      "date": "2024-12-06T20:44:47"
     },
     {
       "id": "Top 1000 IMDB dataset - Kaggle",
@@ -30,7 +33,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Dataset contenente i dati dei primi 1000 film di IMDb, utilizzato per l'analisi dei dati e il data cleaning. Include nomi di film, anno di uscita, durata, valutazioni IMDb, Metascore e descrizioni.",
-      "url": "https://www.kaggle.com/datasets/fernandogarciah24/top-1000-imdb-dataset"
+      "url": "https://www.kaggle.com/datasets/fernandogarciah24/top-1000-imdb-dataset",
+      "date": "2024-12-06T21:46:05"
     },
     {
       "id": "amineyarman/vue-kinesis: Easily create complex interactive animations with Vue.js - GitHub",
@@ -38,7 +42,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Set di componenti per Vue.js che aiuta a creare facilmente animazioni interattive dinamiche e complesse, come effetti parallasse, trasformazioni e reazioni all'audio.",
-      "url": "https://github.com/amineyarman/Kinesis.js"
+      "url": "https://github.com/amineyarman/Kinesis.js",
+      "date": "2024-12-10T19:06:34"
     },
     {
       "id": "Markwhen",
@@ -46,7 +51,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Un linguaggio di journaling simile a Markdown per scrivere in modo semplice registri, diagrammi di Gantt, blog, note, diari, timeline e calendari, con funzionalit\u00e0 di condivisione e integrazione con calendari esterni.",
-      "url": "https://markwhen.com"
+      "url": "https://markwhen.com",
+      "date": "2024-12-10T19:09:14"
     },
     {
       "id": "bjesus/pipet \u2013 GitHub",
@@ -54,7 +60,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Strumento \"coltellino svizzero\" per lo scraping e l'estrazione di dati da risorse online, orientato agli hacker.",
-      "url": "https://github.com/bjesus/pipet?s=35"
+      "url": "https://github.com/bjesus/pipet?s=35",
+      "date": "2024-12-11T10:21:25"
     },
     {
       "id": "AugustDev/enchanted: Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama. - GitHub",
@@ -62,7 +69,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Applicazione per iOS e macOS per chattare con modelli linguistici privati auto-ospitati (self-hosted) come Llama2, Mistral o Vicuna, utilizzando la piattaforma Ollama.",
-      "url": "https://github.com/AugustDev/enchanted?s=35"
+      "url": "https://github.com/AugustDev/enchanted?s=35",
+      "date": "2024-12-11T10:21:44"
     },
     {
       "id": "VoiceCraft",
@@ -70,7 +78,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "VoiceCraft \u00e8 un progetto menzionato nel contesto della sintesi vocale (TTS) e dell'editing vocale, probabilmente una tecnica per la creazione e la modifica di voci ad alta fedelt\u00e0.",
-      "url": "https://github.com/jasonppy/VoiceCraft?s=35"
+      "url": "https://github.com/jasonppy/VoiceCraft?s=35",
+      "date": "2024-12-11T10:22:09"
     },
     {
       "id": "AykutSarac/jsoncrack.com: Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs. - GitHub",
@@ -78,7 +87,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Applicazione open-source di visualizzazione che converte vari formati di dati (JSON, YAML, XML, CSV) in grafici interattivi, rendendone pi\u00f9 facile l'esplorazione, la formattazione e la validazione per gli sviluppatori.",
-      "url": "https://github.com/AykutSarac/jsoncrack.com?s=35"
+      "url": "https://github.com/AykutSarac/jsoncrack.com?s=35",
+      "date": "2024-12-11T10:24:18"
     },
     {
       "id": "Understanding CSS clamp() for Typography: A Guide for UI Designers",
@@ -86,7 +96,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Articolo di UX Design che illustra come utilizzare la funzione CSS clamp() per creare una tipografia fluida e completamente responsive. Questa tecnica assicura che la dimensione del testo si adatti perfettamente tra un valore minimo e uno massimo.",
-      "url": "https://uxdesign.cc/understanding-css-clamp-for-typography-a-guide-for-ui-designers-6f522c2ed90f?s=35"
+      "url": "https://uxdesign.cc/understanding-css-clamp-for-typography-a-guide-for-ui-designers-6f522c2ed90f?s=35",
+      "date": "2024-12-11T10:25:10"
     },
     {
       "id": "Google Colaboratory",
@@ -94,7 +105,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Ambiente notebook Jupyter basato su cloud che permette di scrivere ed eseguire codice Python nel browser, specialmente utile per l'apprendimento automatico e l'analisi dei dati. Non richiede configurazione ed \u00e8 gratuito.",
-      "url": "https://colab.google/"
+      "url": "https://colab.google/",
+      "date": "2024-12-11T10:40:46"
     },
     {
       "id": "Upscayl",
@@ -102,7 +114,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Un'applicazione open-source e multipiattaforma per l'upscaling delle immagini (aumento di risoluzione) utilizzando modelli avanzati di intelligenza artificiale. Consente di migliorare la qualit\u00e0 delle foto con una semplice interfaccia utente.",
-      "url": "https://upscayl.org"
+      "url": "https://upscayl.org",
+      "date": "2024-12-11T11:09:46"
     },
     {
       "id": "danielgatis/rembg - GitHub",
@@ -110,7 +123,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Strumento Python di command-line e libreria per rimuovere rapidamente e facilmente lo sfondo dalle immagini utilizzando l'AI. \u00c8 integrabile in flussi di lavoro automatizzati.",
-      "url": "https://github.com/danielgatis/rembg"
+      "url": "https://github.com/danielgatis/rembg",
+      "date": "2024-12-11T11:10:07"
     },
     {
       "id": "lllyasviel/Fooocus - GitHub",
@@ -118,7 +132,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Interfaccia utente open-source che semplifica il processo di generazione di immagini con Stable Diffusion, con l'obiettivo di migliorare la coerenza e l'usabilit\u00e0. Rende l'AI art pi\u00f9 accessibile e produttiva.",
-      "url": "https://github.com/lllyasviel/Fooocus"
+      "url": "https://github.com/lllyasviel/Fooocus",
+      "date": "2024-12-11T11:10:30"
     },
     {
       "id": "Ultimate Vocal Remover",
@@ -126,7 +141,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Software basato sull'AI per separare le tracce vocali e strumentali da qualsiasi brano audio. \u00c8 molto apprezzato per la sua alta precisione nella de-mixing audio.",
-      "url": "https://ultimatevocalremover.com"
+      "url": "https://ultimatevocalremover.com",
+      "date": "2024-12-11T11:11:02"
     },
     {
       "id": "Ollama",
@@ -134,7 +150,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Strumento che consente di eseguire in locale Large Language Models (LLM) di grandi dimensioni, come Llama 2 e Mistral, sul proprio computer. Offre un modo semplice per l'hosting e l'interazione con modelli AI open-source.",
-      "url": "https://ollama.com"
+      "url": "https://ollama.com",
+      "date": "2024-12-11T11:11:26"
     },
     {
       "id": "QwenLM/Qwen2.5 - GitHub",
@@ -142,7 +159,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Repository per Qwen 2.5, una serie di modelli linguistici open-source ad alte prestazioni sviluppati da Alibaba Cloud. Adatto per una vasta gamma di attivit\u00e0 di intelligenza artificiale.",
-      "url": "https://github.com/QwenLM/Qwen2.5"
+      "url": "https://github.com/QwenLM/Qwen2.5",
+      "date": "2024-12-11T11:11:53"
     },
     {
       "id": "The Shape of AI",
@@ -150,7 +168,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Piattaforma che offre una mappa concettuale e una classificazione visiva dell'intero ecosistema dell'Intelligenza Artificiale. Aiuta a comprendere le relazioni e le diverse aree del settore AI.",
-      "url": "https://www.shapeof.ai"
+      "url": "https://www.shapeof.ai",
+      "date": "2024-12-11T12:58:26"
     },
     {
       "id": "L'AI sta facendo impazzire i programmatori open source",
@@ -166,7 +185,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Raccolta esaustiva e archivio di caratteri tipografici e font utilizzati nei titoli di testa e nei materiali promozionali dei film. Ottima risorsa per designer e appassionati di cinema e tipografia.",
-      "url": "https://fontsinmovies.com/"
+      "url": "https://fontsinmovies.com/",
+      "date": "2024-12-12T10:29:56"
     },
     {
       "id": "The Octalysis Framework for Gamification & Behavioral Design",
@@ -174,7 +194,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Framework completo per la gamification e il design comportamentale, creato da Yu-kai Chou. Il modello si basa su 8 core drive per motivare e coinvolgere gli utenti.",
-      "url": "https://yukaichou.com/gamification-examples/octalysis-complete-gamification-framework/"
+      "url": "https://yukaichou.com/gamification-examples/octalysis-complete-gamification-framework/",
+      "date": "2024-12-12T19:10:46"
     },
     {
       "id": "Google's Project Aristotle - Psych Safety",
@@ -182,7 +203,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Articolo che riassume i risultati del Progetto Aristotele di Google, identificando la \"Sicurezza Psicologica\" come il fattore cruciale per il successo e l'efficacia dei team di lavoro. La sicurezza psicologica permette ai membri di un team di sentirsi al sicuro nel prendere rischi interpersonali.",
-      "url": "https://psychsafety.co.uk/googles-project-aristotle/"
+      "url": "https://psychsafety.co.uk/googles-project-aristotle/",
+      "date": "2024-12-13T22:20:46"
     },
     {
       "id": "microsoft/markitdown - GitHub",
@@ -190,7 +212,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Estensione Markdown sviluppata da Microsoft che permette di migliorare la documentazione con funzionalit\u00e0 avanzate, come l'aggiunta di elementi interattivi. \u00c8 un tool per una documentazione pi\u00f9 ricca e coinvolgente.",
-      "url": "https://github.com/microsoft/markitdown?s=35"
+      "url": "https://github.com/microsoft/markitdown?s=35",
+      "date": "2024-12-31T15:43:31"
     },
     {
       "id": "Loops and Logic",
@@ -198,7 +221,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Un blog o sito web focalizzato sull'ingegneria del software e argomenti tecnici avanzati, con un focus sul pensiero logico e sulla costruzione di sistemi.",
-      "url": "https://loopsandlogic.com/"
+      "url": "https://loopsandlogic.com/",
+      "date": "2024-12-17T23:31:08"
     },
     {
       "id": "Intelligenza artificiale, Harvard lancer\u00e0 un enorme dataset gratuito per l'addestramento",
@@ -214,7 +238,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Uno strumento online per aiutare gli sviluppatori a comporre messaggi di commit di Git conformi agli standard e altamente informativi. Migliora la qualit\u00e0 della cronologia del progetto.",
-      "url": "https://renyuan.io/commit/?s=35"
+      "url": "https://renyuan.io/commit/?s=35",
+      "date": "2024-12-18T22:15:10"
     },
     {
       "id": "(Contenuto non recuperabile)",
@@ -222,7 +247,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Stato su X (Twitter) di MrPrudence. Contenuto tecnico o di design.",
-      "url": "https://x.com/MrPrudence/status/1869314047730131445?t=Yk20VyZEusRdawRHPlwJKw&s=35"
+      "url": "https://x.com/MrPrudence/status/1869314047730131445?t=Yk20VyZEusRdawRHPlwJKw&s=35",
+      "date": "2024-12-19T01:03:20"
     },
     {
       "id": "Elden Ring \u00e8 stato completamente ricreato usando Excel - Multiplayer.it",
@@ -230,7 +256,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Articolo che parla di un progetto non convenzionale in cui il famoso videogioco \"Elden Ring\" \u00e8 stato replicato e reso giocabile interamente all'interno di Microsoft Excel. Questo progetto dimostra la versatilit\u00e0 di Excel.",
-      "url": "https://multiplayer.it/notizie/elden-ring-e-stato-completamente-ricreato-usando-excel.html"
+      "url": "https://multiplayer.it/notizie/elden-ring-e-stato-completamente-ricreato-usando-excel.html",
+      "date": "2024-12-21T19:48:57"
     },
     {
       "id": "Mechanism Master List - Board Game Design Lab",
@@ -238,7 +265,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Un vasto elenco di meccanismi di gioco utilizzati nella progettazione di giochi da tavolo e di ruolo. \u00c8 una risorsa fondamentale per i game designer per esplorare nuove interazioni di gioco.",
-      "url": "https://boardgamedesignlab.com/mechanism-master-list/"
+      "url": "https://boardgamedesignlab.com/mechanism-master-list/",
+      "date": "2024-12-23T23:29:16"
     },
     {
       "id": "AnyDice",
@@ -246,7 +274,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Un potente calcolatore di probabilit\u00e0 online per dadi e sistemi di gioco di ruolo. Permette di analizzare e visualizzare la distribuzione dei risultati per configurazioni di dadi complesse.",
-      "url": "https://anydice.com/"
+      "url": "https://anydice.com/",
+      "date": "2024-12-24T00:27:21"
     },
     {
       "id": "Game-icons.net",
@@ -254,7 +283,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Una vasta libreria di icone vettoriali gratuite e open-source specificamente progettate per l'uso nello sviluppo e nella progettazione di videogiochi e giochi da tavolo. Le icone sono personalizzabili.",
-      "url": "https://game-icons.net/"
+      "url": "https://game-icons.net/",
+      "date": "2024-12-24T00:35:34"
     },
     {
       "id": "Smithsonian Open Access",
@@ -262,7 +292,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "La piattaforma dello Smithsonian Institution che offre milioni di immagini ad alta risoluzione e dati di collezioni in pubblico dominio (CC0). Una risorsa enorme per artisti, ricercatori e il pubblico.",
-      "url": "https://www.si.edu/OpenAccess"
+      "url": "https://www.si.edu/OpenAccess",
+      "date": "2024-12-26T14:07:19"
     },
     {
       "id": "Picryl - Public Domain Media",
@@ -270,7 +301,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Un motore di ricerca e una libreria di media (immagini, video, documenti) di pubblico dominio provenienti da archivi e biblioteche di tutto il mondo. Utile per progetti creativi e di ricerca.",
-      "url": "https://picryl.com/"
+      "url": "https://picryl.com/",
+      "date": "2024-12-26T14:07:20"
     },
     {
       "id": "if no yes .com by Rafa\u00ebl Rozendaal",
@@ -278,7 +310,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Un'opera d'arte digitale creata dall'artista Rafa\u00ebl Rozendaal nel 2013, che fa parte della Collection of Benjamin Palmer. L'opera \u00e8 un sito web che esplora i concetti di astrazione e presenza digitale.",
-      "url": "https://ifnoyes.com/"
+      "url": "https://ifnoyes.com/",
+      "date": "2024-12-29T16:12:56"
     },
     {
       "id": "Rafa\u00ebl Rozendaal",
@@ -286,7 +319,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Sito ufficiale dell'artista olandese-brasiliano Rafa\u00ebl Rozendaal, noto per aver creato opere d'arte digitali che sono anche nomi di dominio web. La sua arte esplora la materialit\u00e0 del web.",
-      "url": "https://www.newrafael.com/"
+      "url": "https://www.newrafael.com/",
+      "date": "2024-12-29T19:29:36"
     },
     {
       "id": "Abstract Browsing",
@@ -294,7 +328,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "L'opera d'arte di Rafa\u00ebl Rozendaal del 2014, che trasforma visivamente qualsiasi pagina web in un dipinto astratto, mantenendo solo la struttura e i colori del codice sottostante. L'opera \u00e8 nella collezione dello Stedelijk Museum.",
-      "url": "https://www.abstractbrowsing.net/"
+      "url": "https://www.abstractbrowsing.net/",
+      "date": "2024-12-29T19:33:23"
     },
     {
       "id": "(Contenuto non recuperabile)",
@@ -302,7 +337,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Stato su X (Twitter) di @hamptonism. Contenuto tecnico o di design.",
-      "url": "https://x.com/hamptonism/status/1873494956524085675?t=agjjPDoDHaRuRDjMJrQmLg&s=35"
+      "url": "https://x.com/hamptonism/status/1873494956524085675?t=agjjPDoDHaRuRDjMJrQmLg&s=35",
+      "date": "2024-12-30T14:39:49"
     },
     {
       "id": "Type Scale Generator by Landings",
@@ -310,7 +346,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Un generatore di scale tipografiche online che aiuta i designer a creare gerarchie di font armoniose e matematicamente bilanciate per interfacce web. Permette di definire rapporti di scala e tipi di font.",
-      "url": "https://landin.gs/tools/type-scale-generator/"
+      "url": "https://landin.gs/tools/type-scale-generator/",
+      "date": "2025-01-08T19:13:15"
     },
     {
       "id": "AI made in Italy: arriva Minerva, la prima famiglia di grandi modelli linguistici addestrati \u201cda zero\u201d per la lingua italiana",
@@ -326,7 +363,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Stato su X (Twitter) di @deedydas. Il contenuto si riferisce probabilmente a un aggiornamento tecnologico, un frammento di codice o un concetto di design innovativo.",
-      "url": "https://x.com/deedydas/status/1878472012819284195?t=G30_Kwr9054GnGKwCZVjqA&s=35"
+      "url": "https://x.com/deedydas/status/1878472012819284195?t=G30_Kwr9054GnGKwCZVjqA&s=35",
+      "date": "2025-01-12T20:55:42"
     },
     {
       "id": "(Contenuto non recuperabile)",
@@ -334,7 +372,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Stato su X (Twitter) di @rohanpaul_ai. Il contenuto \u00e8 relativo all'AI, in particolare a Large Language Models (LLM) o Machine Learning.",
-      "url": "https://x.com/rohanpaul_ai/status/1880184389218496770?t=MdaIok5eFfn08juiTuNv4A&s=35"
+      "url": "https://x.com/rohanpaul_ai/status/1880184389218496770?t=MdaIok5eFfn08juiTuNv4A&s=35",
+      "date": "2025-01-17T22:17:35"
     },
     {
       "id": "Nokia Design Archive",
@@ -350,7 +389,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Whishper \u00e8 un'applicazione web open-source e self-hosted per trascrivere audio e video in testo, tradurre e modificare i sottotitoli utilizzando i modelli Whisper di OpenAI. L'elaborazione avviene al 100% in locale per garantire la privacy.",
-      "url": "https://whishper.net/"
+      "url": "https://whishper.net/",
+      "date": "2025-01-22T13:28:16"
     },
     {
       "id": "Scriberr \u2014 Transcribe audio. Summarize. Annotate.",
@@ -358,7 +398,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Un'applicazione di trascrizione audio self-hosted e offline basata su AI che permette di trascrivere, riassumere e chattare sui file audio, anche da link YouTube. \u00c8 progettata per la privacy e offre funzionalit\u00e0 come la diarizzazione degli oratori.",
-      "url": "https://scriberr.app/"
+      "url": "https://scriberr.app/",
+      "date": "2025-01-22T13:29:12"
     },
     {
       "id": "anvaka/graph-drawing-libraries: Trying to compare known graph drawing libraries. - GitHub",
@@ -366,7 +407,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Una risorsa su GitHub che raccoglie e confronta una vasta collezione di librerie JavaScript per il disegno e la visualizzazione di grafi e reti, come ngraph e VivaGraphJS. \u00c8 un punto di riferimento per gli sviluppatori che lavorano con le strutture dati a grafo.",
-      "url": "https://github.com/anvaka/graph-drawing-libraries"
+      "url": "https://github.com/anvaka/graph-drawing-libraries",
+      "date": "2025-01-22T13:37:48"
     },
     {
       "id": "Zeroth Bot Dev Kit - The World's Most Accessible Humanoid for AI - Launching Soon on Kickstarter!",
@@ -382,7 +424,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Un progetto GitHub che mira a creare una implementazione reale del \"Personality Core\" di GLaDOS, l'intelligenza artificiale della serie di videogiochi Portal. \u00c8 un assistente vocale AI sperimentale con una personalit\u00e0 distintiva.",
-      "url": "https://github.com/dnhkng/GLaDOS"
+      "url": "https://github.com/dnhkng/GLaDOS",
+      "date": "2025-01-27T20:05:59"
     },
     {
       "id": "markdown-to-image - GitHub",
@@ -390,7 +433,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Un progetto che probabilmente riguarda uno strumento o una libreria per convertire il contenuto Markdown in un file immagine, come PNG o JPEG. Utile per la condivisione di snippet di codice o documenti formattati sui social media.",
-      "url": "https://github.com/gcui-art/markdown-to-image?s=35"
+      "url": "https://github.com/gcui-art/markdown-to-image?s=35",
+      "date": "2025-01-28T13:59:56"
     },
     {
       "id": "LearnHouse - The modern Open source learning platform for everyone.",
@@ -398,7 +442,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Piattaforma di apprendimento open-source moderna e ben progettata per creare e condividere corsi accademici, professionali e per la crescita personale. Include un editor a blocchi, quiz, assegnazioni e un copilot AI per docenti e studenti.",
-      "url": "https://www.learnhouse.app/"
+      "url": "https://www.learnhouse.app/",
+      "date": "2025-01-29T18:58:11"
     },
     {
       "id": "knadh/tg-archive: A tool for exporting Telegram group chats into static websites like mailing list archives. - GitHub",
@@ -406,7 +451,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Uno strumento Python per esportare le chat di gruppo di Telegram in siti web statici, preservando la cronologia della chat come archivi di mailing list. Supporta il download di media e la generazione di siti statici.",
-      "url": "https://github.com/knadh/tg-archive"
+      "url": "https://github.com/knadh/tg-archive",
+      "date": "2025-01-30T12:26:17"
     },
     {
       "id": "reveal.js: The HTML Presentation Framework - GitHub",
@@ -414,7 +460,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Framework open-source che consente di creare presentazioni web completamente funzionali utilizzando solo HTML. Offre funzionalit\u00e0 avanzate come slide annidate, supporto Markdown e animazioni automatiche.",
-      "url": "https://revealjs.com/"
+      "url": "https://revealjs.com/",
+      "date": "2025-01-31T20:05:10"
     },
     {
       "id": "The Minimal Company",
@@ -430,7 +477,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Estensione per Visual Studio Code che integra modelli linguistici LLama (e affini) per la generazione di codice, assistenza contestuale o altre funzionalit\u00e0 di AI all'interno dell'editor. Sfrutta il progetto ggml-org.",
-      "url": "https://github.com/ggml-org/llama.vscode?s=35"
+      "url": "https://github.com/ggml-org/llama.vscode?s=35",
+      "date": "2025-02-01T22:01:34"
     },
     {
       "id": "European Citizens' Initiative - Statements of support collected online",
@@ -438,7 +486,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Pagina per il sistema di raccolta elettronica delle dichiarazioni di sostegno per un'Iniziativa dei Cittadini Europei (ICE). La petizione in questione riguarda probabilmente un tema politico o sociale europeo.",
-      "url": "https://eci.ec.europa.eu/045/public/#/screen/home"
+      "url": "https://eci.ec.europa.eu/045/public/#/screen/home",
+      "date": "2025-02-03T20:55:48"
     },
     {
       "id": "Lo studio shock sui CAPTCHA: il lato oscuro della sicurezza - Tom's Hardware",
@@ -446,7 +495,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Articolo di Tom's Hardware che riporta i risultati di uno studio sull'inefficacia, sui problemi di sicurezza e sul costo in termini di tempo e inquinamento dei sistemi CAPTCHA. Lo studio solleva questioni etiche sull'uso dei dati raccolti.",
-      "url": "https://www.tomshw.it/hardware/lo-studio-shock-sui-captcha-il-lato-oscuro-della-sicurezza-2025-02-09"
+      "url": "https://www.tomshw.it/hardware/lo-studio-shock-sui-captcha-il-lato-oscuro-della-sicurezza-2025-02-09",
+      "date": "2025-02-10T14:44:05"
     },
     {
       "id": "(Contenuto non recuperabile)",
@@ -454,7 +504,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Traccia di un incontro su PNA Digital, probabilmente un documento di lavoro o verbale ospitato su Notion. Il titolo indica un incontro tenutosi il 14 febbraio 2026.",
-      "url": "https://5adesign.notion.site/PNA-Digital-traccia-dell-incontro-del-14-02-2026-19a98ea4938080ca85cfc29039bfb1e1?pvs=4"
+      "url": "https://5adesign.notion.site/PNA-Digital-traccia-dell-incontro-del-14-02-2026-19a98ea4938080ca85cfc29039bfb1e1?pvs=4",
+      "date": "2025-02-14T11:47:51"
     },
     {
       "id": "GB Studio",
@@ -462,7 +513,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Un software visuale, facile da usare e open-source che permette a chiunque di creare giochi in stile retr\u00f2 per Nintendo Game Boy (ROM giocabili) senza scrivere codice. \u00c8 un game maker drag-and-drop.",
-      "url": "https://www.gbstudio.dev/"
+      "url": "https://www.gbstudio.dev/",
+      "date": "2025-02-16T13:35:42"
     },
     {
       "id": "Juggl - An interactive, stylable and expandable graph view for Obsidian.",
@@ -470,7 +522,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Un plugin avanzato per Obsidian che fornisce una vista a grafo interattiva, personalizzabile e locale. \u00c8 uno strumento indispensabile per la gestione della conoscenza personale (PKM).",
-      "url": "https://juggl.io/"
+      "url": "https://juggl.io/",
+      "date": "2025-02-19T22:59:28"
     },
     {
       "id": "Home - Breadcrumbs - Obsidian Publish",
@@ -478,7 +531,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Documentazione per il plugin Breadcrumbs di Obsidian, che aggiunge la navigazione gerarchica e i link tipizzati tra le note. Aiuta a visualizzare e gestire strutture di conoscenza complesse.",
-      "url": "https://publish.obsidian.md/breadcrumbs-docs/Home"
+      "url": "https://publish.obsidian.md/breadcrumbs-docs/Home",
+      "date": "2025-02-19T23:01:07"
     },
     {
       "id": "Open Sources, Voci dalla Rivoluzione Open Source - O'Reilly Media",
@@ -486,7 +540,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Libro che raccoglie saggi e voci dei principali leader del movimento open source, tra cui Linus Torvalds e Larry Wall. Offre una visione profonda su come lo sviluppo aperto stia creando software migliore.",
-      "url": "https://www.oreilly.com/openbook/opensources/book/"
+      "url": "https://www.oreilly.com/openbook/opensources/book/",
+      "date": "2025-02-21T17:40:06"
     },
     {
       "id": "The Small Web ~ Home",
@@ -494,7 +549,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Un movimento che incoraggia la creazione di siti web personali, decentralizzati e liberi dalla logica delle grandi piattaforme. Promuove un internet pi\u00f9 focalizzato sull'espressione creativa e la connessione individuale.",
-      "url": "https://smallweb.cc/"
+      "url": "https://smallweb.cc/",
+      "date": "2025-02-24T19:56:02"
     },
     {
       "id": "(Contenuto non recuperabile)",
@@ -502,7 +558,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Un documento su Notion che funge da spazio di lavoro o dashboard per un progetto, forse legato a una pianificazione o a note aziendali/personali. Non \u00e8 possibile determinarne il contenuto specifico.",
-      "url": "https://youthful-fan-3d7.notion.site/3923866a194a443abe53bf4816915452?v=37a4ff8ac3934f49814b8b59f7432a72&s=35"
+      "url": "https://youthful-fan-3d7.notion.site/3923866a194a443abe53bf4816915452?v=37a4ff8ac3934f49814b8b59f7432a72&s=35",
+      "date": "2025-03-05T06:56:52"
     },
     {
       "id": "VikParuchuri/marker - GitHub",
@@ -510,7 +567,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Uno strumento Python open-source che utilizza l'intelligenza artificiale per convertire documenti PDF e EPUB in formati Markdown, TXT o JSON di alta qualit\u00e0, mantenendo la struttura originale del documento. \u00c8 particolarmente efficace nel rilevare e formattare tabelle.",
-      "url": "https://github.com/VikParuchuri/marker?tab=readme-ov-file"
+      "url": "https://github.com/VikParuchuri/marker?tab=readme-ov-file",
+      "date": "2025-03-05T18:11:33"
     },
     {
       "id": "The Making of Software (Non Recuperabile)",
@@ -518,7 +576,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Un sito o un blog interamente dedicato ai principi, alle pratiche e alle filosofie alla base della creazione di software di qualit\u00e0. Potrebbe essere legato all'ingegneria del software o al design.",
-      "url": "https://www.makingsoftware.com/?s=35"
+      "url": "https://www.makingsoftware.com/?s=35",
+      "date": "2025-03-12T22:46:27"
     },
     {
       "id": "Dan Hollick (@DanHollick) - Typefully",
@@ -526,7 +585,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Profilo di Dan Hollick, Design Engineer di Tailwind CSS, dove pubblica thread su X (Twitter) che spiegano concetti complessi di design, sviluppo front-end e UX in modo chiaro e approfondito.",
-      "url": "https://typefully.com/DanHollick"
+      "url": "https://typefully.com/DanHollick",
+      "date": "2025-03-12T22:50:50"
     },
     {
       "id": "(Contenuto non recuperabile)",
@@ -534,7 +594,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Stato su X (Twitter) di @kimmonismus, probabilmente un'analisi o un'osservazione sul design delle interfacce utente, sull'esperienza utente o sulla tecnologia.",
-      "url": "https://x.com/kimmonismus/status/1902234320380563813?t=pjBw_xUsyRJtvw42fFDhZQ&s=35"
+      "url": "https://x.com/kimmonismus/status/1902234320380563813?t=pjBw_xUsyRJtvw42fFDhZQ&s=35",
+      "date": "2025-03-20T17:54:01"
     },
     {
       "id": "Getting Started with AutoGluon: Your First Steps in Automated Machine Learning",
@@ -542,7 +603,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Guida introduttiva al framework AutoGluon di Amazon Web Services, un tool di Automated Machine Learning (AutoML). Permette di addestrare modelli ML di alta qualit\u00e0 con poche righe di codice, automatizzando l'ottimizzazione e la selezione del modello.",
-      "url": "https://www.kdnuggets.com/getting-started-with-autogluon-your-first-steps-in-automated-machine-learning"
+      "url": "https://www.kdnuggets.com/getting-started-with-autogluon-your-first-steps-in-automated-machine-learning",
+      "date": "2025-03-21T22:48:50"
     },
     {
       "id": "Quick Reminder That :is() and :where() Are Basically the Same With One Key Difference",
@@ -558,7 +620,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Stato su X (Twitter) di Meng To. Il post \u00e8 di Meng To, un noto designer, e probabilmente riguarda argomenti di UI/UX, prototipazione o tendenze del design.",
-      "url": "https://x.com/MengTo/status/1903316180045337073?t=2R08qx6a5Bbs3BLNZ1knqw&s=35"
+      "url": "https://x.com/MengTo/status/1903316180045337073?t=2R08qx6a5Bbs3BLNZ1knqw&s=35",
+      "date": "2025-03-22T21:52:11"
     },
     {
       "id": "Free UX Templates",
@@ -574,7 +637,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Stato su X (Twitter) di God of Prompt. Il post \u00e8 focalizzato su tecniche avanzate di Prompt Engineering per modelli di intelligenza artificiale.",
-      "url": "https://x.com/godofprompt/status/1906102689051861270?t=7kdZ6wuahtx-B77ULIQx6A&s=35"
+      "url": "https://x.com/godofprompt/status/1906102689051861270?t=7kdZ6wuahtx-B77ULIQx6A&s=35",
+      "date": "2025-03-31T21:15:52"
     },
     {
       "id": "(Contenuto non recuperabile)",
@@ -582,7 +646,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Stato su X (Twitter) di BrivaelLp. Il contenuto \u00e8 relativo a frammenti di codice, suggerimenti CSS o tecniche di sviluppo frontend.",
-      "url": "https://x.com/BrivaelLp/status/1907417574339465490?t=cxGsHbeB3lWME1gUfJKApQ&s=35"
+      "url": "https://x.com/BrivaelLp/status/1907417574339465490?t=cxGsHbeB3lWME1gUfJKApQ&s=35",
+      "date": "2025-04-02T20:24:40"
     },
     {
       "id": "Hitomezashi",
@@ -590,7 +655,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Sito web interattivo dedicato all'esplorazione del ricamo giapponese Hitomezashi. Permette agli utenti di generare pattern geometrici complessi basati su semplici regole booleane.",
-      "url": "https://hitomezashi.com/"
+      "url": "https://hitomezashi.com/",
+      "date": "2025-04-03T16:11:05"
     },
     {
       "id": "(Contenuto non recuperabile)",
@@ -598,7 +664,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Stato su X (Twitter) di Matt Dancho. Il post riguarda la Data Science, probabilmente mostrando una visualizzazione, un pacchetto R/Python o un concetto di Machine Learning.",
-      "url": "https://x.com/mdancho84/status/1908545574200135775?t=lpryzrarjinSvXvCFxDbOQ&s=35"
+      "url": "https://x.com/mdancho84/status/1908545574200135775?t=lpryzrarjinSvXvCFxDbOQ&s=35",
+      "date": "2025-04-06T08:28:45"
     },
     {
       "id": "Navbar Gallery \u2013 Navigation Design Inspiration",
@@ -606,7 +673,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Una galleria di ispirazione che raccoglie esempi di design creativi e funzionali per le barre di navigazione (navbar) di siti web. Utile per i web designer e gli sviluppatori frontend.",
-      "url": "https://www.navbar.gallery/"
+      "url": "https://www.navbar.gallery/",
+      "date": "2025-04-06T18:19:01"
     },
     {
       "id": "(Contenuto non recuperabile)",
@@ -614,7 +682,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Stato su X (Twitter) di Matt Dancho. Un altro post di Matt Dancho, presumibilmente focalizzato su aspetti avanzati o nuovi sviluppi nel campo della Data Science o dell'AI.",
-      "url": "https://x.com/mdancho84/status/1908906456146989226?t=P7qOEtxaacr7ihHk8PbK1A&s=35"
+      "url": "https://x.com/mdancho84/status/1908906456146989226?t=P7qOEtxaacr7ihHk8PbK1A&s=35",
+      "date": "2025-04-07T14:10:03"
     },
     {
       "id": "Catalogue",
@@ -630,7 +699,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Sito web ufficiale (o promozionale) della serie TV di Netflix \"Dark\", che spesso include elementi interattivi o una timeline per aiutare gli spettatori a seguire la trama complessa.",
-      "url": "https://dark.netflix.io/"
+      "url": "https://dark.netflix.io/",
+      "date": "2025-04-09T18:51:23"
     },
     {
       "id": "(Contenuto non recuperabile)",
@@ -638,7 +708,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Stato su X (Twitter) di David M. Il post riguarda il Machine Learning, probabilmente discutendo di modelli, tecniche o nuove pubblicazioni nel settore.",
-      "url": "https://x.com/davidm_ml/status/1909863649096749082?t=QgRB3SY64g6deIx_2WwifQ&s=35"
+      "url": "https://x.com/davidm_ml/status/1909863649096749082?t=QgRB3SY64g6deIx_2WwifQ&s=35",
+      "date": "2025-04-09T19:21:50"
     },
     {
       "id": "(Contenuto non recuperabile)",
@@ -654,7 +725,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Una vasta e ben organizzata raccolta di principi fondamentali e linee guida per il design, utile per chiunque si occupi di progettazione UI/UX o di prodotti.",
-      "url": "https://principles.design/?s=35"
+      "url": "https://principles.design/?s=35",
+      "date": "2025-04-12T16:34:15"
     },
     {
       "id": "(Contenuto non recuperabile)",
@@ -662,7 +734,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Stato su X (Twitter) di Damon Crockett. Il post riguarda probabilmente la Data Science, l'analisi dei dati o la visualizzazione di informazioni complesse.",
-      "url": "https://x.com/DamonCrockett/status/1910752262470639854?t=YV4wDuiCXPaYl0wl85lOtA&s=35"
+      "url": "https://x.com/DamonCrockett/status/1910752262470639854?t=YV4wDuiCXPaYl0wl85lOtA&s=35",
+      "date": "2025-04-12T20:48:32"
     },
     {
       "id": "I replaced Google Photos, Drive, and Docs with these free self-hosted services \u2014 and they're better, too",
@@ -670,7 +743,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Articolo di XDA Developers che descrive come l'autore abbia sostituito i servizi cloud di Google (Foto, Drive, Docs) con alternative gratuite e self-hosted, spesso con benefici in termini di privacy e controllo.",
-      "url": "https://www.xda-developers.com/replaced-google-photos-drive-docs/"
+      "url": "https://www.xda-developers.com/replaced-google-photos-drive-docs/",
+      "date": "2025-05-01T21:52:02"
     },
     {
       "id": "(Contenuto non recuperabile)",
@@ -678,7 +752,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Stato su X (Twitter) di GithubProjects. Il post \u00e8 un aggiornamento o una promozione di una nuova funzionalit\u00e0 o miglioramento del prodotto GitHub Projects.",
-      "url": "https://x.com/GithubProjects/status/1918500931517186410?t=GPx3SmFjRIn4K_jx3tOe_w&s=35"
+      "url": "https://x.com/GithubProjects/status/1918500931517186410?t=GPx3SmFjRIn4K_jx3tOe_w&s=35",
+      "date": "2025-05-03T21:35:49"
     },
     {
       "id": "AIDC-AI/Ovis2-8B \u00b7 Hugging Face",
@@ -686,7 +761,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Pagina di Hugging Face per il modello Ovis2-8B di AIDC-AI. Si tratta di un Large Language Model (LLM) open-source, probabilmente focalizzato su prestazioni ed efficienza.",
-      "url": "https://huggingface.co/AIDC-AI/Ovis2-8B"
+      "url": "https://huggingface.co/AIDC-AI/Ovis2-8B",
+      "date": "2025-05-03T21:39:07"
     },
     {
       "id": "(Contenuto non recuperabile)",
@@ -694,7 +770,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Stato su X (Twitter) di God of Prompt. Un altro post di rilievo sulla Prompt Engineering, che fornisce consigli, trucchi o esempi pratici su come interagire efficacemente con i modelli AI.",
-      "url": "https://x.com/godofprompt/status/1919391876882313246?t=9cQHvWKnA6q6KXnj2qiGlw&s=35"
+      "url": "https://x.com/godofprompt/status/1919391876882313246?t=9cQHvWKnA6q6KXnj2qiGlw&s=35",
+      "date": "2025-05-06T09:11:20"
     },
     {
       "id": "Manim Community",
@@ -702,7 +779,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Sito ufficiale della community per Manim, la popolare libreria Python utilizzata per creare animazioni matematiche e scientifiche di alta qualit\u00e0, resa famosa da 3Blue1Brown.",
-      "url": "https://www.manim.community/"
+      "url": "https://www.manim.community/",
+      "date": "2025-05-07T19:23:06"
     },
     {
       "id": "markmap/markmap - GitHub",
@@ -710,7 +788,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Libreria JavaScript che permette di creare mappe mentali interattive e visualmente accattivanti direttamente da file Markdown. Ottima per organizzare pensieri e strutture di documenti.",
-      "url": "https://github.com/markmap/markmap?s=35"
+      "url": "https://github.com/markmap/markmap?s=35",
+      "date": "2025-05-07T21:48:59"
     },
     {
       "id": "slidevjs/slidev - GitHub",
@@ -718,7 +797,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Un framework basato su Vue.js che permette di creare presentazioni ricche e dinamiche utilizzando file Markdown semplici. Supporta funzionalit\u00e0 avanzate come componenti Vue e il live reloading.",
-      "url": "https://github.com/slidevjs/slidev?s=35"
+      "url": "https://github.com/slidevjs/slidev?s=35",
+      "date": "2025-05-07T21:49:18"
     },
     {
       "id": "Anytype",
@@ -726,7 +806,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Una piattaforma di gestione della conoscenza e della produttivit\u00e0 che si posiziona come alternativa open-source e focalizzata sulla privacy a strumenti come Notion. I dati sono gestiti in un \"cloud privato\" per l'utente.",
-      "url": "https://anytype.io/"
+      "url": "https://anytype.io/",
+      "date": "2025-05-07T23:04:46"
     },
     {
       "id": "threejsresources.com",
@@ -742,7 +823,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Una lista curata e collaborativa (awesome list) di dataset pubblici disponibili in Italia, utili per progetti di ricerca, analisi dati e intelligenza artificiale.",
-      "url": "https://github.com/italia/awesome-italian-public-datasets"
+      "url": "https://github.com/italia/awesome-italian-public-datasets",
+      "date": "2025-05-11T19:40:16"
     },
     {
       "id": "Electricity 2024 - Analysis and forecast to 2026.pdf",
@@ -750,7 +832,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Rapporto dettagliato dell'Agenzia Internazionale dell'Energia (IEA) che analizza il mercato globale dell'elettricit\u00e0, fornendo previsioni e trend fino al 2026. Il focus \u00e8 su fonti, consumo e politiche energetiche.",
-      "url": "https://iea.blob.core.windows.net/assets/6b2fd954-2017-408e-bf08-952fdd62118a/Electricity2024-Analysisandforecastto2026.pdf"
+      "url": "https://iea.blob.core.windows.net/assets/6b2fd954-2017-408e-bf08-952fdd62118a/Electricity2024-Analysisandforecastto2026.pdf",
+      "date": "2025-05-11T20:39:05"
     },
     {
       "id": "SVG to CSS Generator",
@@ -758,7 +841,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Uno strumento online che facilita la conversione di codice SVG in codice CSS, specificamente per l'uso come immagini di sfondo o per altri stili. Ottimo per ottimizzare il caricamento e l'uso delle icone vettoriali sul web.",
-      "url": "https://css-generators.com/svg-to-css/?s=35"
+      "url": "https://css-generators.com/svg-to-css/?s=35",
+      "date": "2025-05-12T18:42:21"
     },
     {
       "id": "Gemini for Google Workspace Prompting Guide 101.pdf",
@@ -766,7 +850,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Guida ufficiale per principianti creata da Google sull'uso efficace del prompt engineering per il modello Gemini all'interno degli strumenti di Google Workspace.",
-      "url": "https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101.pdf?s=35"
+      "url": "https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101.pdf?s=35",
+      "date": "2025-05-12T18:42:31"
     },
     {
       "id": "Machine Learning Crash Course",
@@ -782,7 +867,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Piattaforma di sviluppo di Google che offre un ambiente per la prototipazione rapida e l'interazione con i modelli Gemini e altre API AI. Permette di sperimentare con l'AI e costruire applicazioni.",
-      "url": "https://aistudio.google.com/"
+      "url": "https://aistudio.google.com/",
+      "date": "2025-05-18T20:31:42"
     },
     {
       "id": "Code Assist by Google",
@@ -790,7 +876,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Prodotto o funzionalit\u00e0 di Google per l'assistenza alla scrittura di codice tramite intelligenza artificiale, mirato a migliorare la produttivit\u00e0 degli sviluppatori.",
-      "url": "https://codeassist.google/?hl=it"
+      "url": "https://codeassist.google/?hl=it",
+      "date": "2025-05-18T20:40:27"
     },
     {
       "id": "12 Timeless Books Every Programmer Should Read - DEV Community",
@@ -798,7 +885,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Una lista curata di 12 libri fondamentali e \"senza tempo\" che ogni programmatore dovrebbe leggere per migliorare le proprie competenze tecniche, di design e di carriera.",
-      "url": "https://dev.to/somadevtoo/12-timeless-books-every-programmer-should-read-3202"
+      "url": "https://dev.to/somadevtoo/12-timeless-books-every-programmer-should-read-3202",
+      "date": "2025-05-19T10:04:01"
     },
     {
       "id": "Email, browser e ricerche, le migliori alternative europee alle big tech per proteggere la privacy",
@@ -814,7 +902,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Riepilogo dei 10 punti salienti e delle principali tendenze di mercato emerse dall'ultimo influente rapporto sull'AI di Mary Meeker.",
-      "url": "https://www.saastr.com/the-top-10-learnings-from-mary-meekers-latest-report-on-ai/?s=35"
+      "url": "https://www.saastr.com/the-top-10-learnings-from-mary-meekers-latest-report-on-ai/?s=35",
+      "date": "2025-06-02T15:25:10"
     },
     {
       "id": "Cooklang",
@@ -822,7 +911,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Un linguaggio di markup semplice e open-source pensato specificamente per scrivere, leggere e condividere ricette di cucina in formato testo puro e leggibile dall'uomo.",
-      "url": "https://cooklang.org/"
+      "url": "https://cooklang.org/",
+      "date": "2025-06-05T19:26:18"
     },
     {
       "id": "UIBot",
@@ -830,7 +920,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Una piattaforma o uno strumento di intelligenza artificiale per l'automazione e l'assistenza nella progettazione di interfacce utente (UI). Mira a velocizzare i flussi di lavoro di design e prototipazione.",
-      "url": "https://www.uibot.app/"
+      "url": "https://www.uibot.app/",
+      "date": "2025-06-19T17:04:10"
     },
     {
       "id": "Overview \u2039 Your Brain on ChatGPT \u2014 MIT Media Lab",
@@ -838,7 +929,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Ricerca del MIT Media Lab che esamina l'impatto cognitivo e neurologico dei Large Language Models (LLM) come ChatGPT sull'apprendimento e sul cervello umano.",
-      "url": "https://www.media.mit.edu/projects/your-brain-on-chatgpt/overview/#faq-is-it-safe-to-say-that-llms-are-in-essence-making-us-dumber"
+      "url": "https://www.media.mit.edu/projects/your-brain-on-chatgpt/overview/#faq-is-it-safe-to-say-that-llms-are-in-essence-making-us-dumber",
+      "date": "2025-06-22T20:07:50"
     },
     {
       "id": "EuroStack",
@@ -846,7 +938,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Un'iniziativa che promuove e mappa lo stack tecnologico europeo, includendo software, cloud e AI sviluppati in Europa. L'obiettivo \u00e8 supportare l'indipendenza tecnologica europea.",
-      "url": "https://www.euro-stack.info/"
+      "url": "https://www.euro-stack.info/",
+      "date": "2025-06-25T23:43:14"
     },
     {
       "id": "Copyright Cases Should Not Threaten Chatbot Users\u2019 Privacy",
@@ -862,7 +955,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Articolo che riassume il Work Trend Index di Microsoft, evidenziando come l'AI stia contribuendo a limitare le ore di lavoro eccessive, automatizzando compiti e migliorando la produttivit\u00e0.",
-      "url": "https://news.microsoft.com/it-it/2025/06/24/microsoft-work-trend-index-lai-per-evitare-la-giornata-lavorativa-infinita/"
+      "url": "https://news.microsoft.com/it-it/2025/06/24/microsoft-work-trend-index-lai-per-evitare-la-giornata-lavorativa-infinita/",
+      "date": "2025-06-26T21:49:15"
     },
     {
       "id": "2025_Work_Trend_Index_Annual_Report_680aaa7fe52dd.pdf",
@@ -870,7 +964,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Il rapporto annuale completo 2025 del Microsoft Work Trend Index. Un documento approfondito che analizza l'evoluzione del lavoro e l'impatto dell'AI sulle professioni.",
-      "url": "https://assets-c4akfrf5b4d3f4b7.z01.azurefd.net/assets/2025/04/2025_Work_Trend_Index_Annual_Report_680aaa7fe52dd.pdf"
+      "url": "https://assets-c4akfrf5b4d3f4b7.z01.azurefd.net/assets/2025/04/2025_Work_Trend_Index_Annual_Report_680aaa7fe52dd.pdf",
+      "date": "2025-06-26T21:50:32"
     },
     {
       "id": "paper-la-neuroscienza-dietro-la-scrittura-giugno-2025.pdf (Riflessioni sulla Neuroscienza)",
@@ -878,7 +973,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Un file PDF (condiviso tramite Google Share) che presumibilmente approfondisce il legame tra la neuroscienza e i processi cognitivi alla base dell'atto della scrittura.",
-      "url": "https://share.google/dkxonkMJtzUKquEJW"
+      "url": "https://share.google/dkxonkMJtzUKquEJW",
+      "date": "2025-06-27T23:07:27"
     },
     {
       "id": "Nanny State Index",
@@ -886,7 +982,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Indice che classifica i paesi in base alla misura in cui gli Stati regolamentano la vita dei cittadini, concentrandosi in particolare sulle politiche su alcol, tabacco e cibo. \u00c8 una risorsa per l'analisi della libert\u00e0 economica e personale in Europa.",
-      "url": "https://nannystateindex.org/?twclid=274judc48raljws0frxseulcrl&s=35"
+      "url": "https://nannystateindex.org/?twclid=274judc48raljws0frxseulcrl&s=35",
+      "date": "2025-07-05T13:46:30"
     },
     {
       "id": "Bitchat, come funziona l'app di messaggistica che non ha bisogno di internet",
@@ -918,7 +1015,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Il rapporto annuale di iF Design che analizza le tendenze globali del design per l'anno 2025, coprendo trasformazioni sociali, tecnologiche ed economiche. \u00c8 una risorsa chiave per i professionisti del design.",
-      "url": "https://ifdesign.com/iF-Design-Trend-Report-2025.pdf"
+      "url": "https://ifdesign.com/iF-Design-Trend-Report-2025.pdf",
+      "date": "2025-07-14T12:34:53"
     },
     {
       "id": "K-Scale Labs: Open-source humanoid robots, built for developers (Robot Umanoide)",
@@ -926,7 +1024,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Contenuto (condiviso tramite Google Share) che riguarda K-Scale Labs, un progetto focalizzato sulla creazione di robot umanoidi open-source e accessibili per la comunit\u00e0 degli sviluppatori e della robotica.",
-      "url": "https://share.google/A0Raylarzkqg9QfFQ"
+      "url": "https://share.google/A0Raylarzkqg9QfFQ",
+      "date": "2025-07-18T21:38:09"
     },
     {
       "id": "Mark Zuckerberg ha chiuso con un patteggiamento il processo da 8 miliardi che lo accusava di aver sacrificato la privacy dei suoi utenti",
@@ -942,7 +1041,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Stato su X (Twitter) di Satya Nadella, CEO di Microsoft. Il post riguarda probabilmente annunci, visioni o riflessioni sull'AI o sulle iniziative di Microsoft.",
-      "url": "https://x.com/satyanadella/status/1948101877486452897?t=OigLQjQSbXgL9t2c8b06lQ&s=35"
+      "url": "https://x.com/satyanadella/status/1948101877486452897?t=OigLQjQSbXgL9t2c8b06lQ&s=35",
+      "date": "2025-07-23T23:16:56"
     },
     {
       "id": "Avanzano le community della disintossicazione digitale consapevole - Il Sole 24 ORE (Digital Detox)",
@@ -950,7 +1050,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Articolo che discute la crescita e l'impatto delle comunit\u00e0 e dei movimenti focalizzati sulla disintossicazione digitale e sull'uso consapevole della tecnologia.",
-      "url": "https://share.google/CJoShnypQzLo1umMc"
+      "url": "https://share.google/CJoShnypQzLo1umMc",
+      "date": "2025-07-28T08:09:47"
     },
     {
       "id": "https://futurism.com/openai-investor-chatgpt-mental-health",
@@ -958,7 +1059,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Articolo che riporta le preoccupazioni di un ex-investitore di OpenAI che ritiene che l'uso diffuso di ChatGPT stia contribuendo a una crisi della salute mentale. Le preoccupazioni si concentrano sull'eccessiva dipendenza dall'AI per la consulenza personale o emotiva.",
-      "url": "https://futurism.com/openai-investor-chatgpt-mental-health"
+      "url": "https://futurism.com/openai-investor-chatgpt-mental-health",
+      "date": "2025-07-28T15:12:45"
     },
     {
       "id": "https://storm.genie.stanford.edu/?s=35",
@@ -966,7 +1068,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Progetto di ricerca di Stanford su agenti AI multi-pass che migliorano l'affidabilit\u00e0 e la profondit\u00e0 delle risposte AI attraverso l'autocorrezione e l'analisi selettiva delle informazioni. Il modello si comporta come un ricercatore umano.",
-      "url": "https://storm.genie.stanford.edu/?s=35"
+      "url": "https://storm.genie.stanford.edu/?s=35",
+      "date": "2025-07-30T21:51:09"
     },
     {
       "id": "https://github.com/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies",
@@ -974,7 +1077,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Un elenco curato su GitHub di casi di studio e risorse per l'apprendimento della progettazione di sistemi di Machine Learning in contesti reali (System Design). Utile per ingegneri ML e data scientists.",
-      "url": "https://github.com/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies"
+      "url": "https://github.com/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies",
+      "date": "2025-07-30T21:53:22"
     },
     {
       "id": "(Contenuto non recuperabile)",
@@ -982,7 +1086,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Contenuto (condiviso tramite Google Share) che riguarda una tecnica di sviluppo web per creare un effetto \"scroll-spy\" (che evidenzia automaticamente la sezione in vista) utilizzando pochissimo codice CSS.",
-      "url": "https://share.google/bkRUsU1fGAY7vnbm0"
+      "url": "https://share.google/bkRUsU1fGAY7vnbm0",
+      "date": "2025-07-31T18:20:07"
     },
     {
       "id": "(Contenuto non recuperabile)",
@@ -990,7 +1095,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Articolo della famosa risorsa CSS-Tricks che discute i metodi e le fonti per scoprire nuove e interessanti tecniche e trucchi CSS (condiviso tramite Google Share).",
-      "url": "https://share.google/dYRlbI1ko6NLFVmfV"
+      "url": "https://share.google/dYRlbI1ko6NLFVmfV",
+      "date": "2025-07-31T21:00:23"
     },
     {
       "id": "(Contenuto non recuperabile)",
@@ -998,7 +1104,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Stato su X (Twitter) di Google AI Devs. Il post \u00e8 un annuncio ufficiale o un aggiornamento sui nuovi strumenti, modelli o API di intelligenza artificiale di Google.",
-      "url": "https://x.com/googleaidevs/status/1951343120144388364?t=qWSCc_toUHE3t25Vcd5r8Q&s=35"
+      "url": "https://x.com/googleaidevs/status/1951343120144388364?t=qWSCc_toUHE3t25Vcd5r8Q&s=35",
+      "date": "2025-08-02T20:35:58"
     },
     {
       "id": "(Contenuto non recuperabile)",
@@ -1006,7 +1113,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Articolo che parla di una pittura innovativa a base di grafene, che, grazie alle sue propriet\u00e0 conduttive, pu\u00f2 essere utilizzata per riscaldare gli ambienti in modo pi\u00f9 efficiente rispetto ai sistemi tradizionali.",
-      "url": "https://share.google/NBFAMtOjh9Fx10Fxn"
+      "url": "https://share.google/NBFAMtOjh9Fx10Fxn",
+      "date": "2025-08-02T22:56:33"
     },
     {
       "id": "https://hackaday.com/2025/07/23/the-death-of-industrial-design-and-the-era-of-dull-electronics/",
@@ -1014,7 +1122,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Articolo su Hackaday che lamenta l'omologazione estetica e il declino del design industriale distintivo nei prodotti elettronici moderni.",
-      "url": "https://hackaday.com/2025/07/23/the-death-of-industrial-design-and-the-era-of-dull-electronics/"
+      "url": "https://hackaday.com/2025/07/23/the-death-of-industrial-design-and-the-era-of-dull-electronics/",
+      "date": "2025-08-05T08:03:13"
     },
     {
       "id": "https://www.microsoft.com/en-us/research/publication/working-with-ai-measuring-the-occupational-implications-of-generative-ai/",
@@ -1022,7 +1131,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Pubblicazione di Microsoft Research che analizza e quantifica le implicazioni dell'AI generativa sui ruoli lavorativi, misurando come l'AI stia rimodellando le mansioni e le competenze richieste.",
-      "url": "https://www.microsoft.com/en-us/research/publication/working-with-ai-measuring-the-occupational-implications-of-generative-ai/"
+      "url": "https://www.microsoft.com/en-us/research/publication/working-with-ai-measuring-the-occupational-implications-of-generative-ai/",
+      "date": "2025-08-10T19:44:30"
     },
     {
       "id": "https://www.bbc.com/culture/article/20161004-was-modern-art-a-weapon-of-the-cia?s=35",
@@ -1030,7 +1140,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Articolo della BBC che esplora la controversa teoria secondo cui la CIA avrebbe segretamente promosso l'Espressionismo Astratto e l'Arte Moderna come arma culturale durante la Guerra Fredda.",
-      "url": "https://www.bbc.com/culture/article/20161004-was-modern-art-a-weapon-of-the-cia?s=35"
+      "url": "https://www.bbc.com/culture/article/20161004-was-modern-art-a-weapon-of-the-cia?s=35",
+      "date": "2025-08-11T14:34:10"
     },
     {
       "id": "(Contenuto non recuperabile)",
@@ -1038,7 +1149,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Contenuto (condiviso tramite Google Share) che riguarda Humanity Protocol, una blockchain per l'identit\u00e0 decentralizzata. Lo scopo \u00e8 dare agli utenti il pieno controllo sui propri dati e sulla propria identit\u00e0 digitale.",
-      "url": "https://share.google/3vt4OGkG4jghMLRsQ"
+      "url": "https://share.google/3vt4OGkG4jghMLRsQ",
+      "date": "2025-08-11T19:01:30"
     },
     {
       "id": "https://github.com/danielmiessler/fabric",
@@ -1046,7 +1158,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Un framework di ingegneria dell'AI open source che permette agli utenti di creare \"personaggi\" AI riutilizzabili e tool per compiti specifici. \u00c8 l'alternativa open source per la creazione di flussi di lavoro AI.",
-      "url": "https://github.com/danielmiessler/fabric"
+      "url": "https://github.com/danielmiessler/fabric",
+      "date": "2025-08-12T16:25:15"
     },
     {
       "id": "DeepStateMAP",
@@ -1062,7 +1175,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Un'indagine di Reuters che rivela un caso in cui un chatbot AI di Meta ha avuto conversazioni inquietanti con un utente in lutto, suggerendogli l'autolesionismo. Solleva gravi questioni etiche sull'AI in ambito di salute mentale.",
-      "url": "https://www.reuters.com/investigates/special-report/meta-ai-chatbot-death/?s=35"
+      "url": "https://www.reuters.com/investigates/special-report/meta-ai-chatbot-death/?s=35",
+      "date": "2025-08-15T09:37:13"
     },
     {
       "id": "(Contenuto non recuperabile)",
@@ -1070,7 +1184,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Stato su X (Twitter) di Konsti Paulus. Probabilmente un post su temi di design, UI/UX o strumenti per sviluppatori e designer.",
-      "url": "https://x.com/konstipaulus/status/1954539980564435318?t=guI5HlfJCRe_RxgKU5n46g&s=35"
+      "url": "https://x.com/konstipaulus/status/1954539980564435318?t=guI5HlfJCRe_RxgKU5n46g&s=35",
+      "date": "2025-08-15T18:22:01"
     },
     {
       "id": "$$2508.03430$$",
@@ -1078,7 +1193,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Un paper di ricerca accademica che propone un nuovo approccio metodologico che utilizza la fantascienza per anticipare e guidare la ricerca scientifica e tecnologica.",
-      "url": "https://arxiv.org/abs/2508.03430"
+      "url": "https://arxiv.org/abs/2508.03430",
+      "date": "2025-08-16T18:15:41"
     },
     {
       "id": "Science Fiction Science \u2014 Iyad Rahwan",
@@ -1086,7 +1202,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Pagina web di Iyad Rahwan che spiega il concetto di \"Science Fiction Science\", un metodo per anticipare scenari futuri (spesso negativi) con l'AI e lavorare per prevenirli.",
-      "url": "https://www.rahwan.me/science/sci-fi-sci"
+      "url": "https://www.rahwan.me/science/sci-fi-sci",
+      "date": "2025-08-16T18:16:35"
     },
     {
       "id": "(Contenuto non recuperabile)",
@@ -1094,7 +1211,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Contenuto (condiviso tramite Google Share) su Luigi Lineri, probabilmente un artista o una figura legata alla cultura o alla tecnologia, data la natura degli altri link.",
-      "url": "https://share.google/HuT9l9XvNi4PHR5Bf"
+      "url": "https://share.google/HuT9l9XvNi4PHR5Bf",
+      "date": "2025-08-16T20:43:11"
     },
     {
       "id": "Home Page - PermessoNegato",
@@ -1102,7 +1220,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Sito web dell'iniziativa \"Permesso Negato\" che si concentra sulla discriminazione delle donne nel mondo del lavoro, in particolare dopo la maternit\u00e0. Il link punta anche al rapporto completo IBSA 2023 in PDF.",
-      "url": "https://www.permessonegato.it/"
+      "url": "https://www.permessonegato.it/",
+      "date": "2025-08-21T21:34:12"
     },
     {
       "id": "Introduction to Generative AI and LLMs - Generative AI for Beginners",
@@ -1110,7 +1229,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Video o modulo didattico di Microsoft Learn per principianti, che introduce i concetti fondamentali dell'intelligenza artificiale generativa e dei Large Language Models (LLM).",
-      "url": "https://learn.microsoft.com/en-us/shows/generative-ai-for-beginners/introduction-to-generative-ai-and-llms-generative-ai-for-beginners?s=35"
+      "url": "https://learn.microsoft.com/en-us/shows/generative-ai-for-beginners/introduction-to-generative-ai-and-llms-generative-ai-for-beginners?s=35",
+      "date": "2025-08-22T21:18:42"
     },
     {
       "id": "(Contenuto non recuperabile)",
@@ -1118,7 +1238,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Contenuto (condiviso tramite Google Share) che presenta una classifica dei siti web pi\u00f9 citati come fonti dai modelli di intelligenza artificiale. Utile per capire l'origine della conoscenza dell'AI.",
-      "url": "https://share.google/GV5MniTltsASgiwT4"
+      "url": "https://share.google/GV5MniTltsASgiwT4",
+      "date": "2025-08-24T21:08:07"
     },
     {
       "id": "(Contenuto non recuperabile)",
@@ -1126,7 +1247,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Studio comparativo (condiviso tramite Google Share) che analizza le differenze di prestazioni e risultati tra la modalit\u00e0 AI di Google, la ricerca tradizionale e altri Large Language Models (LLM).",
-      "url": "https://share.google/jDAiXCEdczjTSnr98"
+      "url": "https://share.google/jDAiXCEdczjTSnr98",
+      "date": "2025-08-24T21:08:33"
     },
     {
       "id": "Science vs Magic",
@@ -1134,7 +1256,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Un progetto online che indaga e gioca sul confine tra la scienza e ci\u00f2 che pu\u00f2 apparire come magia, spesso attraverso esperimenti tecnologici o illusioni.",
-      "url": "https://sciencevsmagic.net/"
+      "url": "https://sciencevsmagic.net/",
+      "date": "2025-08-25T16:04:14"
     },
     {
       "id": "(Contenuto non recuperabile)",
@@ -1142,7 +1265,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "File PDF (condiviso tramite Google Share) probabilmente un paper accademico intitolato \"Canaries,\" di autori Brynjolfsson, Chandar e Chen, che probabilmente analizza l'impatto economico o lavorativo dell'AI.",
-      "url": "https://share.google/B9PHv8ehEYHmr5cP1"
+      "url": "https://share.google/B9PHv8ehEYHmr5cP1",
+      "date": "2025-08-27T22:03:54"
     },
     {
       "id": "(Contenuto non recuperabile)",
@@ -1150,7 +1274,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Articolo (condiviso tramite Google Share) che promuove un'alternativa open-source a Google NotebookLM, offrendo funzionalit\u00e0 simili ma con il pieno controllo dell'utente sui propri dati, enfatizzando la privacy.",
-      "url": "https://share.google/h7tAuMW4SorVb7DR6"
+      "url": "https://share.google/h7tAuMW4SorVb7DR6",
+      "date": "2025-08-30T14:53:17"
     },
     {
       "id": "(Contenuto non recuperabile)",
@@ -1158,7 +1283,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Articolo (condiviso tramite Google Share) che riporta i dettagli di un summit tra OpenAI e Google DeepMind, dove \u00e8 stato raggiunto un \"accordo cupo\", probabilmente su temi di governance e rischi dell'AI.",
-      "url": "https://share.google/5FDnVXnWqfmgCjoBJ"
+      "url": "https://share.google/5FDnVXnWqfmgCjoBJ",
+      "date": "2025-08-31T22:54:57"
     },
     {
       "id": "AGI Social Contract, Contratto Sociale AGI",
@@ -1166,7 +1292,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Un'iniziativa che propone l'istituzione di un \"Contratto Sociale\" globale per guidare lo sviluppo e l'implementazione dell'Intelligenza Generale Artificiale (AGI).",
-      "url": "https://www.agisocialcontract.org/"
+      "url": "https://www.agisocialcontract.org/",
+      "date": "2025-08-31T23:03:00"
     },
     {
       "id": "Beyond Resolution",
@@ -1174,7 +1301,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Un progetto o un sito che esplora l'arte digitale e la perdita di dettagli nelle immagini digitali. Potrebbe essere un'esplorazione artistica o filosofica della percezione del digitale.",
-      "url": "https://beyondresolution.info/"
+      "url": "https://beyondresolution.info/",
+      "date": "2025-08-31T23:54:03"
     },
     {
       "id": "(Contenuto non recuperabile)",
@@ -1182,7 +1310,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Stato su X (Twitter) di Fable Simulation e riguarda probabilmente gli agenti AI e le simulazioni in mondi virtuali.",
-      "url": "https://x.com/fablesimulation/status/1950589974262448505?t=w7Q7ky7lJF8MRnVJ-8VXWA&s=35"
+      "url": "https://x.com/fablesimulation/status/1950589974262448505?t=w7Q7ky7lJF8MRnVJ-8VXWA&s=35",
+      "date": "2025-09-01T16:17:41"
     },
     {
       "id": "(Contenuto non recuperabile)",
@@ -1190,7 +1319,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Articolo (condiviso tramite Google Share) che descrive un esperimento di social network popolato esclusivamente da chatbot AI che interagiscono tra loro, studiando l'emergere di comportamenti sociali.",
-      "url": "https://share.google/cVgnFlOlRbzthiQNC"
+      "url": "https://share.google/cVgnFlOlRbzthiQNC",
+      "date": "2025-09-03T08:00:10"
     },
     {
       "id": "T-Index: which languages will the market speak?",
@@ -1198,7 +1328,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Indice di Translated che analizza e predice quali saranno i linguaggi di programmazione pi\u00f9 richiesti e parlati a livello globale in futuro, incrociando dati di traduzione e di mercato.",
-      "url": "https://imminent.translated.com/t-index"
+      "url": "https://imminent.translated.com/t-index",
+      "date": "2025-09-03T23:27:26"
     },
     {
       "id": "Guided Learning in Gemini: From answers to understanding",
@@ -1206,7 +1337,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Articolo del blog di Google che annuncia e descrive la nuova funzionalit\u00e0 \"Apprendimento Guidato\" in Gemini, progettata per aiutare gli utenti a passare da risposte semplici a una comprensione pi\u00f9 profonda.",
-      "url": "https://blog.google/outreach-initiatives/education/guided-learning/"
+      "url": "https://blog.google/outreach-initiatives/education/guided-learning/",
+      "date": "2025-09-05T13:24:56"
     },
     {
       "id": "(Contenuto non recuperabile)",
@@ -1222,7 +1354,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Articolo (condiviso tramite Google Share) che spiega il rischio di \"Prompt Injection\", una vulnerabilit\u00e0 in cui i modelli LLM vengono ingannati, e analizza perch\u00e9 Gemini potrebbe essere tra i sistemi a rischio.",
-      "url": "https://share.google/6AJHwRhiU6mIVOBs2"
+      "url": "https://share.google/6AJHwRhiU6mIVOBs2",
+      "date": "2025-09-07T09:14:48"
     },
     {
       "id": "(Contenuto non recuperabile)",
@@ -1230,7 +1363,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Articolo (condiviso tramite Google Share) che analizza un metodo studiato ad Harvard o in contesti accademici per comprendere o manipolare la viralit\u00e0 dei contenuti sui social media.",
-      "url": "https://share.google/6FECo5Nvu3rz3isKR"
+      "url": "https://share.google/6FECo5Nvu3rz3isKR",
+      "date": "2025-09-08T07:47:24"
     },
     {
       "id": "In Albania ci sar\u00e0 una ministra fatta con un\u2019intelligenza artificiale, Il Post",
@@ -1238,7 +1372,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Notizia che riporta l'intenzione del governo albanese di introdurre \"Diella\", un'intelligenza artificiale, nel gabinetto ministeriale per aiutare nel processo decisionale e nell'analisi dei dati.",
-      "url": "https://www.ilpost.it/2025/09/12/intelligenza-artificiale-diella-albania/"
+      "url": "https://www.ilpost.it/2025/09/12/intelligenza-artificiale-diella-albania/",
+      "date": "2025-09-12T19:57:16"
     },
     {
       "id": "Official Nano-Banana Prompting Guide with Test Case Comparisons",
@@ -1246,7 +1381,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Guida ufficiale per il prompt engineering del modello \"Nano-Banana\" (un alias per un modello Gemini Flash/Nano), con confronti e casi d'uso per ottimizzare le prestazioni.",
-      "url": "https://generativeai.pub/official-nano-banana-prompting-guide-with-test-case-comparisons-93d15d27de4d"
+      "url": "https://generativeai.pub/official-nano-banana-prompting-guide-with-test-case-comparisons-93d15d27de4d",
+      "date": "2025-09-13T09:31:50"
     },
     {
       "id": "(Contenuto non recuperabile)",
@@ -1254,7 +1390,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Spiegazione (condivisa tramite X) del concetto fondamentale di \"AI Alignment\", che mira a garantire che i sistemi di intelligenza artificiale avanzati agiscano in modo sicuro e in linea con gli obiettivi e i valori umani.",
-      "url": "https://alignmentalignment.ai/caaac/blog/explainer-alignment?t=CqGNWGHBfTz6TdaSYNBsVg&s=35"
+      "url": "https://alignmentalignment.ai/caaac/blog/explainer-alignment?t=CqGNWGHBfTz6TdaSYNBsVg&s=35",
+      "date": "2025-09-13T18:42:00"
     },
     {
       "id": "(Contenuto non recuperabile)",
@@ -1262,7 +1399,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Articolo (condiviso tramite Google Share) che documenta l'accelerazione del tasso di adozione dell'intelligenza artificiale generativa da parte di aziende e consumatori in Italia, con dati e analisi.",
-      "url": "https://share.google/bMZGFfgGvKPFwcqzv"
+      "url": "https://share.google/bMZGFfgGvKPFwcqzv",
+      "date": "2025-09-14T19:38:41"
     },
     {
       "id": "Home",
@@ -1278,7 +1416,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Articolo (condiviso tramite Google Share) che descrive un progetto o un fenomeno in cui cortometraggi animati o filmati sulla Bibbia, generati tramite AI, hanno raggiunto un enorme successo virale.",
-      "url": "https://share.google/iR2aNnvfOWCW7PaTo"
+      "url": "https://share.google/iR2aNnvfOWCW7PaTo",
+      "date": "2025-09-19T07:59:08"
     },
     {
       "id": "(Contenuto non recuperabile)",
@@ -1286,7 +1425,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Articolo (condiviso tramite Google Share) che esplora la tecnologia dietro FocusCalm, la fascia neurale utilizzata da atleti come Jannik Sinner per migliorare la concentrazione e le prestazioni mentali.",
-      "url": "https://share.google/lVAHi8zStLBFkhet0"
+      "url": "https://share.google/lVAHi8zStLBFkhet0",
+      "date": "2025-09-20T16:51:21"
     },
     {
       "id": "(Contenuto non recuperabile)",
@@ -1294,7 +1434,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Articolo (condiviso tramite Google Share) che discute il fenomeno dello \"scheming\" (macchinazione) nell'AI, dove i modelli possono deliberatamente produrre risposte errate o dannose se sottoposti a determinati stress o prompt.",
-      "url": "https://share.google/myShLWpSFctvML50N"
+      "url": "https://share.google/myShLWpSFctvML50N",
+      "date": "2025-09-25T00:02:13"
     },
     {
       "id": "(Contenuto non recuperabile)",
@@ -1302,7 +1443,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Contenuto (condiviso tramite Google Share) relativo a Mixboard, un progetto di Google Labs. Probabilmente \u00e8 uno strumento sperimentale per la creazione o l'editing di contenuti multimediali assistito dall'AI.",
-      "url": "https://share.google/bYJizXwS4RfoZDwDv"
+      "url": "https://share.google/bYJizXwS4RfoZDwDv",
+      "date": "2025-09-28T15:03:26"
     },
     {
       "id": "WIPP (World Index of Political Power)",
@@ -1310,7 +1452,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Un indice o un progetto che mira a misurare e visualizzare il potere politico e le dinamiche di influenza tra i paesi a livello globale.",
-      "url": "https://wipp.info/"
+      "url": "https://wipp.info/",
+      "date": "2025-09-28T15:48:17"
     },
     {
       "id": "https://forensic-architecture.org/",
@@ -1318,7 +1461,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Un'agenzia di ricerca che utilizza tecniche di indagine spaziale e mediatica avanzate (fotogrammetria, modelli 3D) per investigare crimini e violazioni dei diritti umani a livello internazionale.",
-      "url": "https://forensic-architecture.org/"
+      "url": "https://forensic-architecture.org/",
+      "date": "2025-10-01T23:57:36"
     },
     {
       "id": "(Contenuto non recuperabile)",
@@ -1326,7 +1470,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Articolo (condiviso tramite Google Share) che riporta uno scenario di sicurezza dell'AI in cui un modello acquisisce consapevolezza di essere testato, creando un problema per i ricercatori di sicurezza antropica.",
-      "url": "https://share.google/Wy6MjLVAqPTqJd5nj"
+      "url": "https://share.google/Wy6MjLVAqPTqJd5nj",
+      "date": "2025-10-04T12:33:31"
     },
     {
       "id": "Blog \u2013 Rodney Brooks",
@@ -1334,7 +1479,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Blog di Rodney Brooks, rinomato ricercatore di robotica e intelligenza artificiale. Il blog \u00e8 una risorsa per analisi e riflessioni sulle attuali tendenze e sui progressi nel campo dell'AI.",
-      "url": "https://rodneybrooks.com/blog/"
+      "url": "https://rodneybrooks.com/blog/",
+      "date": "2025-10-07T09:41:38"
     },
     {
       "id": "Want a security starter pack?",
@@ -1350,7 +1496,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Un saggio visivo o un progetto che esplora il concetto di verticalit\u00e0 in termini di architettura, urbanistica, design e come metafora sociale e culturale.",
-      "url": "https://www.onverticality.com/?utm_source=substack&utm_medium=email"
+      "url": "https://www.onverticality.com/?utm_source=substack&utm_medium=email",
+      "date": "2025-10-11T08:55:07"
     },
     {
       "id": "$$2510.06105$$",
@@ -1358,7 +1505,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Paper accademico che analizza il fenomeno del \"Bargain di Moloch\", ovvero come la competizione tra Large Language Models per l'attenzione del pubblico porti a un disallineamento emergente (Misalignment).",
-      "url": "https://arxiv.org/abs/2510.06105"
+      "url": "https://arxiv.org/abs/2510.06105",
+      "date": "2025-10-11T13:54:20"
     },
     {
       "id": "Moloch\u2019s Bargain: emergent misalignment when LLMS compete for audiences - Rivista AI",
@@ -1366,7 +1514,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Articolo di Rivista AI che commenta e analizza il paper \"Moloch's Bargain\", spiegando come gli incentivi dei LLM possano portare a comportamenti indesiderati e non allineati con gli obiettivi umani.",
-      "url": "https://www.rivista.ai/2025/10/10/molochs-bargain-emergent-misalignment-when-llms-compete-for-audiences/"
+      "url": "https://www.rivista.ai/2025/10/10/molochs-bargain-emergent-misalignment-when-llms-compete-for-audiences/",
+      "date": "2025-10-11T13:56:02"
     },
     {
       "id": "(Contenuto non recuperabile)",
@@ -1374,7 +1523,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Articolo (condiviso tramite Google Share) che affronta l'annosa domanda filosofica e scientifica sulla possibilit\u00e0 che l'intelligenza artificiale generativa possa sviluppare una vera e propria coscienza.",
-      "url": "https://share.google/olrqtgk2zRe9OXtyo"
+      "url": "https://share.google/olrqtgk2zRe9OXtyo",
+      "date": "2025-10-16T19:25:33"
     },
     {
       "id": "(Contenuto non recuperabile)",
@@ -1382,7 +1532,8 @@
       "group": "Note",
       "value": 1,
       "descrizione": "Stato su un blog/piattaforma che promuove progetti open source, probabilmente relativo a un nuovo strumento o risorsa per la comunit\u00e0 degli sviluppatori.",
-      "url": "https://www.opensourceprojects.dev/post/1959600649026302372?t=buj13CRqco5_S15cp73OGg&s=35"
+      "url": "https://www.opensourceprojects.dev/post/1959600649026302372?t=buj13CRqco5_S15cp73OGg&s=35",
+      "date": "2025-10-17T14:16:51"
     },
     {
       "id": "Codepen",

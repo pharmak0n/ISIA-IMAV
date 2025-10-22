@@ -205,7 +205,11 @@
                     connectedItems.sort((a, b) => a.id.localeCompare(b.id)); // Ordina alfabeticamente
                     
                     connectedItems.forEach(itemNode => {
-                        const li = itemList.append('li').attr('class', 'list-group-item list-group-item-action').text(itemNode.id);
+                        const li = itemList.append('li').attr('class', 'list-group-item list-group-item-action');
+                        if (itemNode.date) {
+                            li.append('h4').text(new Date(itemNode.date).toLocaleString());
+                        }
+                        li.append('p').text(itemNode.id);
                         li.datum(itemNode); // Associa i dati completi all'elemento li
                         li.on('click', (event, d) => {
                             showItemDetails(d);
@@ -226,6 +230,10 @@
                 let content = `
                     <p>${itemNode.descrizione || 'Nessuna descrizione disponibile.'}</p>
                 `;
+
+                if (itemNode.date) {
+                    content = `<h4>${new Date(itemNode.date).toLocaleString()}</h4>` + content;
+                }
 
                 if (itemNode.url && itemNode.url.startsWith('http')) {
                     content += `<strong>URL:</strong><p><a href="${itemNode.url}" target="_blank">Vai all'articolo</a></p>`;
