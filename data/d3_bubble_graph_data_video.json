@@ -19,7 +19,7 @@
       "group": "Film",
       "value": 1,
       "consigliati": "TRUE",
-      "descrizione": "Un cacciatore di androidi dà la caccia a replicanti fuggitivi in una LA distopica.",
+      "descrizione": "Un cacciatore di androidi d\u00e0 la caccia a replicanti fuggitivi in una LA distopica.",
       "regista": "Ridley Scott",
       "anno": "1982",
       "valutazione": "5",
@@ -37,7 +37,7 @@
       "anno": "1985",
       "valutazione": "5",
       "wikiLink": "https://it.wikipedia.org/wiki/Brazil_(film)",
-      "streamingLink": "Verificare disponibilità streaming"
+      "streamingLink": "Verificare disponibilit\u00e0 streaming"
     },
     {
       "id": "District 9",
@@ -84,7 +84,7 @@
       "group": "Film",
       "value": 1,
       "consigliati": "TRUE",
-      "descrizione": "Un cyborg della Sezione 9 dà la caccia a un misterioso hacker noto come Puppet Master",
+      "descrizione": "Un cyborg della Sezione 9 d\u00e0 la caccia a un misterioso hacker noto come Puppet Master",
       "regista": "Mamoru Oshii",
       "anno": "1995",
       "valutazione": "5",
@@ -110,7 +110,7 @@
       "group": "Film",
       "value": 1,
       "consigliati": "TRUE",
-      "descrizione": "Una città futuristica divisa tra élite e lavoratori, con la creazione di un robot.",
+      "descrizione": "Una citt\u00e0 futuristica divisa tra \u00e9lite e lavoratori, con la creazione di un robot.",
       "regista": "Fritz Lang",
       "anno": "1927",
       "valutazione": "5",
@@ -141,7 +141,7 @@
       "anno": "1972",
       "valutazione": "5",
       "wikiLink": "https://it.wikipedia.org/wiki/Solaris_(film_1972",
-      "streamingLink": "Verificare disponibilità streaming"
+      "streamingLink": "Verificare disponibilit\u00e0 streaming"
     },
     {
       "id": "The Social Network",
@@ -175,12 +175,12 @@
       "group": "Film",
       "value": 1,
       "consigliati": "TRUE",
-      "descrizione": "Un agente sotto copertura in un futuro distopico perde la propria identità.",
+      "descrizione": "Un agente sotto copertura in un futuro distopico perde la propria identit\u00e0.",
       "regista": "Richard Linklater",
       "anno": "2006",
       "valutazione": "4",
       "wikiLink": "https://it.wikipedia.org/wiki/A_Scanner_Darkly_-_Un_oscuro_scrutare",
-      "streamingLink": "Verificare disponibilità streaming"
+      "streamingLink": "Verificare disponibilit\u00e0 streaming"
     },
     {
       "id": "Akira",
@@ -227,7 +227,7 @@
       "group": "Film",
       "value": 1,
       "consigliati": "TRUE",
-      "descrizione": "Un uomo medio si risveglia 500 anni nel futuro in una società stupida.",
+      "descrizione": "Un uomo medio si risveglia 500 anni nel futuro in una societ\u00e0 stupida.",
       "regista": "Mike Judge",
       "anno": "2006",
       "valutazione": "4",
@@ -240,12 +240,12 @@
       "group": "Film",
       "value": 1,
       "consigliati": "TRUE",
-      "descrizione": "Un tassista del futuro deve proteggere una donna che è la chiave per salvare il mondo.",
+      "descrizione": "Un tassista del futuro deve proteggere una donna che \u00e8 la chiave per salvare il mondo.",
       "regista": "Luc Besson",
       "anno": "1997",
       "valutazione": "4",
       "wikiLink": "https://it.wikipedia.org/wiki/Il_quinto_elemento",
-      "streamingLink": "Verificare disponibilità streaming"
+      "streamingLink": "Verificare disponibilit\u00e0 streaming"
     },
     {
       "id": "Inception",
@@ -279,7 +279,7 @@
       "group": "Film",
       "value": 1,
       "consigliati": "TRUE",
-      "descrizione": "Un hacker scopre che la realtà è una simulazione creata da macchine intelligenti.",
+      "descrizione": "Un hacker scopre che la realt\u00e0 \u00e8 una simulazione creata da macchine intelligenti.",
       "regista": "Lana & Lilly Wachowski",
       "anno": "1999",
       "valutazione": "4",
@@ -297,7 +297,7 @@
       "anno": "1973",
       "valutazione": "4",
       "wikiLink": "https://it.wikipedia.org/wiki/Il_mondo_dei_robot",
-      "streamingLink": "Verificare disponibilità streaming"
+      "streamingLink": "Verificare disponibilit\u00e0 streaming"
     },
     {
       "id": "Il tagliaerbe",
@@ -310,7 +310,7 @@
       "anno": "1992",
       "valutazione": "3",
       "wikiLink": "https://it.wikipedia.org/wiki/Il_tagliaerbe_(film)",
-      "streamingLink": "Verificare disponibilità streaming"
+      "streamingLink": "Verificare disponibilit\u00e0 streaming"
     },
     {
       "id": "Nirvana",
@@ -326,13 +326,13 @@
       "streamingLink": "Verificare Prime Video"
     },
     {
-      "id": "Automata (Autómata)",
+      "id": "Automata (Aut\u00f3mata)",
       "type": "item",
       "group": "Film",
       "value": 1,
       "consigliati": "TRUE",
       "descrizione": "Un agente assicurativo indaga su robot che si modificano da soli.",
-      "regista": "Gabe Ibáñez",
+      "regista": "Gabe Ib\u00e1\u00f1ez",
       "anno": "2014",
       "valutazione": "2",
       "wikiLink": "https://it.wikipedia.org/wiki/Automata_(film)",
@@ -384,11 +384,11 @@
       "value": 1,
       "consigliati": "FALSE",
       "descrizione": "Un ingegnere cibernetico torna a casa per creare un bambino robot.",
-      "regista": "Kike Maíllo",
+      "regista": "Kike Ma\u00edllo",
       "anno": "2011",
       "valutazione": "5",
       "wikiLink": "https://it.wikipedia.org/wiki/Eva_(film_2011",
-      "streamingLink": "Verificare disponibilità streaming"
+      "streamingLink": "Verificare disponibilit\u00e0 streaming"
     },
     {
       "id": "Anon",
@@ -427,7 +427,7 @@
       "anno": "2005",
       "valutazione": "5",
       "wikiLink": "https://it.wikipedia.org/wiki/A_History_of_Violence",
-      "streamingLink": "Verificare disponibilità streaming"
+      "streamingLink": "Verificare disponibilit\u00e0 streaming"
     },
     {
       "id": "Ad Astra",
@@ -440,7 +440,7 @@
       "anno": "2019",
       "valutazione": "5",
       "wikiLink": "https://it.wikipedia.org/wiki/Ad_Astra_(film)",
-      "streamingLink": "Verificare disponibilità streaming"
+      "streamingLink": "Verificare disponibilit\u00e0 streaming"
     },
     {
       "id": "Andromeda (The Andromeda Strain)",
@@ -453,7 +453,7 @@
       "anno": "1971",
       "valutazione": "5",
       "wikiLink": "https://it.wikipedia.org/wiki/Andromeda_(film)",
-      "streamingLink": "Verificare disponibilità streaming"
+      "streamingLink": "Verificare disponibilit\u00e0 streaming"
     },
     {
       "id": "Arancia meccanica",
@@ -474,7 +474,7 @@
       "group": "Film",
       "value": 1,
       "consigliati": "",
-      "descrizione": "Un nuovo Blade Runner scopre un segreto che potrebbe far precipitare la società nel caos.",
+      "descrizione": "Un nuovo Blade Runner scopre un segreto che potrebbe far precipitare la societ\u00e0 nel caos.",
       "regista": "Denis Villeneuve",
       "anno": "2017",
       "valutazione": "5",
@@ -487,12 +487,12 @@
       "group": "Film",
       "value": 1,
       "consigliati": "",
-      "descrizione": "Una donna scopre di poter accedere a versioni di sé da universi paralleli.",
+      "descrizione": "Una donna scopre di poter accedere a versioni di s\u00e9 da universi paralleli.",
       "regista": "Daniel Kwan, Daniel Scheinert",
       "anno": "2022",
       "valutazione": "5",
       "wikiLink": "https://it.wikipedia.org/wiki/Everything_Everywhere_All_at_Once",
-      "streamingLink": "Verificare disponibilità streaming"
+      "streamingLink": "Verificare disponibilit\u00e0 streaming"
     },
     {
       "id": "Fa' la cosa giusta",
@@ -505,7 +505,7 @@
       "anno": "1989",
       "valutazione": "5",
       "wikiLink": "https://it.wikipedia.org/wiki/Fa%27_la_cosa_giusta",
-      "streamingLink": "Verificare disponibilità streaming"
+      "streamingLink": "Verificare disponibilit\u00e0 streaming"
     },
     {
       "id": "I figli degli uomini (Children of Men)",
@@ -514,11 +514,11 @@
       "value": 1,
       "consigliati": "",
       "descrizione": "In un futuro sterile, una donna rimane miracolosamente incinta.",
-      "regista": "Alfonso Cuarón",
+      "regista": "Alfonso Cuar\u00f3n",
       "anno": "2006",
       "valutazione": "5",
       "wikiLink": "https://it.wikipedia.org/wiki/I_figli_degli_uomini_(film)",
-      "streamingLink": "Verificare disponibilità streaming"
+      "streamingLink": "Verificare disponibilit\u00e0 streaming"
     },
     {
       "id": "Il caso Spotlight",
@@ -557,7 +557,7 @@
       "anno": "1956",
       "valutazione": "5",
       "wikiLink": "https://it.wikipedia.org/wiki/Il_pianeta_proibito",
-      "streamingLink": "Verificare disponibilità streaming"
+      "streamingLink": "Verificare disponibilit\u00e0 streaming"
     },
     {
       "id": "L'esercito delle 12 scimmie",
@@ -630,7 +630,7 @@
       "group": "Film",
       "value": 1,
       "consigliati": "",
-      "descrizione": "Un uomo scopre che tutta la sua vita è un reality show televisivo.",
+      "descrizione": "Un uomo scopre che tutta la sua vita \u00e8 un reality show televisivo.",
       "regista": "Peter Weir",
       "anno": "1998",
       "valutazione": "5",
@@ -638,7 +638,7 @@
       "streamingLink": "Verificare Netflix/Prime"
     },
     {
-      "id": "WALL•E",
+      "id": "WALL\u2022E",
       "type": "item",
       "group": "Film",
       "value": 1,
@@ -674,7 +674,7 @@
       "anno": "1973",
       "valutazione": "4",
       "wikiLink": "https://it.wikipedia.org/wiki/2022:_i_sopravvissuti",
-      "streamingLink": "Verificare disponibilità streaming"
+      "streamingLink": "Verificare disponibilit\u00e0 streaming"
     },
     {
       "id": "A.I. - Intelligenza artificiale",
@@ -687,7 +687,7 @@
       "anno": "2001",
       "valutazione": "4",
       "wikiLink": "https://it.wikipedia.org/wiki/A.I._-_Intelligenza_artificiale",
-      "streamingLink": "Verificare disponibilità"
+      "streamingLink": "Verificare disponibilit\u00e0"
     },
     {
       "id": "Dark City",
@@ -695,12 +695,12 @@
       "group": "Film",
       "value": 1,
       "consigliati": "",
-      "descrizione": "Un uomo si sveglia senza memoria in una città dove il sole non sorge mai.",
+      "descrizione": "Un uomo si sveglia senza memoria in una citt\u00e0 dove il sole non sorge mai.",
       "regista": "Alex Proyas",
       "anno": "1998",
       "valutazione": "4",
       "wikiLink": "https://it.wikipedia.org/wiki/Dark_City_(film_1998",
-      "streamingLink": "Verificare disponibilità streaming"
+      "streamingLink": "Verificare disponibilit\u00e0 streaming"
     },
     {
       "id": "Dune (2021)",
@@ -734,12 +734,12 @@
       "group": "Film",
       "value": 1,
       "consigliati": "",
-      "descrizione": "Giocatori si immergono in un gioco VR biologico, confondendo realtà e finzione.",
+      "descrizione": "Giocatori si immergono in un gioco VR biologico, confondendo realt\u00e0 e finzione.",
       "regista": "David Cronenberg",
       "anno": "1999",
       "valutazione": "4",
       "wikiLink": "https://it.wikipedia.org/wiki/EXistenZ",
-      "streamingLink": "Verificare disponibilità streaming"
+      "streamingLink": "Verificare disponibilit\u00e0 streaming"
     },
     {
       "id": "Il tredicesimo piano",
@@ -752,7 +752,7 @@
       "anno": "1999",
       "valutazione": "4",
       "wikiLink": "https://it.wikipedia.org/wiki/Il_tredicesimo_piano",
-      "streamingLink": "Verificare disponibilità streaming"
+      "streamingLink": "Verificare disponibilit\u00e0 streaming"
     },
     {
       "id": "Interstellar",
@@ -760,7 +760,7 @@
       "group": "Film",
       "value": 1,
       "consigliati": "",
-      "descrizione": "Un team viaggia attraverso un wormhole per trovare un nuovo pianeta per l'umanità.",
+      "descrizione": "Un team viaggia attraverso un wormhole per trovare un nuovo pianeta per l'umanit\u00e0.",
       "regista": "Christopher Nolan",
       "anno": "2014",
       "valutazione": "4",
@@ -773,7 +773,7 @@
       "group": "Film",
       "value": 1,
       "consigliati": "",
-      "descrizione": "Un astronauta isolato sulla Luna scopre una verità inquietante sulla sua missione.",
+      "descrizione": "Un astronauta isolato sulla Luna scopre una verit\u00e0 inquietante sulla sua missione.",
       "regista": "Duncan Jones",
       "anno": "2009",
       "valutazione": "4",
@@ -830,7 +830,7 @@
       "anno": "1995",
       "valutazione": "4",
       "wikiLink": "https://it.wikipedia.org/wiki/Strange_Days_(film)",
-      "streamingLink": "Verificare disponibilità streaming"
+      "streamingLink": "Verificare disponibilit\u00e0 streaming"
     },
     {
       "id": "Swan Song (2021)",
@@ -851,12 +851,12 @@
       "group": "Film",
       "value": 1,
       "consigliati": "",
-      "descrizione": "In una società distopica, i single devono trovare un partner o essere trasformati in animali.",
+      "descrizione": "In una societ\u00e0 distopica, i single devono trovare un partner o essere trasformati in animali.",
       "regista": "Yorgos Lanthimos",
       "anno": "2015",
       "valutazione": "4",
       "wikiLink": "https://it.wikipedia.org/wiki/The_Lobster",
-      "streamingLink": "Verificare disponibilità streaming"
+      "streamingLink": "Verificare disponibilit\u00e0 streaming"
     },
     {
       "id": "Total Recall (1990)",
@@ -916,12 +916,12 @@
       "group": "Film",
       "value": 1,
       "consigliati": "",
-      "descrizione": "In una società futura utopica, la vita termina a 30 anni.",
+      "descrizione": "In una societ\u00e0 futura utopica, la vita termina a 30 anni.",
       "regista": "Michael Anderson",
       "anno": "1976",
       "valutazione": "3",
       "wikiLink": "https://it.wikipedia.org/wiki/La_fuga_di_Logan_(film)",
-      "streamingLink": "Verificare disponibilità streaming"
+      "streamingLink": "Verificare disponibilit\u00e0 streaming"
     },
     {
       "id": "Oblivion",
@@ -929,7 +929,7 @@
       "group": "Film",
       "value": 1,
       "consigliati": "",
-      "descrizione": "Un tecnico sulla Terra post-apocalittica scopre una verità scioccante.",
+      "descrizione": "Un tecnico sulla Terra post-apocalittica scopre una verit\u00e0 scioccante.",
       "regista": "Joseph Kosinski",
       "anno": "2013",
       "valutazione": "3",
@@ -960,7 +960,7 @@
       "anno": "1986",
       "valutazione": "3",
       "wikiLink": "https://it.wikipedia.org/wiki/Corto_circuito_(film)",
-      "streamingLink": "Verificare disponibilità streaming"
+      "streamingLink": "Verificare disponibilit\u00e0 streaming"
     },
     {
       "id": "The Island",
@@ -981,12 +981,12 @@
       "group": "Film",
       "value": 1,
       "consigliati": "",
-      "descrizione": "L'identità di un'analista di sistemi viene cancellata digitalmente.",
+      "descrizione": "L'identit\u00e0 di un'analista di sistemi viene cancellata digitalmente.",
       "regista": "Irwin Winkler",
       "anno": "1995",
       "valutazione": "3",
       "wikiLink": "https://it.wikipedia.org/wiki/The_Net_-_Intrappolata_nella_rete",
-      "streamingLink": "Verificare disponibilità streaming"
+      "streamingLink": "Verificare disponibilit\u00e0 streaming"
     },
     {
       "id": "The Zero Theorem",
@@ -999,7 +999,7 @@
       "anno": "2013",
       "valutazione": "3",
       "wikiLink": "https://it.wikipedia.org/wiki/The_Zero_Theorem",
-      "streamingLink": "Verificare disponibilità streaming"
+      "streamingLink": "Verificare disponibilit\u00e0 streaming"
     },
     {
       "id": "Unfriended: Dark Web",
@@ -1020,12 +1020,12 @@
       "group": "Film",
       "value": 1,
       "consigliati": "",
-      "descrizione": "Un barbaro scopre la verità dietro una società futuristica immortale.",
+      "descrizione": "Un barbaro scopre la verit\u00e0 dietro una societ\u00e0 futuristica immortale.",
       "regista": "John Boorman",
       "anno": "1974",
       "valutazione": "3",
       "wikiLink": "https://it.wikipedia.org/wiki/Zardoz",
-      "streamingLink": "Verificare disponibilità streaming"
+      "streamingLink": "Verificare disponibilit\u00e0 streaming"
     },
     {
       "id": "Equilibrium",
@@ -1033,7 +1033,7 @@
       "group": "Film",
       "value": 1,
       "consigliati": "",
-      "descrizione": "In una società futura, le emozioni sono soppresse tramite farmaci.",
+      "descrizione": "In una societ\u00e0 futura, le emozioni sono soppresse tramite farmaci.",
       "regista": "Kurt Wimmer",
       "anno": "2002",
       "valutazione": "2",
@@ -1044,7 +1044,7 @@
       "id": "Futuro",
       "type": "tag",
       "group": "tag",
-      "value": 26
+      "value": 33
     },
     {
       "id": "Sci-fi",
@@ -1068,13 +1068,13 @@
       "id": "Etica",
       "type": "tag",
       "group": "tag",
-      "value": 6
+      "value": 9
     },
     {
       "id": "AI",
       "type": "tag",
       "group": "tag",
-      "value": 13
+      "value": 21
     },
     {
       "id": "Distopia",
@@ -1122,7 +1122,7 @@
       "id": "Robot",
       "type": "tag",
       "group": "tag",
-      "value": 11
+      "value": 14
     },
     {
       "id": "Thriller",
@@ -1134,7 +1134,7 @@
       "id": "Internet",
       "type": "tag",
       "group": "tag",
-      "value": 9
+      "value": 20
     },
     {
       "id": "Cyberpunk",
@@ -1146,7 +1146,7 @@
       "id": "Digitale",
       "type": "tag",
       "group": "tag",
-      "value": 10
+      "value": 20
     },
     {
       "id": "Amore",
@@ -1302,7 +1302,7 @@
       "id": "Videogiochi",
       "type": "tag",
       "group": "tag",
-      "value": 2
+      "value": 3
     },
     {
       "id": "Politica",
@@ -1314,7 +1314,7 @@
       "id": "Privacy",
       "type": "tag",
       "group": "tag",
-      "value": 2
+      "value": 6
     },
     {
       "id": "Violenza",
@@ -1323,7 +1323,7 @@
       "value": 2
     },
     {
-      "id": "Identità",
+      "id": "Identit\u00e0",
       "type": "tag",
       "group": "tag",
       "value": 1
@@ -1365,10 +1365,10 @@
       "value": 1
     },
     {
-      "id": "Società",
+      "id": "Societ\u00e0",
       "type": "tag",
       "group": "tag",
-      "value": 1
+      "value": 5
     },
     {
       "id": "Dramma",
@@ -1377,7 +1377,7 @@
       "value": 4
     },
     {
-      "id": "Distopia (Infertilità)",
+      "id": "Distopia (Infertilit\u00e0)",
       "type": "tag",
       "group": "tag",
       "value": 1
@@ -1389,7 +1389,7 @@
       "value": 1
     },
     {
-      "id": "Verità",
+      "id": "Verit\u00e0",
       "type": "tag",
       "group": "tag",
       "value": 1
@@ -1452,7 +1452,7 @@
       "id": "Controllo",
       "type": "tag",
       "group": "tag",
-      "value": 2
+      "value": 3
     },
     {
       "id": "Ecologia",
@@ -1479,7 +1479,7 @@
       "value": 1
     },
     {
-      "id": "Distopia (Manipolazione realtà)",
+      "id": "Distopia (Manipolazione realt\u00e0)",
       "type": "tag",
       "group": "tag",
       "value": 1
@@ -1530,7 +1530,7 @@
       "id": "Memoria",
       "type": "tag",
       "group": "tag",
-      "value": 1
+      "value": 2
     },
     {
       "id": "Clonazione",
@@ -1539,7 +1539,7 @@
       "value": 1
     },
     {
-      "id": "Assurdità",
+      "id": "Assurdit\u00e0",
       "type": "tag",
       "group": "tag",
       "value": 1
@@ -1600,6 +1600,393 @@
     },
     {
       "id": "Distopia (Controllo emotivo)",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "The Social Dilemma",
+      "type": "item",
+      "group": "Documentario",
+      "value": 1,
+      "consigliati": "TRUE",
+      "descrizione": "Impatto negativo dei social media e degli algoritmi AI sulla societ\u00e0.",
+      "regista": "Jeff Orlowski",
+      "anno": "2020",
+      "valutazione": "5",
+      "wikiLink": "https://it.wikipedia.org/wiki/The_Social_Dilemma",
+      "streamingLink": "https://www.netflix.com/title/81254224"
+    },
+    {
+      "id": "Coded Bias",
+      "type": "item",
+      "group": "Documentario",
+      "value": 1,
+      "consigliati": "TRUE",
+      "descrizione": "Pregiudizi insiti negli algoritmi di intelligenza artificiale (es. riconosc. facciale).",
+      "regista": "Shalini Kantayya",
+      "anno": "2020",
+      "valutazione": "5",
+      "wikiLink": "https://en.wikipedia.org/wiki/Coded_Bias",
+      "streamingLink": "https://www.netflix.com/title/81328723"
+    },
+    {
+      "id": "Pregiudizio",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "The Great Hack - Privacy violata",
+      "type": "item",
+      "group": "Documentario",
+      "value": 1,
+      "consigliati": "TRUE",
+      "descrizione": "Caso Cambridge Analytica e uso dei dati personali per influenzare le elezioni.",
+      "regista": "Karim Amer, Jehane Noujaim",
+      "anno": "2019",
+      "valutazione": "4",
+      "wikiLink": "https://it.wikipedia.org/wiki/The_Great_Hack_-_Privacy_violata",
+      "streamingLink": "https://www.netflix.com/title/80117542"
+    },
+    {
+      "id": "Dati",
+      "type": "tag",
+      "group": "tag",
+      "value": 2
+    },
+    {
+      "id": "Explained (In poche parole)",
+      "type": "item",
+      "group": "Docu-serie",
+      "value": 1,
+      "consigliati": "TRUE",
+      "descrizione": "Episodi su vari temi, inclusi AI, futuro, programmazione.",
+      "regista": "Vox Media",
+      "anno": "2018",
+      "valutazione": "",
+      "wikiLink": "https://it.wikipedia.org/wiki/In_poche_parole_(serie_televisiva",
+      "streamingLink": "https://www.netflix.com/title/80216752"
+    },
+    {
+      "id": "Scienza",
+      "type": "tag",
+      "group": "tag",
+      "value": 2
+    },
+    {
+      "id": "Lo and Behold: Reveries of the Connected World",
+      "type": "item",
+      "group": "Documentario",
+      "value": 1,
+      "consigliati": "TRUE",
+      "descrizione": "Impatto di Internet, AI e robotica sulla societ\u00e0 moderna.",
+      "regista": "Werner Herzog",
+      "anno": "2016",
+      "valutazione": "5",
+      "wikiLink": "https://it.wikipedia.org/wiki/Lo_and_Behold_-_Reveries_of_the_Connected_World",
+      "streamingLink": "https://www.primevideo.com/detail/0N8Y2O3K64O1QKFAFBHS41KMXK/ (Verificare)"
+    },
+    {
+      "id": "The Internet's Own Boy: The Story of Aaron Swartz",
+      "type": "item",
+      "group": "Documentario",
+      "value": 1,
+      "consigliati": "TRUE",
+      "descrizione": "Vita del programmatore e attivista di Internet Aaron Swartz.",
+      "regista": "Brian Knappenberger",
+      "anno": "2014",
+      "valutazione": "5",
+      "wikiLink": "https://it.wikipedia.org/wiki/The_Internet%27s_Own_Boy:_The_Story_of_Aaron_Swartz",
+      "streamingLink": "https://www.youtube.com/watch?v=3Q6Fzbgs_Lg"
+    },
+    {
+      "id": "Attivismo",
+      "type": "tag",
+      "group": "tag",
+      "value": 3
+    },
+    {
+      "id": "Open Access",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Storia",
+      "type": "tag",
+      "group": "tag",
+      "value": 6
+    },
+    {
+      "id": "Digital Amnesia",
+      "type": "item",
+      "group": "Documentario",
+      "value": 1,
+      "consigliati": "TRUE",
+      "descrizione": "Esplora la potenziale perdita di informazioni digitali e memoria culturale.",
+      "regista": "Bregtje van der Haak",
+      "anno": "2014",
+      "valutazione": "",
+      "wikiLink": "N/A",
+      "streamingLink": "https://www.youtube.com/watch?v=krg3lrxHX2k"
+    },
+    {
+      "id": "Archiviazione",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "The Power of Privacy",
+      "type": "item",
+      "group": "Documentario",
+      "value": 1,
+      "consigliati": "TRUE",
+      "descrizione": "Aleks Krotoski esplora valore e percezione della privacy nell'era digitale (BBC).",
+      "regista": "BBC / Aleks Krotoski",
+      "anno": "2010",
+      "valutazione": "",
+      "wikiLink": "https://en.wikipedia.org/wiki/The_Virtual_Revolution",
+      "streamingLink": "https://youtu.be/KGX-c5BJNFk"
+    },
+    {
+      "id": "Sorveglianza",
+      "type": "tag",
+      "group": "tag",
+      "value": 2
+    },
+    {
+      "id": "Unknown: Killer Robots",
+      "type": "item",
+      "group": "Documentario",
+      "value": 1,
+      "consigliati": "FALSE",
+      "descrizione": "Uso crescente dell'intelligenza artificiale in ambito militare.",
+      "regista": "Jesse Sweet",
+      "anno": "2023",
+      "valutazione": "",
+      "wikiLink": "https://en.wikipedia.org/wiki/Unknown_(docuseries",
+      "streamingLink": "https://www.netflix.com/title/81478119"
+    },
+    {
+      "id": "Militare",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Connected",
+      "type": "item",
+      "group": "Docu-serie",
+      "value": 1,
+      "consigliati": "FALSE",
+      "descrizione": "Esplora le connessioni nascoste tra vari aspetti della scienza e tecnologia.",
+      "regista": "Latif Nasser (presentatore)",
+      "anno": "2020",
+      "valutazione": "",
+      "wikiLink": "https://en.wikipedia.org/wiki/Connected_(2020_TV_series",
+      "streamingLink": "https://www.netflix.com/title/81031737"
+    },
+    {
+      "id": "Tecnologia",
+      "type": "tag",
+      "group": "tag",
+      "value": 2
+    },
+    {
+      "id": "High Score",
+      "type": "item",
+      "group": "Docu-serie",
+      "value": 1,
+      "consigliati": "FALSE",
+      "descrizione": "Storia dei videogiochi classici e l'evoluzione del mondo digitale.",
+      "regista": "France Costrel",
+      "anno": "2020",
+      "valutazione": "4",
+      "wikiLink": "https://it.wikipedia.org/wiki/High_Score",
+      "streamingLink": "https://www.netflix.com/title/81019087"
+    },
+    {
+      "id": "All Watched Over by Machines of Loving Grace",
+      "type": "item",
+      "group": "Docu-serie",
+      "value": 1,
+      "consigliati": "FALSE",
+      "descrizione": "Come la tecnologia e il pensiero cibernetico hanno influenzato la societ\u00e0.",
+      "regista": "Adam Curtis",
+      "anno": "2011",
+      "valutazione": "",
+      "wikiLink": "https://en.wikipedia.org/wiki/All_Watched_Over_by_Machines_of_Loving_Grace_(TV_series",
+      "streamingLink": "Cercare su Archive.org/Vimeo/YouTube"
+    },
+    {
+      "id": "AI (storico)",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Do You Trust This Computer?",
+      "type": "item",
+      "group": "Documentario",
+      "value": 1,
+      "consigliati": "FALSE",
+      "descrizione": "Esplora i pericoli e le promesse dell'intelligenza artificiale.",
+      "regista": "Chris Paine",
+      "anno": "2018",
+      "valutazione": "",
+      "wikiLink": "https://en.wikipedia.org/wiki/Do_You_Trust_This_Computer%3F",
+      "streamingLink": "Potrebbe essere su YouTube/Vimeo"
+    },
+    {
+      "id": "Pericoli",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "iHuman",
+      "type": "item",
+      "group": "Documentario",
+      "value": 1,
+      "consigliati": "FALSE",
+      "descrizione": "Segue i pionieri dell'AI e discute le sue implicazioni future.",
+      "regista": "Tonje Hessen Schei",
+      "anno": "2019",
+      "valutazione": "",
+      "wikiLink": "https://en.wikipedia.org/wiki/iHuman",
+      "streamingLink": "https://www.primevideo.com/detail/0OR91U864W9211N6B5I501H4F4/ (Verificare)"
+    },
+    {
+      "id": "Age of A.I.",
+      "type": "item",
+      "group": "Docu-serie",
+      "value": 1,
+      "consigliati": "FALSE",
+      "descrizione": "Esplora le frontiere dell'intelligenza artificiale (presentato da RDJ).",
+      "regista": "Robert Downey Jr. (presentatore)",
+      "anno": "2019",
+      "valutazione": "",
+      "wikiLink": "https://en.wikipedia.org/wiki/The_Age_of_A.I.",
+      "streamingLink": "https://www.youtube.com/playlist?list=PLjq6DwYksrzwDA_n8jYh_lXOyOedZo7_a"
+    },
+    {
+      "id": "We Steal Secrets: The Story of WikiLeaks",
+      "type": "item",
+      "group": "Documentario",
+      "value": 1,
+      "consigliati": "FALSE",
+      "descrizione": "Storia e impatto di WikiLeaks e Julian Assange.",
+      "regista": "Alex Gibney",
+      "anno": "2013",
+      "valutazione": "5",
+      "wikiLink": "https://it.wikipedia.org/wiki/We_Steal_Secrets:_The_Story_of_WikiLeaks",
+      "streamingLink": "Cercare trailer/spezzoni su YouTube"
+    },
+    {
+      "id": "WikiLeaks",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Informazione",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "TPB AFK: The Pirate Bay Away From Keyboard",
+      "type": "item",
+      "group": "Documentario",
+      "value": 1,
+      "consigliati": "FALSE",
+      "descrizione": "I fondatori di The Pirate Bay e le loro battaglie legali.",
+      "regista": "Simon Klose",
+      "anno": "2013",
+      "valutazione": "5",
+      "wikiLink": "https://it.wikipedia.org/wiki/TPB_AFK",
+      "streamingLink": "https://www.youtube.com/watch?v=eTOKXCEwo_8"
+    },
+    {
+      "id": "File Sharing",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Copyright",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Citizenfour",
+      "type": "item",
+      "group": "Documentario",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "Edward Snowden e le sue rivelazioni sulla sorveglianza globale della NSA.",
+      "regista": "Laura Poitras",
+      "anno": "2014",
+      "valutazione": "5",
+      "wikiLink": "https://it.wikipedia.org/wiki/Citizenfour",
+      "streamingLink": "Cercare trailer/spezzoni su YouTube"
+    },
+    {
+      "id": "Terms and Conditions May Apply",
+      "type": "item",
+      "group": "Documentario",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "Esamina cosa si accetta realmente cliccando \"Accetto\" sui termini di servizio online.",
+      "regista": "Cullen Hoback",
+      "anno": "2013",
+      "valutazione": "4",
+      "wikiLink": "https://en.wikipedia.org/wiki/Terms_and_Conditions_May_Apply_(film",
+      "streamingLink": "Cercare su YouTube/Vimeo"
+    },
+    {
+      "id": "The True Story of the Internet",
+      "type": "item",
+      "group": "Docu-serie",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "Serie su momenti chiave della storia di Internet (Browser Wars, Search, Bubble...).",
+      "regista": "Discovery Channel / Vari",
+      "anno": "2008",
+      "valutazione": "",
+      "wikiLink": "https://en.wikipedia.org/wiki/Download:_The_True_Story_of_the_Internet",
+      "streamingLink": "https://www.youtube.com/watch?v=Gh6N1uPjGno"
+    },
+    {
+      "id": "Browser",
+      "type": "tag",
+      "group": "tag",
+      "value": 2
+    },
+    {
+      "id": "Search",
+      "type": "tag",
+      "group": "tag",
+      "value": 1
+    },
+    {
+      "id": "Project Code Rush",
+      "type": "item",
+      "group": "Documentario",
+      "value": 1,
+      "consigliati": "",
+      "descrizione": "Segue gli ingegneri Netscape nella creazione open-source di Mozilla.",
+      "regista": "David Winton",
+      "anno": "2000",
+      "valutazione": "",
+      "wikiLink": "https://en.wikipedia.org/wiki/Code_Rush",
+      "streamingLink": "https://www.youtube.com/watch?v=4Q7FTjhvZ7Y"
+    },
+    {
+      "id": "Open Source",
       "type": "tag",
       "group": "tag",
       "value": 1
@@ -1943,19 +2330,19 @@
       "target": "AI"
     },
     {
-      "source": "Automata (Autómata)",
+      "source": "Automata (Aut\u00f3mata)",
       "target": "AI"
     },
     {
-      "source": "Automata (Autómata)",
+      "source": "Automata (Aut\u00f3mata)",
       "target": "Robot"
     },
     {
-      "source": "Automata (Autómata)",
+      "source": "Automata (Aut\u00f3mata)",
       "target": "Distopia"
     },
     {
-      "source": "Automata (Autómata)",
+      "source": "Automata (Aut\u00f3mata)",
       "target": "Futuro"
     },
     {
@@ -2056,7 +2443,7 @@
     },
     {
       "source": "A History of Violence",
-      "target": "Identità"
+      "target": "Identit\u00e0"
     },
     {
       "source": "A History of Violence",
@@ -2132,7 +2519,7 @@
     },
     {
       "source": "Fa' la cosa giusta",
-      "target": "Società"
+      "target": "Societ\u00e0"
     },
     {
       "source": "Fa' la cosa giusta",
@@ -2140,7 +2527,7 @@
     },
     {
       "source": "I figli degli uomini (Children of Men)",
-      "target": "Distopia (Infertilità)"
+      "target": "Distopia (Infertilit\u00e0)"
     },
     {
       "source": "I figli degli uomini (Children of Men)",
@@ -2156,7 +2543,7 @@
     },
     {
       "source": "Il caso Spotlight",
-      "target": "Verità"
+      "target": "Verit\u00e0"
     },
     {
       "source": "Il caso Spotlight",
@@ -2279,19 +2666,19 @@
       "target": "Controllo"
     },
     {
-      "source": "WALL•E",
+      "source": "WALL\u2022E",
       "target": "Robot"
     },
     {
-      "source": "WALL•E",
+      "source": "WALL\u2022E",
       "target": "Distopia"
     },
     {
-      "source": "WALL•E",
+      "source": "WALL\u2022E",
       "target": "Futuro"
     },
     {
-      "source": "WALL•E",
+      "source": "WALL\u2022E",
       "target": "Ecologia"
     },
     {
@@ -2332,7 +2719,7 @@
     },
     {
       "source": "Dark City",
-      "target": "Distopia (Manipolazione realtà)"
+      "target": "Distopia (Manipolazione realt\u00e0)"
     },
     {
       "source": "Dark City",
@@ -2512,7 +2899,7 @@
     },
     {
       "source": "The Lobster",
-      "target": "Assurdità"
+      "target": "Assurdit\u00e0"
     },
     {
       "source": "The Lobster",
@@ -2693,6 +3080,342 @@
     {
       "source": "Equilibrium",
       "target": "Azione"
+    },
+    {
+      "source": "The Social Dilemma",
+      "target": "Internet"
+    },
+    {
+      "source": "The Social Dilemma",
+      "target": "AI"
+    },
+    {
+      "source": "The Social Dilemma",
+      "target": "Digitale"
+    },
+    {
+      "source": "The Social Dilemma",
+      "target": "Societ\u00e0"
+    },
+    {
+      "source": "Coded Bias",
+      "target": "AI"
+    },
+    {
+      "source": "Coded Bias",
+      "target": "Etica"
+    },
+    {
+      "source": "Coded Bias",
+      "target": "Digitale"
+    },
+    {
+      "source": "Coded Bias",
+      "target": "Pregiudizio"
+    },
+    {
+      "source": "The Great Hack - Privacy violata",
+      "target": "Internet"
+    },
+    {
+      "source": "The Great Hack - Privacy violata",
+      "target": "Digitale"
+    },
+    {
+      "source": "The Great Hack - Privacy violata",
+      "target": "Privacy"
+    },
+    {
+      "source": "The Great Hack - Privacy violata",
+      "target": "Dati"
+    },
+    {
+      "source": "Explained (In poche parole)",
+      "target": "AI"
+    },
+    {
+      "source": "Explained (In poche parole)",
+      "target": "Futuro"
+    },
+    {
+      "source": "Explained (In poche parole)",
+      "target": "Digitale"
+    },
+    {
+      "source": "Explained (In poche parole)",
+      "target": "Scienza"
+    },
+    {
+      "source": "Explained (In poche parole)",
+      "target": "Societ\u00e0"
+    },
+    {
+      "source": "Lo and Behold: Reveries of the Connected World",
+      "target": "Internet"
+    },
+    {
+      "source": "Lo and Behold: Reveries of the Connected World",
+      "target": "AI"
+    },
+    {
+      "source": "Lo and Behold: Reveries of the Connected World",
+      "target": "Robot"
+    },
+    {
+      "source": "Lo and Behold: Reveries of the Connected World",
+      "target": "Futuro"
+    },
+    {
+      "source": "Lo and Behold: Reveries of the Connected World",
+      "target": "Digitale"
+    },
+    {
+      "source": "The Internet's Own Boy: The Story of Aaron Swartz",
+      "target": "Internet"
+    },
+    {
+      "source": "The Internet's Own Boy: The Story of Aaron Swartz",
+      "target": "Attivismo"
+    },
+    {
+      "source": "The Internet's Own Boy: The Story of Aaron Swartz",
+      "target": "Open Access"
+    },
+    {
+      "source": "The Internet's Own Boy: The Story of Aaron Swartz",
+      "target": "Storia"
+    },
+    {
+      "source": "Digital Amnesia",
+      "target": "Digitale"
+    },
+    {
+      "source": "Digital Amnesia",
+      "target": "Memoria"
+    },
+    {
+      "source": "Digital Amnesia",
+      "target": "Archiviazione"
+    },
+    {
+      "source": "Digital Amnesia",
+      "target": "Storia"
+    },
+    {
+      "source": "The Power of Privacy",
+      "target": "Internet"
+    },
+    {
+      "source": "The Power of Privacy",
+      "target": "Privacy"
+    },
+    {
+      "source": "The Power of Privacy",
+      "target": "Digitale"
+    },
+    {
+      "source": "The Power of Privacy",
+      "target": "Sorveglianza"
+    },
+    {
+      "source": "Unknown: Killer Robots",
+      "target": "AI"
+    },
+    {
+      "source": "Unknown: Killer Robots",
+      "target": "Robot"
+    },
+    {
+      "source": "Unknown: Killer Robots",
+      "target": "Futuro"
+    },
+    {
+      "source": "Unknown: Killer Robots",
+      "target": "Militare"
+    },
+    {
+      "source": "Connected",
+      "target": "Futuro"
+    },
+    {
+      "source": "Connected",
+      "target": "Scienza"
+    },
+    {
+      "source": "Connected",
+      "target": "Tecnologia"
+    },
+    {
+      "source": "High Score",
+      "target": "Digitale"
+    },
+    {
+      "source": "High Score",
+      "target": "Videogiochi"
+    },
+    {
+      "source": "High Score",
+      "target": "Storia"
+    },
+    {
+      "source": "All Watched Over by Machines of Loving Grace",
+      "target": "AI (storico)"
+    },
+    {
+      "source": "All Watched Over by Machines of Loving Grace",
+      "target": "Digitale"
+    },
+    {
+      "source": "All Watched Over by Machines of Loving Grace",
+      "target": "Societ\u00e0"
+    },
+    {
+      "source": "All Watched Over by Machines of Loving Grace",
+      "target": "Controllo"
+    },
+    {
+      "source": "Do You Trust This Computer?",
+      "target": "AI"
+    },
+    {
+      "source": "Do You Trust This Computer?",
+      "target": "Futuro"
+    },
+    {
+      "source": "Do You Trust This Computer?",
+      "target": "Etica"
+    },
+    {
+      "source": "Do You Trust This Computer?",
+      "target": "Pericoli"
+    },
+    {
+      "source": "iHuman",
+      "target": "AI"
+    },
+    {
+      "source": "iHuman",
+      "target": "Futuro"
+    },
+    {
+      "source": "iHuman",
+      "target": "Etica"
+    },
+    {
+      "source": "iHuman",
+      "target": "Societ\u00e0"
+    },
+    {
+      "source": "Age of A.I.",
+      "target": "AI"
+    },
+    {
+      "source": "Age of A.I.",
+      "target": "Robot"
+    },
+    {
+      "source": "Age of A.I.",
+      "target": "Futuro"
+    },
+    {
+      "source": "Age of A.I.",
+      "target": "Tecnologia"
+    },
+    {
+      "source": "We Steal Secrets: The Story of WikiLeaks",
+      "target": "Internet"
+    },
+    {
+      "source": "We Steal Secrets: The Story of WikiLeaks",
+      "target": "WikiLeaks"
+    },
+    {
+      "source": "We Steal Secrets: The Story of WikiLeaks",
+      "target": "Attivismo"
+    },
+    {
+      "source": "We Steal Secrets: The Story of WikiLeaks",
+      "target": "Informazione"
+    },
+    {
+      "source": "TPB AFK: The Pirate Bay Away From Keyboard",
+      "target": "Internet"
+    },
+    {
+      "source": "TPB AFK: The Pirate Bay Away From Keyboard",
+      "target": "File Sharing"
+    },
+    {
+      "source": "TPB AFK: The Pirate Bay Away From Keyboard",
+      "target": "Copyright"
+    },
+    {
+      "source": "TPB AFK: The Pirate Bay Away From Keyboard",
+      "target": "Storia"
+    },
+    {
+      "source": "Citizenfour",
+      "target": "Internet"
+    },
+    {
+      "source": "Citizenfour",
+      "target": "Sorveglianza"
+    },
+    {
+      "source": "Citizenfour",
+      "target": "Privacy"
+    },
+    {
+      "source": "Citizenfour",
+      "target": "Attivismo"
+    },
+    {
+      "source": "Terms and Conditions May Apply",
+      "target": "Internet"
+    },
+    {
+      "source": "Terms and Conditions May Apply",
+      "target": "Privacy"
+    },
+    {
+      "source": "Terms and Conditions May Apply",
+      "target": "Digitale"
+    },
+    {
+      "source": "Terms and Conditions May Apply",
+      "target": "Dati"
+    },
+    {
+      "source": "The True Story of the Internet",
+      "target": "Internet"
+    },
+    {
+      "source": "The True Story of the Internet",
+      "target": "Storia"
+    },
+    {
+      "source": "The True Story of the Internet",
+      "target": "Browser"
+    },
+    {
+      "source": "The True Story of the Internet",
+      "target": "Search"
+    },
+    {
+      "source": "Project Code Rush",
+      "target": "Internet"
+    },
+    {
+      "source": "Project Code Rush",
+      "target": "Storia"
+    },
+    {
+      "source": "Project Code Rush",
+      "target": "Browser"
+    },
+    {
+      "source": "Project Code Rush",
+      "target": "Open Source"
     }
   ]
 }
