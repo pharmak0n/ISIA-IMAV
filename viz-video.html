@@ -55,6 +55,17 @@
     </style>
 </head>
 <body>
+    <div class="container-fluid mt-3" style="position: absolute; z-index: 10; width: 100%;">
+        <div class="row justify-content-center">
+            <div class="col-md-6 col-lg-4">
+                <div class="input-group">
+                    <input type="text" id="search-input" class="form-control" placeholder="Cerca...">
+                    <button class="btn btn-primary" type="button" id="search-btn">Cerca</button>
+                    <button class="btn btn-secondary" type="button" id="reset-btn">Reset</button>
+                </div>
+            </div>
+        </div>
+    </div>
     <svg id="bubble-chart"></svg>
 
     <div class="offcanvas offcanvas-end" tabindex="-1" id="sidebar" aria-labelledby="sidebarLabel">
@@ -71,9 +82,9 @@
 
             <!-- Pannello Dettaglio Opera -->
             <div id="detail-panel">
-                <button class="btn btn-light mb-3" id="back-btn">&larr; Indietro</button>
                 <h2 id="detail-title"></h2>
                 <div id="detail-content"></div>
+                <button class="btn btn-light mt-3" id="back-btn">&larr; Indietro</button>
             </div>
         </div>
     </div>
@@ -174,6 +185,66 @@
             newTooltipTriggerList.forEach(function (tooltipTriggerEl) {
                  new bootstrap.Tooltip(tooltipTriggerEl);
             });
+
+            // --- Funzionalità di Ricerca ---
+            const searchInput = d3.select("#search-input");
+            const searchBtn = d3.select("#search-btn");
+            const resetBtn = d3.select("#reset-btn");
+
+            searchBtn.on("click", handleSearch);
+            resetBtn.on("click", resetSearch);
+            searchInput.on("keydown", (event) => {
+                if (event.key === "Enter") {
+                    handleSearch();
+                }
+            });
+
+            function handleSearch() {
+                const searchTerm = searchInput.property("value").toLowerCase().trim();
+                if (searchTerm) {
+                    filterGraph(searchTerm);
+                }
+            }
+
+            function filterGraph(searchTerm) {
+                const matchedNodeIds = new Set();
+                nodes.forEach(n => {
+                    if (n.id.toLowerCase().includes(searchTerm)) {
+                        matchedNodeIds.add(n.id);
+                    }
+                });
+
+                const visibleNodeIds = new Set(matchedNodeIds);
+                links.forEach(l => {
+                    const sourceId = l.source.id || l.source;
+                    const targetId = l.target.id || l.target;
+                    if (matchedNodeIds.has(sourceId)) {
+                        visibleNodeIds.add(targetId);
+                    }
+                    if (matchedNodeIds.has(targetId)) {
+                        visibleNodeIds.add(sourceId);
+                    }
+                });
+
+                node
+                    .style("opacity", d => visibleNodeIds.has(d.id) ? 1 : 0.1)
+                    .style("pointer-events", d => visibleNodeIds.has(d.id) ? "all" : "none");
+
+                label
+                    .style("opacity", d => visibleNodeIds.has(d.id) ? 1 : 0.1);
+
+                link
+                    .style("opacity", d => (visibleNodeIds.has(d.source.id) && visibleNodeIds.has(d.target.id)) ? 0.6 : 0.05);
+                
+                sidebar.hide();
+            }
+
+            function resetSearch() {
+                searchInput.property("value", "");
+                node.style("opacity", 1).style("pointer-events", "all");
+                label.style("opacity", 1);
+                link.style("opacity", 0.6);
+            }
 
 
             // --- 8. Aggiornamento Simulazione ---
