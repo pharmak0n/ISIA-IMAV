@@ -74,13 +74,13 @@
 
     <div class="offcanvas offcanvas-end" tabindex="-1" id="sidebar" aria-labelledby="sidebarLabel">
         <div class="offcanvas-header">
-            <h5 class="offcanvas-title" id="sidebarLabel">Dettagli</h5>
+            <h5 class="offcanvas-title" id="sidebarLabel">Collezione note</h5>
             <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
         </div>
         <div class="offcanvas-body">
             <!-- Pannello Lista Opere -->
             <div id="list-panel">
-                <h2 id="list-title"></h2>
+                <h2 id="list-title" class="pb-3"></h2>
                 <ul id="item-list" class="list-group"></ul>
             </div>
 
@@ -273,7 +273,7 @@
 
                 itemList.html(''); // Pulisce la lista
                 if (connectedItems.length > 0) {
-                    listTitle.text(`Opere collegate a "${tagNode.id}"`);
+                    listTitle.text(`Tag: ${tagNode.id}`);
                     connectedItems.sort((a, b) => a.id.localeCompare(b.id)); // Ordina alfabeticamente
                     
                     connectedItems.forEach(itemNode => {
@@ -288,7 +288,7 @@
                         });
                     });
                 } else {
-                    listTitle.text(`Nessuna opera per "${tagNode.id}"`);
+                    listTitle.text(`Nessuna nota per "${tagNode.id}"`);
                 }
 
                 detailPanel.style('display', 'none');
