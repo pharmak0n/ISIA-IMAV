@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>IMAV - Collezione risorse Video Film - Serie TV - Documentari</title>
+    <title>IMAV - Collezione Note - Articoli - Tweet</title>
     <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
     <link rel="manifest" href="site.webmanifest">
-    <!-- Bootstrap CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <script src="https://d3js.org/d3.v7.min.js"></script>
+    <!-- Bootstrap CSS -->
     <style>
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
@@ -120,7 +120,7 @@
         });
 
         // --- 3. Caricamento Dati ---
-        d3.json("data/d3_bubble_graph_data_video.json").then(function(graph) {
+        d3.json("data/d3_bubble_data_note.json").then(function(graph) {
 
             const nodes = graph.nodes;
             const links = graph.links;
@@ -152,7 +152,7 @@
                 .attr("class", "node")
                 .attr("r", d => getNodeRadius(d))
                 .attr("fill", d => {
-                    if (d.type === 'tag') return 'red';
+                    if (d.type === 'tag') return 'blue';
                     if (d.type === 'item') return 'black';
                     return '#999';
                 })
@@ -277,7 +277,11 @@
                     connectedItems.sort((a, b) => a.id.localeCompare(b.id)); // Ordina alfabeticamente
                     
                     connectedItems.forEach(itemNode => {
-                        const li = itemList.append('li').attr('class', 'list-group-item list-group-item-action').text(itemNode.id);
+                        const li = itemList.append('li').attr('class', 'list-group-item list-group-item-action');
+                        if (itemNode.date) {
+                            li.append('h4').text(new Date(itemNode.date).toLocaleString());
+                        }
+                        li.append('p').text(itemNode.id);
                         li.datum(itemNode); // Associa i dati completi all'elemento li
                         li.on('click', (event, d) => {
                             showItemDetails(d);
@@ -297,18 +301,14 @@
                 
                 let content = `
                     <p>${itemNode.descrizione || 'Nessuna descrizione disponibile.'}</p>
-                    <strong>Regista/Creatore:</strong><p>${itemNode.regista || 'N/D'}</p>
-                    <strong>Anno:</strong><p>${itemNode.anno || 'N/D'}</p>
-                    <strong>Valutazione:</strong><p>${itemNode.valutazione || 'N/D'} / 5</p>
                 `;
 
-                if (itemNode.wikiLink && itemNode.wikiLink.startsWith('http')) {
-                    content += `<strong>Wikipedia:</strong><p><a href="${itemNode.wikiLink}" target="_blank">Link</a></p>`;
+                if (itemNode.date) {
+                    content = `<h4>${new Date(itemNode.date).toLocaleString()}</h4>` + content;
                 }
-                if (itemNode.streamingLink && itemNode.streamingLink.startsWith('http')) {
-                    content += `<strong>Streaming:</strong><p><a href="${itemNode.streamingLink}" target="_blank">Guarda ora</a></p>`;
-                } else if (itemNode.streamingLink) {
-                     content += `<strong>Streaming:</strong><p>${itemNode.streamingLink}</p>`;
+
+                if (itemNode.url && itemNode.url.startsWith('http')) {
+                    content += `<strong>URL:</strong><p><a href="${itemNode.url}" target="_blank">Vai all'articolo</a></p>`;
                 }
 
                 detailContent.html(content);
