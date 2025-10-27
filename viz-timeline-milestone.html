@@ -77,6 +77,7 @@
             <p id="detail-desc"></p>
             <p id="detail-source" class="small"></p>
             <p id="detail-cultural" class="small"></p>
+            <p id="detail-link" class="small"></p>
         </div>
     </div>
 
@@ -90,6 +91,7 @@
         const detailDesc = d3.select("#detail-desc");
         const detailSource = d3.select("#detail-source");
         const detailCultural = d3.select("#detail-cultural");
+        const detailLink = d3.select("#detail-link");
 
         d3.json("data/d3_timeline_data_milestone.json").then(function(data) {
             const cleanData = data.filter(d => d.data);
@@ -166,6 +168,7 @@
             detailDesc.text(d.descrizione);
             detailSource.html(d.fonte ? `<strong>Fonte:</strong> ${d.fonte}` : '');
             detailCultural.html(d.riferimento_culturale ? `<strong>Riferimento Culturale:</strong> ${d.riferimento_culturale}` : '');
+            detailLink.html(d.link ? `<strong>Link:</strong> <a href="${d.link}" target="_blank">${d.link}</a>` : '');
             sidebar.show();
         }
 
