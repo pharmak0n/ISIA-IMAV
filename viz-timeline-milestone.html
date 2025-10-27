@@ -94,13 +94,28 @@
         d3.json("data/d3_timeline_data_milestone.json").then(function(data) {
             const cleanData = data.filter(d => d.data);
             cleanData.forEach(d => {
-                // Attempt to parse full date for sorting, fallback to year
                 const dateParts = d.data.split('-');
-                d.fullDate = new Date(dateParts[0], dateParts[1] ? dateParts[1] - 1 : 0, dateParts[2] || 1);
-            });
-            cleanData.sort((a, b) => a.fullDate - b.fullDate);
+                const year = parseInt(dateParts[0], 10);
+                let month = 0; // Default to January
+                let day = 1;   // Default to 1st
 
-            const groupedByYear = d3.group(cleanData, d => d.fullDate.getFullYear());
+                if (dateParts.length > 1) {
+                    // If the second part is a 4-digit number, it's a year range (e.g., "2000-2004")
+                    // We'll just use the starting year for simplicity.
+                    if (dateParts[1].length !== 4) {
+                        month = parseInt(dateParts[1], 10) - 1;
+                        if (dateParts.length > 2) {
+                            day = parseInt(dateParts[2], 10);
+                        }
+                    }
+                }
+                d.fullDate = new Date(year, month, day);
+            });
+
+            const validData = cleanData.filter(d => d.fullDate && !isNaN(d.fullDate.getTime()));
+            validData.sort((a, b) => a.fullDate - b.fullDate);
+
+            const groupedByYear = d3.group(validData, d => d.fullDate.getFullYear());
             const sortedYears = Array.from(groupedByYear.keys()).sort((a, b) => a - b);
 
             const timeline = d3.select("#timeline");
