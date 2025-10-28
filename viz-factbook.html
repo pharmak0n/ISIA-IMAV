@@ -19,7 +19,6 @@
             justify-content: center;
             align-items: center;
             padding: 1rem;
-            background-color: #f8f9fa;
         }
         .card {
             max-width: 550px;
@@ -53,7 +52,7 @@
         .instructions {
             position: absolute;
             bottom: 20px;
-            color: rgba(255, 255, 255, 0.5);
+            color: black;
             font-size: 0.9rem;
         }
     </style>
@@ -79,6 +78,10 @@
         let isUpdating = false;
 
         function main() {
+            if (window.location.protocol !== 'https:' && window.location.hostname !== 'localhost' && window.location.hostname !== '127.0.0.1') {
+                console.warn('Attenzione: Il rilevamento dello shake potrebbe non funzionare perché la pagina non è servita tramite un contesto sicuro (HTTPS).');
+            }
+
             d3.json("data/d3_data_factbook.json").then(function(data) {
                 if (data && data.nodes) {
                     factbookData = data.nodes;
@@ -133,45 +136,57 @@
             }
         });
 
-        if (window.DeviceMotionEvent) {
-            if (typeof DeviceMotionEvent.requestPermission === 'function') {
-                 cardTitle.text("Permesso richiesto");
-                 cardContent.html('<p>Per favore, abilita i controlli di movimento per usare lo shake.</p><button id="permission-btn" class="btn btn-primary mt-2">Abilita</button>');
-                 cardContainer.classed("visible", true);
-                 document.getElementById('permission-btn').addEventListener('click', () => {
-                    DeviceMotionEvent.requestPermission()
-                        .then(permissionState => {
-                            if (permissionState === 'granted') {
-                                window.addEventListener('devicemotion', handleMotionEvent, true);
-                                displayRandomFact();
-                            } else {
-                                cardTitle.text("Permesso negato");
-                                cardContent.html("<p>Non potrai usare lo shake per cambiare elemento.</p>");
-                            }
-                        })
-                        .catch(console.error);
-                 });
+        // --- Shake Detection Logic ---
+        function setupShakeDetection() {
+            if ('DeviceMotionEvent' in window) {
+                // For iOS 13+ devices
+                if (typeof DeviceMotionEvent.requestPermission === 'function') {
+                    cardTitle.text("Permesso richiesto");
+                    cardContent.html('<p>Per favore, abilita i controlli di movimento per usare lo shake.</p><button id="permission-btn" class="btn btn-primary mt-2">Abilita</button>');
+                    cardContainer.classed("visible", true);
+                    document.getElementById('permission-btn').addEventListener('click', () => {
+                        DeviceMotionEvent.requestPermission()
+                            .then(permissionState => {
+                                if (permissionState === 'granted') {
+                                    window.addEventListener('devicemotion', handleMotionEvent);
+                                    // Delay to allow the UI to update before showing the first fact
+                                    setTimeout(displayRandomFact, 200);
+                                } else {
+                                    cardTitle.text("Permesso negato");
+                                    cardContent.html("<p>Non potrai usare lo shake per cambiare elemento.</p>");
+                                }
+                            })
+                            .catch(console.error);
+                    });
+                } else {
+                    // For other devices like Android
+                    window.addEventListener('devicemotion', handleMotionEvent);
+                }
             } else {
-                 window.addEventListener('devicemotion', handleMotionEvent, true);
+                console.log("DeviceMotionEvent non è supportato su questo browser.");
             }
         }
         
-        const shakeThreshold = 25;
+        const shakeThreshold = 15; // Lowered threshold for better sensitivity
         let last_x = null, last_y = null, last_z = null;
         let lastUpdate = 0;
 
         function handleMotionEvent(event) {
             if (isUpdating) return;
-            const { accelerationIncludingGravity } = event;
+
+            const acceleration = event.accelerationIncludingGravity;
             const currentTime = new Date().getTime();
 
-            if ((currentTime - lastUpdate) > 200) {
+            if ((currentTime - lastUpdate) > 150) { // Check a bit more frequently
                 const diffTime = currentTime - lastUpdate;
                 lastUpdate = currentTime;
 
-                const x = accelerationIncludingGravity.x;
-                const y = accelerationIncludingGravity.y;
-                const z = accelerationIncludingGravity.z;
+                if (!acceleration) {
+                    console.warn("Dati di accelerazione non trovati nell'evento devicemotion.");
+                    return;
+                }
+
+                const { x, y, z } = acceleration;
 
                 if (last_x !== null) {
                     const speed = Math.abs(x + y + z - last_x - last_y - last_z) / diffTime * 10000;
@@ -186,6 +201,8 @@
         }
         
         main();
+        setupShakeDetection();
+
     </script>
 </body>
 </html>
