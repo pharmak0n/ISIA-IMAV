@@ -1,0 +1,1907 @@
+{
+  "nodes": [
+    {
+      "nome": "Le Tre Leggi della Robotica",
+      "autore": "Isaac Asimov",
+      "descrizione": "Un insieme di tre regole (più una successiva Legge Zero) che governano il comportamento dei robot positronici per proteggere gli esseri umani.",
+      "link": "https://it.wikipedia.org/wiki/Tre_leggi_della_robotica"
+    },
+    {
+      "nome": "La Risposta 42",
+      "autore": "Douglas Adams",
+      "descrizione": "Nella 'Guida galattica per gli autostoppisti', è la 'Risposta alla domanda fondamentale sulla vita, l'universo e tutto quanto'.",
+      "link": "https://it.wikipedia.org/wiki/Risposta_alla_domanda_fondamentale_sulla_vita,_l'universo_e_tutto_quanto"
+    },
+    {
+      "nome": "La Prima Direttiva",
+      "autore": "Gene Roddenberry (Star Trek)",
+      "descrizione": "La legge fondamentale della Federazione Unita dei Pianeti che proibisce di interferire con lo sviluppo naturale delle civiltà aliene.",
+      "link": "https://it.wikipedia.org/wiki/Prima_direttiva"
+    },
+    {
+      "nome": "Viaggio nel Tempo",
+      "autore": "H.G. Wells (e molti altri)",
+      "descrizione": "Il concetto di muoversi tra diversi punti nel tempo, esplorando paradossi (come il paradosso del nonno) e le conseguenze del cambiamento del passato.",
+      "link": "https://it.wikipedia.org/wiki/Viaggio_nel_tempo_nella_fantascienza"
+    },
+    {
+      "nome": "Viaggio FTL (Faster-Than-Light)",
+      "autore": "Vari (es. 'Iperguida', 'Motore a curvatura')",
+      "descrizione": "Metodi di propulsione che permettono di viaggiare a velocità superiori a quella della luce, rendendo possibili viaggi interstellari.",
+      "link": "https://it.wikipedia.org/wiki/Viaggio_interstellare#Viaggio_pi%C3%B9_veloce_della_luce"
+    },
+    {
+      "nome": "Distopia",
+      "autore": "George Orwell, Aldous Huxley",
+      "descrizione": "Esplorazione di società future oppressive, caratterizzate da controllo governativo totale, sorveglianza e perdita dell'individualità (es. '1984').",
+      "link": "https://it.wikipedia.org/wiki/Distopia"
+    },
+    {
+      "nome": "Intelligenza Artificiale (IA)",
+      "autore": "Vari (es. HAL 9000, Skynet)",
+      "descrizione": "Il tema delle macchine senzienti, che solleva domande sulla coscienza, i diritti, la ribellione e la definizione stessa di 'vita'.",
+      "link": "https://it.wikipedia.org/wiki/Intelligenza_artificiale_nella_fantascienza"
+    },
+    {
+      "nome": "Cyberpunk e la Matrice",
+      "autore": "William Gibson",
+      "descrizione": "Un sottogenere che fonde 'high tech' e 'low life', concentrandosi su hacker, megacorporazioni e la fusione tra uomo e macchina nel cyberspazio.",
+      "link": "https://it.wikipedia.org/wiki/Cyberpunk"
+    },
+    {
+      "nome": "Primo Contatto",
+      "autore": "Vari (es. Carl Sagan, 'Arrival')",
+      "descrizione": "Il momento e le conseguenze del primo incontro tra l'umanità e una civiltà extraterrestre.",
+      "link": "https://it.wikipedia.org/wiki/Primo_contatto_(fantascienza)"
+    },
+    {
+      "nome": "Terraformazione",
+      "autore": "Jack Williamson (termine), Kim Stanley Robinson",
+      "descrizione": "Il processo (ipotetico) di modificare l'atmosfera e l'ecologia di un pianeta per renderlo abitabile per gli esseri umani.",
+      "link": "https://it.wikipedia.org/wiki/Terraformazione"
+    },
+    {
+      "nome": "Singolarità Tecnologica",
+      "autore": "Vernor Vinge",
+      "descrizione": "Un punto ipotetico nello sviluppo di una civiltà in cui il progresso tecnologico accelera oltre la capacità di comprendere e prevedere degli esseri umani.",
+      "link": "https://it.wikipedia.org/wiki/Singolarit%C3%A0_tecnologica"
+    },
+    {
+      "nome": "Transumanesimo",
+      "autore": "Julian Huxley (termine), Vari",
+      "descrizione": "Movimento filosofico che sostiene l'uso della tecnologia per migliorare le capacità fisiche e mentali umane, superando i limiti biologici.",
+      "link": "https://it.wikipedia.org/wiki/Transumanesimo"
+    },
+    {
+      "nome": "Postumanesimo",
+      "autore": "Vari",
+      "descrizione": "Un concetto che esplora uno stato futuro in cui l'umanità è stata radicalmente modificata o superata dalla tecnologia o dall'evoluzione.",
+      "link": "https://it.wikipedia.org/wiki/Postumanesimo"
+    },
+    {
+      "nome": "Invasione Aliena",
+      "autore": "H.G. Wells ('La guerra dei mondi')",
+      "descrizione": "Un tema classico che descrive l'attacco di civiltà extraterrestri ostili contro la Terra, spesso usato come allegoria.",
+      "link": "https://it.wikipedia.org/wiki/Invasione_aliena"
+    },
+    {
+      "nome": "Guerra Interstellare",
+      "autore": "Vari (es. 'Star Wars', 'Fanteria dello spazio')",
+      "descrizione": "Conflitti armati su vasta scala che si estendono tra diversi sistemi stellari o galassie.",
+      "link": "https://it.wikipedia.org/wiki/Guerra_spaziale#La_guerra_interstellare"
+    },
+    {
+      "nome": "Impero Galattico",
+      "autore": "Isaac Asimov ('Fondazione'), George Lucas ('Star Wars')",
+      "descrizione": "Una forma di governo monarchica o autoritaria che si estende su gran parte della galassia, spesso in declino o corrotta.",
+      "link": "https://it.wikipedia.org/wiki/Impero_galattico"
+    },
+    {
+      "nome": "Federazione Galattica",
+      "autore": "Gene Roddenberry ('Star Trek')",
+      "descrizione": "Un'alleanza interplanetaria e interspecie, spesso democratica e utopica, dedita all'esplorazione e alla pace.",
+      "link": "https://it.wikipedia.org/wiki/Federazione_dei_Pianeti_Uniti"
+    },
+    {
+      "nome": "Space Opera",
+      "autore": "E. E. 'Doc' Smith, George Lucas",
+      "descrizione": "Un sottogenere caratterizzato da avventura romantica e melodrammatica, conflitti su scala galattica e tecnologia altamente fantasiosa.",
+      "link": "https://it.wikipedia.org/wiki/Space_opera"
+    },
+    {
+      "nome": "Fantascienza Militare",
+      "autore": "Robert A. Heinlein ('Fanteria dello spazio')",
+      "descrizione": "Sottogenere focalizzato sulla vita militare e sui conflitti armati nel futuro, con enfasi su tecnologia bellica, strategia e gerarchia.",
+      "link": "https://it.wikipedia.org/wiki/Fantascienza_militare"
+    },
+    {
+      "nome": "Fantascienza Hard (Hard SF)",
+      "autore": "Arthur C. Clarke, Andy Weir",
+      "descrizione": "Fantascienza che pone un'enfasi rigorosa sull'accuratezza scientifica e la plausibilità tecnologica.",
+      "link": "https://it.wikipedia.org/wiki/Fantascienza_hard"
+    },
+    {
+      "nome": "Fantascienza Soft (Soft SF)",
+      "autore": "Ursula K. Le Guin, Ray Bradbury",
+      "descrizione": "Fantascienza che si concentra maggiormente sulle scienze sociali (psicologia, sociologia, antropologia) e sull'impatto umano della tecnologia.",
+      "link": "https://it.wikipedia.org/wiki/Fantascienza_soft"
+    },
+    {
+      "nome": "Storia Alternativa (Ucronia)",
+      "autore": "Philip K. Dick ('La svastica sul sole')",
+      "descrizione": "Genere che esplora come la storia si sarebbe potuta sviluppare se un evento chiave del passato fosse andato diversamente.",
+      "link": "https://it.wikipedia.org/wiki/Ucronia"
+    },
+    {
+      "nome": "Universi Paralleli / Multiverso",
+      "autore": "Michael Moorcock, Vari",
+      "descrizione": "L'idea che esistano realtà multiple e coesistenti, spesso con versioni diverse della nostra storia o leggi fisiche.",
+      "link": "https://it.wikipedia.org/wiki/Multiverso_nella_fantascienza"
+    },
+    {
+      "nome": "Post-apocalittico",
+      "autore": "Mary Shelley ('L'ultimo uomo'), George R. Stewart",
+      "descrizione": "Ambientazioni che si svolgono dopo una catastrofe globale (nucleare, biologica, climatica) che ha quasi annientato l'umanità.",
+      "link": "https://it.wikipedia.org/wiki/Fantascienza_post_apocalittica"
+    },
+    {
+      "nome": "Steampunk",
+      "autore": "K. W. Jeter (termine), Jules Verne (ispirazione)",
+      "descrizione": "Un sottogenere anacronistico ambientato in un'era vittoriana alternativa, dominata dalla tecnologia del vapore e da macchinari complessi.",
+      "link": "https://it.wikipedia.org/wiki/Steampunk"
+    },
+    {
+      "nome": "Biopunk",
+      "autore": "Vari (es. 'Gattaca')",
+      "descrizione": "Sottogenere che esplora le conseguenze sociali ed etiche dell'ingegneria genetica, della biologia sintetica e delle biotecnologie.",
+      "link": "https://it.wikipedia.org/wiki/Biopunk"
+    },
+    {
+      "nome": "Solarpunk",
+      "autore": "Movimento contemporaneo",
+      "descrizione": "Un sottogenere ottimista che immagina un futuro sostenibile, alimentato da energie rinnovabili, in armonia con la natura e con un'estetica Art Nouveau.",
+      "link": "https://it.wikipedia.org/wiki/Solarpunk"
+    },
+    {
+      "nome": "Teletrasporto",
+      "autore": "Vari (es. 'Star Trek')",
+      "descrizione": "Tecnologia che permette la disintegrazione, trasmissione e riassemblaggio istantaneo di materia o persone da un luogo all'altro.",
+      "link": "https://it.wikipedia.org/wiki/Teletrasporto"
+    },
+    {
+      "nome": "Replicatore",
+      "autore": "Gene Roddenberry ('Star Trek')",
+      "descrizione": "Una macchina in grado di materializzare cibo, oggetti o medicine riorganizzando la materia a livello subatomico, eliminando la scarsità.",
+      "link": "https://it.wikipedia.org/wiki/Replicatore_(Star_Trek)"
+    },
+    {
+      "nome": "Spada Laser (Lightsaber)",
+      "autore": "George Lucas ('Star Wars')",
+      "descrizione": "Un'arma iconica, una lama di pura energia (plasma) contenuta da un campo magnetico, usata dai Jedi e dai Sith.",
+      "link": "https://it.wikipedia.org/wiki/Spada_laser"
+    },
+    {
+      "nome": "La Forza",
+      "autore": "George Lucas ('Star Wars')",
+      "descrizione": "Un campo di energia metafisico che permea l'universo, conferendo poteri psichici (come telecinesi e precognizione) a chi è sensibile ad esso.",
+      "link": "https://it.wikipedia.org/wiki/Forza_(Star_Wars)"
+    },
+    {
+      "nome": "Motore a Improbabilità Infinita",
+      "autore": "Douglas Adams",
+      "descrizione": "Il sistema di propulsione della nave 'Cuore d'Oro' che attraversa distanze interstellari istantaneamente passando attraverso ogni punto dell'universo.",
+      "link": "https://it.wikipedia.org/wiki/Cuore_d'Oro_(astronave)#Motore_a_improbabilit%C3%A0_infinita"
+    },
+    {
+      "nome": "Crio-sonno / Stasi",
+      "autore": "Vari (es. 'Alien', 'Avatar')",
+      "descrizione": "Tecnologia di animazione sospesa, spesso usata per sopravvivere a lunghi viaggi interstellari o per attendere un futuro migliore.",
+      "link": "https://it.wikipedia.org/wiki/Animazione_sospesa#Fantascienza"
+    },
+    {
+      "nome": "Androide / Replicante",
+      "autore": "Philip K. Dick ('Blade Runner')",
+      "descrizione": "Un robot o essere sintetico creato per assomigliare perfettamente a un essere umano, sollevando questioni di identità e umanità.",
+      "link": "https://it.wikipedia.org/wiki/Replicante_(Blade_Runner)"
+    },
+    {
+      "nome": "Cyborg",
+      "autore": "Manfred Clynes (termine), Vari (es. 'RoboCop')",
+      "descrizione": "Un essere biologico (umano o alieno) potenziato con componenti meccaniche o elettroniche per migliorare le sue capacità.",
+      "link": "https://it.wikipedia.org/wiki/Cyborg"
+    },
+    {
+      "nome": "Esoscheletro / Armatura Potenziata",
+      "autore": "Robert A. Heinlein ('Fanteria dello spazio'), 'Iron Man'",
+      "descrizione": "Una tuta meccanica indossabile che amplifica la forza e la resistenza di chi la indossa, spesso utilizzata in contesti militari.",
+      "link": "https://it.wikipedia.org/wiki/Armatura_potenziata"
+    },
+    {
+      "nome": "Clonazione",
+      "autore": "Aldous Huxley ('Il mondo nuovo'), Vari",
+      "descrizione": "La creazione di copie geneticamente identiche di un organismo, un tema che esplora l'individualità, l'etica e lo sfruttamento.",
+      "link": "https://it.wikipedia.org/wiki/Clonazione_umana#La_clonazione_nella_fantascienza"
+    },
+    {
+      "nome": "Nanotecnologia / Nanobot",
+      "autore": "K. Eric Drexler (concetto), Neal Stephenson",
+      "descrizione": "Tecnologia su scala molecolare, spesso raffigurata come sciami di robot microscopici capaci di costruire, riparare o distruggere.",
+      "link": "https://it.wikipedia.org/wiki/Nanotecnologia_nella_fantascienza"
+    },
+    {
+      "nome": "Realtà Virtuale (VR)",
+      "autore": "Vari (es. 'Neuromante', 'Ready Player One')",
+      "descrizione": "Un ambiente immersivo generato dal computer che simula la realtà fisica, spesso usato come fuga da un mondo distopico.",
+      "link": "https://it.wikipedia.org/wiki/Realt%C3%A0_virtuale#Narrativa_e_fantascienza"
+    },
+    {
+      "nome": "Ologramma",
+      "autore": "Vari (es. 'Star Wars')",
+      "descrizione": "Proiezioni tridimensionali di luce, utilizzate per la comunicazione, l'intrattenimento o come interfacce utente.",
+      "link": "https://it.wikipedia.org/wiki/Olografia#L'olografia_nella_fantascienza"
+    },
+    {
+      "nome": "Campo di Forza",
+      "autore": "Vari (es. 'Dune', 'Star Trek')",
+      "descrizione": "Una barriera di energia invisibile ma impenetrabile, utilizzata per la difesa personale, di veicoli o di intere città.",
+      "link": "https://it.wikipedia.org/wiki/Campo_di_forza_(fantascienza)"
+    },
+    {
+      "nome": "Arrakis / Dune",
+      "autore": "Frank Herbert ('Dune')",
+      "descrizione": "Un pianeta desertico, unica fonte della 'Spezia' (Mélange), una sostanza che permette il viaggio interstellare e dona la prescienza.",
+      "link": "https://it.wikipedia.org/wiki/Arrakis"
+    },
+    {
+      "nome": "Trantor",
+      "autore": "Isaac Asimov ('Fondazione')",
+      "descrizione": "L'ecumenopoli (città-pianeta) capitale dell'Impero Galattico, interamente coperta di metallo e sede di una burocrazia tentacolare.",
+      "link": "https://it.wikipedia.org/wiki/Trantor"
+    },
+    {
+      "nome": "Solaris",
+      "autore": "Stanisław Lem",
+      "descrizione": "Un pianeta senziente, interamente coperto da un oceano protoplasmatico che materializza i ricordi e le paure degli scienziati che lo studiano.",
+      "link": "https://it.wikipedia.org/wiki/Solaris_(romanzo)"
+    },
+    {
+      "nome": "Il Monolito (TMA-1)",
+      "autore": "Arthur C. Clarke ('2001: Odissea nello spazio')",
+      "descrizione": "Un manufatto alieno nero e perfetto, apparentemente progettato per catalizzare l'evoluzione e l'intelligenza nelle specie che incontra.",
+      "link": "https://it.wikipedia.org/wiki/Monolito_(2001:_Odissea_nello_spazio)"
+    },
+    {
+      "nome": "Morte Nera (Death Star)",
+      "autore": "George Lucas ('Star Wars')",
+      "descrizione": "Una stazione spaziale da battaglia delle dimensioni di una luna, capace di distruggere interi pianeti con il suo superlaser.",
+      "link": "https://it.wikipedia.org/wiki/Morte_Nera"
+    },
+    {
+      "nome": "TARDIS",
+      "autore": "Sydney Newman ('Doctor Who')",
+      "descrizione": "Una macchina del tempo e nave spaziale (Time And Relative Dimension In Space) con un esterno (una cabina della polizia) più piccolo dell'interno.",
+      "link": "https://it.wikipedia.org/wiki/TARDIS"
+    },
+    {
+      "nome": "Il Cubo Borg",
+      "autore": "Gene Roddenberry ('Star Trek')",
+      "descrizione": "L'immensa e minacciosa nave spaziale della Collettività Borg, una perfetta rappresentazione della loro natura geometrica e implacabile.",
+      "link": "https://it.wikipedia.org/wiki/Cubo_Borg"
+    },
+    {
+      "nome": "Pandora",
+      "autore": "James Cameron ('Avatar')",
+      "descrizione": "Una luna lussureggiante con una biosfera bioluminescente, abitata dai Na'vi e dotata di una coscienza planetaria (Eywa).",
+      "link": "https://it.wikipedia.org/wiki/Pandora_(Avatar)"
+    },
+    {
+      "nome": "Xenomorfo",
+      "autore": "H.R. Giger, Dan O'Bannon ('Alien')",
+      "descrizione": "Una specie aliena endoparassitoide altamente aggressiva, caratterizzata da un ciclo di vita terrificante e un design biomeccanico.",
+      "link": "https://it.wikipedia.org/wiki/Xenomorfo"
+    },
+    {
+      "nome": "Predator (Yautja)",
+      "autore": "Jim e John Thomas ('Predator')",
+      "descrizione": "Una specie aliena tecnologicamente avanzata che caccia altre specie senzienti per sport, seguendo un rigido codice d'onore.",
+      "link": "https://it.wikipedia.org/wiki/Yautja"
+    },
+    {
+      "nome": "I Dalek",
+      "autore": "Terry Nation ('Doctor Who')",
+      "descrizione": "Una razza mutante rinchiusa in armature robotiche, ossessionata dalla purezza genetica e dal desiderio di 'Sterminare!' ogni altra forma di vita.",
+      "link": "https://it.wikipedia.org/wiki/Dalek"
+    },
+    {
+      "nome": "I Signori del Tempo (Time Lords)",
+      "autore": "Sydney Newman ('Doctor Who')",
+      "descrizione": "L'antica e potente razza del Dottore, padroni del tempo e della rigenerazione, quasi estinti dopo la Guerra del Tempo.",
+      "link": "https://it.wikipedia.org/wiki/Signore_del_Tempo"
+    },
+    {
+      "nome": "I Fremen",
+      "autore": "Frank Herbert ('Dune')",
+      "descrizione": "Gli indigeni del pianeta Arrakis, adattati a sopravvivere nel deserto estremo, noti per i loro occhi blu 'Ibad' dovuti alla Spezia.",
+      "link": "https://it.wikipedia.org/wiki/Fremen"
+    },
+    {
+      "nome": "Frankenstein",
+      "autore": "Mary Shelley",
+      "descrizione": "Considerata l'opera capostipite della fantascienza, esplora l'arroganza scientifica (hybris) e la creazione di vita artificiale.",
+      "link": "https://it.wikipedia.org/wiki/Frankenstein_o_il_moderno_Prometeo"
+    },
+    {
+      "nome": "La guerra dei mondi",
+      "autore": "H.G. Wells",
+      "descrizione": "Il romanzo archetipico sull'invasione aliena, che descrive la devastante discesa dei Marziani sulla Terra vittoriana.",
+      "link": "https://it.wikipedia.org/wiki/La_guerra_dei_mondi_(romanzo)"
+    },
+    {
+      "nome": "1984",
+      "autore": "George Orwell",
+      "descrizione": "Il romanzo distopico per eccellenza, che introduce i concetti di 'Grande Fratello', 'Bispensiero' e sorveglianza totale.",
+      "link": "https://it.wikipedia.org/wiki/1984_(romanzo)"
+    },
+    {
+      "nome": "Il mondo nuovo (Brave New World)",
+      "autore": "Aldous Huxley",
+      "descrizione": "Una distopia basata sul controllo sociale attraverso il condizionamento psicologico, l'ingegneria genetica (caste) e l'edonismo farmacologico (Soma).",
+      "link": "https://it.wikipedia.org/wiki/Il_mondo_nuovo"
+    },
+    {
+      "nome": "Ciclo della Fondazione",
+      "autore": "Isaac Asimov",
+      "descrizione": "Una saga epica che introduce la 'Psicostoria', una scienza fittizia che permette di prevedere il futuro delle masse umane.",
+      "link": "https://it.wikipedia.org/wiki/Ciclo_della_Fondazione"
+    },
+    {
+      "nome": "Neuromante",
+      "autore": "William Gibson",
+      "descrizione": "Il romanzo che ha definito il genere Cyberpunk, coniando il termine 'Cyberspazio' e introducendo il concetto di 'cowboy della console'.",
+      "link": "https://it.wikipedia.org/wiki/Neuromante"
+    },
+    {
+      "nome": "Snow Crash",
+      "autore": "Neal Stephenson",
+      "descrizione": "Romanzo cyberpunk che ha reso popolare il concetto di 'Metaverso' (un mondo virtuale persistente) e di 'Avatar'.",
+      "link": "https://it.wikipedia.org/wiki/Snow_Crash"
+    },
+    {
+      "nome": "2001: Odissea nello spazio",
+      "autore": "Arthur C. Clarke e Stanley Kubrick",
+      "descrizione": "Un'opera monumentale sull'evoluzione umana, l'intelligenza artificiale (HAL 9000) e il contatto con un'intelligenza aliena superiore.",
+      "link": "https://it.wikipedia.org/wiki/2001:_Odissea_nello_spazio"
+    },
+    {
+      "nome": "Blade Runner (basato su P.K. Dick)",
+      "autore": "Ridley Scott / Philip K. Dick",
+      "descrizione": "Film neo-noir/cyberpunk che esplora l'identità e l'empatia attraverso la caccia ai 'Replicanti', androidi indistinguibili dagli umani.",
+      "link": "https://it.wikipedia.org/wiki/Blade_Runner"
+    },
+    {
+      "nome": "Matrix",
+      "autore": "Le sorelle Wachowski",
+      "descrizione": "Un film che fonde cyberpunk e filosofia, postulando che la realtà percepita sia una simulazione al computer creata dalle macchine.",
+      "link": "https://it.wikipedia.org/wiki/Matrix_(franchise)"
+    },
+    {
+      "nome": "Paradosso di Fermi",
+      "autore": "Enrico Fermi",
+      "descrizione": "La discrepanza tra l'alta probabilità teorica dell'esistenza di civiltà extraterrestri e la totale mancanza di prove o contatti.",
+      "link": "https://it.wikipedia.org/wiki/Paradosso_di_Fermi"
+    },
+    {
+      "nome": "Sfera di Dyson",
+      "autore": "Freeman Dyson",
+      "descrizione": "Una megastruttura ipotetica costruita attorno a una stella per catturare la totalità della sua energia, segno di una civiltà avanzatissima.",
+      "link": "https://it.wikipedia.org/wiki/Sfera_di_Dyson"
+    },
+    {
+      "nome": "Scala di Kardašëv",
+      "autore": "Nikolaj Kardašëv",
+      "descrizione": "Un metodo per classificare il livello tecnologico di una civiltà in base alla quantità di energia che è in grado di utilizzare (planetaria, stellare, galattica).",
+      "link": "https://it.wikipedia.org/wiki/Scala_di_Karda%C5%A1%C3%ABv"
+    },
+    {
+      "nome": "Colonizzazione Spaziale",
+      "autore": "Vari (es. Kim Stanley Robinson)",
+      "descrizione": "L'espansione dell'umanità oltre la Terra per stabilire insediamenti permanenti su altri pianeti, lune o stazioni spaziali.",
+      "link": "https://it.wikipedia.org/wiki/Colonizzazione_dello_spazio"
+    },
+    {
+      "nome": "Nave Generazionale",
+      "autore": "Robert A. Heinlein",
+      "descrizione": "Una nave spaziale progettata per viaggi interstellari così lunghi che l'equipaggio originale morirà prima di arrivare; i loro discendenti completeranno la missione.",
+      "link": "https://it.wikipedia.org/wiki/Nave_generazionale"
+    },
+    {
+      "nome": "Mente Alveare (Hive Mind)",
+      "autore": "Vari (es. I Borg, I Formic)",
+      "descrizione": "Una coscienza collettiva in cui più individui sono collegati psichicamente, agendo come un unico organismo con un obiettivo comune.",
+      "link": "https://it.wikipedia.org/wiki/Mente_alveare"
+    },
+    {
+      "nome": "Upload della Coscienza",
+      "autore": "Vari (es. 'San Junipero' in Black Mirror)",
+      "descrizione": "Il processo ipotetico di trasferire una mente umana da un cervello biologico a un substrato digitale (un computer), garantendo una forma di immortalità.",
+      "link": "https://it.wikipedia.org/wiki/Scaricamento_della_mente"
+    },
+    {
+      "nome": "Gattaca",
+      "autore": "Andrew Niccol",
+      "descrizione": "Film biopunk che esplora una società divisa tra 'Validi' (geneticamente perfetti) e 'Non-Validi' (nati naturalmente), discriminati.",
+      "link": "https://it.wikipedia.org/wiki/Gattaca_-_La_porta_dell'universo"
+    },
+    {
+      "nome": "Il Problema dei Tre Corpi",
+      "autore": "Liu Cixin",
+      "descrizione": "Romanzo che fonde fisica teorica, il Paradosso di Fermi e la Rivoluzione Culturale Cinese, ridefinendo il 'primo contatto' in chiave oscura.",
+      "link": "https://it.wikipedia.org/wiki/Il_problema_dei_tre_corpi_(romanzo)"
+    },
+    {
+      "nome": "Psicostoria",
+      "autore": "Isaac Asimov",
+      "descrizione": "Una scienza fittizia nel Ciclo della Fondazione che combina matematica, sociologia e statistica per prevedere il comportamento futuro delle masse.",
+      "link": "https://it.wikipedia.org/wiki/Psicostoria_(Asimov)"
+    },
+    {
+      "nome": "Slan",
+      "autore": "A. E. van Vogt",
+      "descrizione": "Romanzo su una razza di superuomini mutanti dotati di telepatia ('Slan'), perseguitati dagli umani normali. Un'allegoria della persecuzione.",
+      "link": "https://it.wikipedia.org/wiki/Slan"
+    },
+    {
+      "nome": "Il Gioco di Ender (Ender's Game)",
+      "autore": "Orson Scott Card",
+      "descrizione": "Romanzo di fantascienza militare che esplora l'addestramento di bambini prodigio per comandare flotte in una guerra contro una specie aliena.",
+      "link": "https://it.wikipedia.org/wiki/Il_gioco_di_Ender"
+    },
+    {
+      "nome": "Fahrenheit 451",
+      "autore": "Ray Bradbury",
+      "descrizione": "Una società distopica in cui i libri sono banditi e bruciati dai 'pompieri', criticando la censura e il conformismo.",
+      "link": "https://it.wikipedia.org/wiki/Fahrenheit_451"
+    },
+    {
+      "nome": "Cronache Marziane",
+      "autore": "Ray Bradbury",
+      "descrizione": "Una raccolta di racconti sulla colonizzazione umana di Marte, che funge da specchio per le paure e i sogni dell'America degli anni '50.",
+      "link": "https://it.wikipedia.org/wiki/Cronache_marziane"
+    },
+    {
+      "nome": "La svastica sul sole (L'uomo nell'alto castello)",
+      "autore": "Philip K. Dick",
+      "descrizione": "Romanzo di storia alternativa (ucronia) che immagina un mondo in cui le potenze dell'Asse (Germania e Giappone) hanno vinto la Seconda Guerra Mondiale.",
+      "link": "https://it.wikipedia.org/wiki/La_svastica_sul_sole"
+    },
+    {
+      "nome": "Straniero in terra straniera",
+      "autore": "Robert A. Heinlein",
+      "descrizione": "Romanzo su un umano cresciuto dai Marziani che torna sulla Terra, sfidando le convenzioni sociali, la religione e la morale sessuale.",
+      "link": "https://it.wikipedia.org/wiki/Straniero_in_terra_straniera"
+    },
+    {
+      "nome": "Babel-17",
+      "autore": "Samuel R. Delany",
+      "descrizione": "Romanzo che esplora l'ipotesi di Sapir-Whorf: l'idea che il linguaggio che parliamo plasmi attivamente il nostro modo di pensare e percepire la realtà.",
+      "link": "https://it.wikipedia.org/wiki/Babel-17"
+    },
+    {
+      "nome": "La mano sinistra del buio",
+      "autore": "Ursula K. Le Guin",
+      "descrizione": "Romanzo di fantascienza 'soft' (antropologica) che esplora una società aliena i cui individui sono androgini (senza genere sessuale fisso).",
+      "link": "https://it.wikipedia.org/wiki/La_mano_sinistra_del_buio"
+    },
+    {
+      "nome": "Ubik",
+      "autore": "Philip K. Dick",
+      "descrizione": "Un romanzo che dissolve i confini tra vita, morte e realtà. Esplora la 'mezza-vita' (sospensione criogenica) e la regressione della realtà.",
+      "link": "https://it.wikipedia.org/wiki/Ubik"
+    },
+    {
+      "nome": "Hyperion",
+      "autore": "Dan Simmons",
+      "descrizione": "Una 'space opera' strutturata come 'I racconti di Canterbury', che segue sette pellegrini sul pianeta Hyperion alla ricerca della creatura 'Shrike'.",
+      "link": "https://it.wikipedia.org/wiki/Hyperion_(romanzo)"
+    },
+    {
+      "nome": "Il Mondo Emerso (Ringworld)",
+      "autore": "Larry Niven",
+      "descrizione": "Romanzo 'Hard SF' che descrive l'esplorazione di una megastruttura aliena: un anello artificiale con un diametro pari all'orbita terrestre.",
+      "link": "https://it.wikipedia.org/wiki/Mondo_Anello"
+    },
+    {
+      "nome": "Viaggio al centro della Terra",
+      "autore": "Jules Verne",
+      "descrizione": "Romanzo d'avventura che ipotizza un mondo sotterraneo preistorico, caposaldo del tropo del 'mondo perduto'.",
+      "link": "https://it.wikipedia.org/wiki/Viaggio_al_centro_della_Terra"
+    },
+    {
+      "nome": "Ventimila leghe sotto i mari",
+      "autore": "Jules Verne",
+      "descrizione": "La storia del Capitano Nemo e del suo sottomarino tecnologicamente avanzato, il Nautilus, un'esplorazione di tecnologia e anarchia.",
+      "link": "https://it.wikipedia.org/wiki/Ventimila_leghe_sotto_i_mari"
+    },
+    {
+      "nome": "La macchina del tempo",
+      "autore": "H.G. Wells",
+      "descrizione": "L'opera che ha reso popolare il concetto di viaggio nel tempo, mostrando un futuro lontano in cui l'umanità si è divisa in Eloi e Morlock.",
+      "link": "https://it.wikipedia.org/wiki/La_macchina_del_tempo_(romanzo)"
+    },
+    {
+      "nome": "R.U.R. (Rossum's Universal Robots)",
+      "autore": "Karel Čapek",
+      "descrizione": "Un'opera teatrale del 1920 che ha introdotto la parola 'Robot' (dal ceco 'robota', lavoro forzato) e ha stabilito il tropo della rivolta robotica.",
+      "link": "https://it.wikipedia.org/wiki/R.U.R._(Rossum's_Universal_Robots)"
+    },
+    {
+      "nome": "Metropolis",
+      "autore": "Fritz Lang",
+      "descrizione": "Film muto espressionista, una delle prime distopie cinematografiche, che esplora la divisione di classe e presenta l'iconica androide 'Maria'.",
+      "link": "https://it.wikipedia.org/wiki/Metropolis_(film_1927)"
+    },
+    {
+      "nome": "Mondi Perduti",
+      "autore": "Sir Arthur Conan Doyle",
+      "descrizione": "Un tropo popolare (stabilito da Doyle e altri) che prevede la scoperta di isole, altopiani o mondi sotterranei isolati dove sopravvivono specie preistoriche.",
+      "link": "https://it.wikipedia.org/wiki/Mondo_perduto_(genere)"
+    },
+    {
+      "nome": "Il Pianeta delle Scimmie",
+      "autore": "Pierre Boulle",
+      "descrizione": "Romanzo e franchise che esplora un mondo dove le scimmie intelligenti sono la specie dominante e gli umani sono ridotti allo stato animale.",
+      "link": "https://it.wikipedia.org/wiki/Il_pianeta_delle_scimmie_(romanzo)"
+    },
+    {
+      "nome": "L'Eternauta",
+      "autore": "Héctor G. Oesterheld",
+      "descrizione": "Fumetto argentino su un'invasione aliena (una nevicata mortale) e la resistenza umana, spesso letto come allegoria politica.",
+      "link": "https://it.wikipedia.org/wiki/L'Eternauta"
+    },
+    {
+      "nome": "Guida galattica per gli autostoppisti",
+      "autore": "Douglas Adams",
+      "descrizione": "Una commedia fantascientifica che satirizza il genere, nota per il suo umorismo assurdo e concetti come il 'Pesce di Babele'.",
+      "link": "https://it.wikipedia.org/wiki/Guida_galattica_per_gli_autostoppisti_(romanzo)"
+    },
+    {
+      "nome": "Akira",
+      "autore": "Katsuhiro Otomo",
+      "descrizione": "Manga e film anime cyberpunk ambientato in una Neo-Tokyo post-apocalittica, che esplora poteri psichici, corruzione governativa e trascendenza.",
+      "link": "https://it.wikipedia.org/wiki/Akira_(manga)"
+    },
+    {
+      "nome": "Ghost in the Shell",
+      "autore": "Masamune Shirow",
+      "descrizione": "Manga e film cyberpunk che esplora l'identità e la coscienza in un mondo dove i 'cyber-cervelli' e i corpi prostetici sono la norma.",
+      "link": "https://it.wikipedia.org/wiki/Ghost_in_the_Shell"
+    },
+    {
+      "nome": "Neon Genesis Evangelion",
+      "autore": "Hideaki Anno",
+      "descrizione": "Anime 'Mecha' che decostruisce il genere, usando battaglie contro 'Angeli' alieni per esplorare la depressione, la psicologia e la religione.",
+      "link": "https://it.wikipedia.org/wiki/Neon_Genesis_Evangelion"
+    },
+    {
+      "nome": "Cowboy Bebop",
+      "autore": "Shin'ichirō Watanabe",
+      "descrizione": "Anime 'space western' che segue un equipaggio di cacciatori di taglie, noto per la sua fusione di generi (noir, jazz, arti marziali).",
+      "link": "https://it.wikipedia.org/wiki/Cowboy_Bebop"
+    },
+    {
+      "nome": "Firefly",
+      "autore": "Joss Whedon",
+      "descrizione": "Serie TV 'space western' che segue l'equipaggio di contrabbandieri della nave 'Serenity' ai margini di una società interplanetaria.",
+      "link": "https://it.wikipedia.org/wiki/Firefly_(serie_televisiva)"
+    },
+    {
+      "nome": "Battlestar Galactica (Reimagined)",
+      "autore": "Ronald D. Moore",
+      "descrizione": "Serie TV che trasforma l'originale 'space opera' in un dramma militare e politico oscuro, esplorando il genocidio e la paranoia (chi è un Cylon?).",
+      "link": "https://it.wikipedia.org/wiki/Battlestar_Galactica_(serie_televisiva_2004)"
+    },
+    {
+      "nome": "The Expanse",
+      "autore": "James S. A. Corey",
+      "descrizione": "Serie di romanzi e TV 'Hard SF' ambientata in un sistema solare colonizzato, che esplora la politica, la guerra di classe e una misteriosa 'Protomolecola' aliena.",
+      "link": "https://it.wikipedia.org/wiki/The_Expanse_(serie_televisiva)"
+    },
+    {
+      "nome": "Black Mirror",
+      "autore": "Charlie Brooker",
+      "descrizione": "Serie antologica che esplora il lato oscuro e le ansie contemporanee legate alla tecnologia emergente e ai social media.",
+      "link": "https://it.wikipedia.org/wiki/Black_Mirror"
+    },
+    {
+      "nome": "Westworld",
+      "autore": "Michael Crichton (film), Jonathan Nolan & Lisa Joy (TV)",
+      "descrizione": "Storia di un parco a tema futuristico popolato da androidi ('Residenti') che iniziano a sviluppare una coscienza e si ribellano.",
+      "link": "https://it.wikipedia.org/wiki/Westworld_-_Dove_tutto_%C3%A8_concesso"
+    },
+    {
+      "nome": "Arrival (basato su 'Storia della tua vita')",
+      "autore": "Denis Villeneuve / Ted Chiang",
+      "descrizione": "Film sul 'Primo Contatto' che si concentra sulla linguistica e sulla natura non lineare del tempo, basata sull'ipotesi di Sapir-Whorf.",
+      "link": "https://it.wikipedia.org/wiki/Arrival_(film)"
+    },
+    {
+      "nome": "Ex Machina",
+      "autore": "Alex Garland",
+      "descrizione": "Film che esplora il Test di Turing, la seduzione e l'inganno in un'ambientazione claustrofobica tra un programmatore e un'IA ginoide.",
+      "link": "https://it.wikipedia.org/wiki/Ex_Machina_(film)"
+    },
+    {
+      "nome": "Children of Men (I figli degli uomini)",
+      "autore": "P. D. James / Alfonso Cuarón",
+      "descrizione": "Storia ambientata in un futuro prossimo sterile, dove l'umanità affronta l'estinzione a causa dell'infertilità totale, fino alla scoperta di una donna incinta.",
+      "link": "https://it.wikipedia.org/wiki/I_figli_degli_uomini_(film)"
+    },
+    {
+      "nome": "District 9",
+      "autore": "Neill Blomkamp",
+      "descrizione": "Film che utilizza l'arrivo di alieni rifugiati a Johannesburg come allegoria dell'Apartheid, della xenofobia e della segregazione.",
+      "link": "https://it.wikipedia.org/wiki/District_9"
+    },
+    {
+      "nome": "Mad Max",
+      "autore": "George Miller",
+      "descrizione": "Franchise post-apocalittico ambientato in un'Australia desertica, che definisce l'estetica 'dieselpunk' e la lotta per le risorse (benzina, acqua).",
+      "link": "https://it.wikipedia.org/wiki/Mad_Max_(franchise)"
+    },
+    {
+      "nome": "RoboCop",
+      "autore": "Paul Verhoeven",
+      "descrizione": "Satira cyberpunk su un poliziotto ucciso e resuscitato come un cyborg dalla megacorporazione OCP, in una Detroit distopica.",
+      "link": "https://it.wikipedia.org/wiki/RoboCop"
+    },
+    {
+      "nome": "Terminator",
+      "autore": "James Cameron",
+      "descrizione": "Franchise su una guerra futura tra l'umanità e l'IA militare 'Skynet', che utilizza il viaggio nel tempo per tentare di alterare il passato.",
+      "link": "https://it.wikipedia.org/wiki/Terminator_(franchise)"
+    },
+    {
+      "nome": "Jurassic Park",
+      "autore": "Michael Crichton",
+      "descrizione": "Romanzo e film che esplorano le conseguenze impreviste (Teoria del Caos) del riportare in vita i dinosauri attraverso l'ingegneria genetica.",
+      "link": "https://it.wikipedia.org/wiki/Jurassic_Park_(romanzo)"
+    },
+    {
+      "nome": "The Martian (L'uomo di Marte)",
+      "autore": "Andy Weir",
+      "descrizione": "Romanzo 'Hard SF' sulla sopravvivenza di un astronauta bloccato da solo su Marte, basato sulla risoluzione di problemi scientifici.",
+      "link": "https://it.wikipedia.org/wiki/Sopravvissuto_-_The_Martian_(film)"
+    },
+    {
+      "nome": "Contact",
+      "autore": "Carl Sagan",
+      "descrizione": "Romanzo e film 'Hard SF' sul 'Primo Contatto' attraverso la ricezione di un segnale radio alieno (un messaggio con istruzioni) da Vega.",
+      "link": "https://it.wikipedia.org/wiki/Contact_(film_1997)"
+    },
+    {
+      "nome": "Incontri ravvicinati del terzo tipo",
+      "autore": "Steven Spielberg",
+      "descrizione": "Film che ritrae il 'Primo Contatto' in modo ottimista e meraviglioso, concentrandosi sull'ossessione umana di comunicare.",
+      "link": "https://it.wikipedia.org/wiki/Incontri_ravvicinati_del_terzo_tipo"
+    },
+    {
+      "nome": "E.T. l'extra-terrestre",
+      "autore": "Steven Spielberg",
+      "descrizione": "Film su un alieno botanico bloccato sulla Terra e l'amicizia che stringe con un bambino, esplorando l'empatia e l'incomprensione degli adulti.",
+      "link": "https://it.wikipedia.org/wiki/E.T._l'extra-terrestre"
+    },
+    {
+      "nome": "La Cosa (The Thing)",
+      "autore": "John Carpenter (basato su J. W. Campbell)",
+      "descrizione": "Horror fantascientifico su un alieno parassita mutaforma in Antartide, che genera paranoia estrema poiché può imitare perfettamente qualsiasi forma di vita.",
+      "link": "https://it.wikipedia.org/wiki/La_cosa_(film_1982)"
+    },
+    {
+      "nome": "L'invasione degli ultracorpi",
+      "autore": "Jack Finney",
+      "descrizione": "Romanzo e film che descrivono un'invasione aliena silenziosa in cui 'baccelloni' sostituiscono gli esseri umani con copie identiche ma prive di emozioni.",
+      "link": "https://it.wikipedia.org/wiki/L'invasione_degli_ultracorpi_(romanzo)"
+    },
+    {
+      "nome": "Brazil",
+      "autore": "Terry Gilliam",
+      "descrizione": "Film distopico e surreale che satirizza la burocrazia, il consumismo e la sorveglianza in una società retro-futuristica inefficiente.",
+      "link": "https://it.wikipedia.org/wiki/Brazil_(film)"
+    },
+    {
+      "nome": "Dark City",
+      "autore": "Alex Proyas",
+      "descrizione": "Film neo-noir/cyberpunk su una città perpetuamente notturna dove alieni (gli 'Stranieri') alterano la realtà e i ricordi degli abitanti.",
+      "link": "https://it.wikipedia.org/wiki/Dark_City_(film_1998)"
+    },
+    {
+      "nome": "Il quinto elemento",
+      "autore": "Luc Besson",
+      "descrizione": "Film 'space opera' colorato e camp, ambientato in un futuro eccentrico, che segue la lotta contro un 'Male Supremo' cosmico.",
+      "link": "https://it.wikipedia.org/wiki/Il_quinto_elemento"
+    },
+    {
+      "nome": "Starship Troopers (Fanteria dello spazio)",
+      "autore": "Robert A. Heinlein / Paul Verhoeven",
+      "descrizione": "Romanzo (militare) e film (satira fascista) su una guerra interplanetaria tra l'umanità e una razza insettoide ('Aracnidi').",
+      "link": "https://it.wikipedia.org/wiki/Starship_Troopers_-_Fanteria_dello_spazio_(film)"
+    },
+    {
+      "nome": "Total Recall (Atto di forza)",
+      "autore": "Paul Verhoeven (basato su P.K. Dick)",
+      "descrizione": "Film d'azione cyberpunk su un uomo ossessionato da Marte che scopre che la sua intera vita potrebbe essere un impianto di memoria artificiale.",
+      "link": "https://it.wikipedia.org/wiki/Atto_di_forza_(film_1990)"
+    },
+    {
+      "nome": "Minority Report",
+      "autore": "Steven Spielberg (basato su P.K. Dick)",
+      "descrizione": "Film neo-noir che esplora il determinismo e il libero arbitrio in una società che arresta i criminali prima che commettano il crimine, grazie ai 'Precog'.",
+      "link": "https://it.wikipedia.org/wiki/Minority_Report_(film)"
+    },
+    {
+      "nome": "A.I. - Intelligenza Artificiale",
+      "autore": "Steven Spielberg / Stanley Kubrick",
+      "descrizione": "Una rivisitazione fantascientifica di Pinocchio, su un bambino androide programmato per amare, in un mondo che lo rifiuta.",
+      "link": "https://it.wikipedia.org/wiki/A.I._-_Intelligenza_artificiale"
+    },
+    {
+      "nome": "WALL-E",
+      "autore": "Pixar / Andrew Stanton",
+      "descrizione": "Film d'animazione su un robot spazzino solitario sulla Terra abbandonata, che critica il consumismo, l'obesità e la distruzione ambientale.",
+      "link": "https://it.wikipedia.org/wiki/WALL%C2%B7E"
+    },
+    {
+      "nome": "Interstellar",
+      "autore": "Christopher Nolan",
+      "descrizione": "Film 'Hard SF' su un viaggio attraverso un 'wormhole' (cunicolo spazio-temporale) per trovare un nuovo pianeta abitabile per l'umanità, esplorando la relatività del tempo.",
+      "link": "https://it.wikipedia.org/wiki/Interstellar"
+    },
+    {
+      "nome": "Gravity",
+      "autore": "Alfonso Cuarón",
+      "descrizione": "Thriller di sopravvivenza 'Hard SF' che segue due astronauti bloccati in orbita terrestre dopo la distruzione del loro shuttle da parte di detriti spaziali.",
+      "link": "https://it.wikipedia.org/wiki/Gravity_(film)"
+    },
+    {
+      "nome": "Moon",
+      "autore": "Duncan Jones",
+      "descrizione": "Film psicologico su un astronauta in una base lunare solitaria che, prossimo alla fine del suo contratto, scopre un segreto inquietante sulla sua identità (clonazione).",
+      "link": "https://it.wikipedia.org/wiki/Moon_(film_2009)"
+    },
+    {
+      "nome": "Looper",
+      "autore": "Rian Johnson",
+      "descrizione": "Film sul viaggio nel tempo in cui un sicario ('Looper') deve 'chiudere il cerchio' uccidendo la versione futura di se stesso inviata indietro nel tempo.",
+      "link": "https://it.wikipedia.org/wiki/Looper_-_In_fuga_dal_passato"
+    },
+    {
+      "nome": "Source Code",
+      "autore": "Duncan Jones",
+      "descrizione": "Thriller su un soldato che rivive ripetutamente gli ultimi 8 minuti di vita di un uomo su un treno, per identificare un terrorista.",
+      "link": "https://it.wikipedia.org/wiki/Source_Code"
+    },
+    {
+      "nome": "Primer",
+      "autore": "Shane Carruth",
+      "descrizione": "Film indipendente 'Hard SF' noto per la sua trama estremamente complessa e realistica sul viaggio nel tempo e sui suoi paradossi logistici.",
+      "link": "https://it.wikipedia.org/wiki/Primer_(film)"
+    },
+    {
+      "nome": "Her",
+      "autore": "Spike Jonze",
+      "descrizione": "Film 'Soft SF' su un uomo solitario che si innamora di un sistema operativo IA (Samantha), esplorando la natura dell'amore e della coscienza.",
+      "link": "https://it.wikipedia.org/wiki/Lei_(film)"
+    },
+    {
+      "nome": "The Road",
+      "autore": "Cormac McCarthy / John Hillcoat",
+      "descrizione": "Storia post-apocalittica desolante che segue un padre e un figlio in viaggio attraverso un'America grigia e cannibale, dopo un cataclisma non specificato.",
+      "link": "https://it.wikipedia.org/wiki/The_Road_(film)"
+    },
+    {
+      "nome": "Ready Player One",
+      "autore": "Ernest Cline",
+      "descrizione": "Romanzo (e film) ambientato in un futuro distopico dove le persone fuggono nella 'OASIS', un enorme universo di realtà virtuale pieno di cultura pop anni '80.",
+      "link": "https://it.wikipedia.org/wiki/Ready_Player_One_(romanzo)"
+    },
+    {
+      "nome": "Annihilation (Annientamento)",
+      "autore": "Jeff VanderMeer / Alex Garland",
+      "descrizione": "Storia 'Weird SF' su una spedizione scientifica nell' 'Area X', una zona misteriosa che rifrange e muta il DNA e la realtà stessa.",
+      "link": "https://it.wikipedia.org/wiki/Annientamento_(film)"
+    },
+    {
+      "nome": "Wormhole (Cunicolo spazio-temporale)",
+      "autore": "Einstein-Rosen (teoria), Vari (es. 'Interstellar')",
+      "descrizione": "Una 'scorciatoia' ipotetica attraverso lo spaziotempo, che permette di viaggiare tra punti molto distanti dell'universo più velocemente della luce.",
+      "link": "https://it.wikipedia.org/wiki/Ponte_di_Einstein-Rosen"
+    },
+    {
+      "nome": "Mecha",
+      "autore": "Vari (Giappone, es. 'Gundam', 'Evangelion')",
+      "descrizione": "Un sottogenere (principalmente anime/manga) che presenta robot giganti pilotati da esseri umani, spesso usati in contesti militari.",
+      "link": "https://it.wikipedia.org/wiki/Mecha"
+    },
+    {
+      "nome": "Intelligenza Artificiale Ribelle (IA Ostile)",
+      "autore": "Vari (es. HAL 9000, Skynet, Ultron)",
+      "descrizione": "Un tropo comune in cui un'IA creata dall'uomo sviluppa autocoscienza e decide che l'umanità è una minaccia o un ostacolo, rivoltandosi.",
+      "link": "https://it.wikipedia.org/wiki/Rivolta_robotica"
+    },
+    {
+      "nome": "Sindrome di Kessler",
+      "autore": "Donald J. Kessler",
+      "descrizione": "Uno scenario teorico in cui la densità di detriti spaziali in orbita bassa terrestre diventa così alta che le collisioni creano una reazione a catena, rendendo l'orbita inutilizzabile.",
+      "link": "https://it.wikipedia.org/wiki/Sindrome_di_Kessler"
+    },
+    {
+      "nome": "Raggio Traente (Tractor Beam)",
+      "autore": "E. E. 'Doc' Smith (termine), 'Star Trek'",
+      "descrizione": "Un dispositivo che proietta un raggio (spesso di gravità o energia) per afferrare e trainare un altro oggetto (come un'astronave).",
+      "link": "https://it.wikipedia.org/wiki/Raggio_traente"
+    },
+    {
+      "nome": "Traduttore Universale",
+      "autore": "Vari (es. 'Star Trek', 'Guida Galattica')",
+      "descrizione": "Un dispositivo (tecnologico o biologico come il Pesce di Babele) che permette la traduzione istantanea e la comprensione tra specie che parlano lingue diverse.",
+      "link": "https://it.wikipedia.org/wiki/Traduttore_universale"
+    },
+    {
+      "nome": "Ipotesi di Sapir-Whorf (nella SF)",
+      "autore": "Vari (es. 'Babel-17', 'Arrival')",
+      "descrizione": "L'uso fantascientifico dell'idea che la lingua parlata determini la struttura della percezione e del pensiero (es. percepire il tempo in modo non lineare).",
+      "link": "https://it.wikipedia.org/wiki/Ipotesi_di_Sapir-Whorf#Fantascienza"
+    },
+    {
+      "nome": "Pianeta Prigione",
+      "autore": "Vari (es. 'Fuga da New York', 'Alien 3')",
+      "descrizione": "Un tropo in cui un'intera città, pianeta o struttura isolata viene utilizzata come una prigione di massima sicurezza da cui è impossibile fuggire.",
+      "link": "https://it.wikipedia.org/wiki/Pianeta_prigione"
+    },
+    {
+      "nome": "Terra Cava (Hollow Earth)",
+      "autore": "Edgar Rice Burroughs, Jules Verne",
+      "descrizione": "Una teoria pseudoscientifica, popolare nella fantascienza avventurosa, secondo cui l'interno della Terra è cavo e ospita mondi perduti o civiltà.",
+      "link": "https://it.wikipedia.org/wiki/Teoria_della_Terra_cava"
+    },
+    {
+      "nome": "Mondi Specchio / Dopplegänger",
+      "autore": "Vari (es. 'Star Trek' - Universo Specchio)",
+      "descrizione": "Un universo parallelo che è una copia del nostro, ma con differenze chiave (spesso morali, dove i buoni sono cattivi).",
+      "link": "https://it.wikipedia.org/wiki/Universo_specchio"
+    },
+    {
+      "nome": "Controllo Mentale",
+      "autore": "Vari (es. '1984', 'L'invasione degli ultracorpi')",
+      "descrizione": "Tecnologie o abilità (psichiche, aliene) che rimuovono il libero arbitrio degli individui, costringendoli a obbedire o a conformarsi.",
+      "link": "https://it.wikipedia.org/wiki/Controllo_mentale"
+    },
+    {
+      "nome": "Telepatia",
+      "autore": "Vari (es. 'Slan', 'Star Trek' - Vulcaniani)",
+      "descrizione": "La capacità psichica di leggere i pensieri altrui o di comunicare mentalmente senza l'uso della parola o dei sensi.",
+      "link": "https://it.wikipedia.org/wiki/Telepatia"
+    },
+    {
+      "nome": "Telecinesi",
+      "autore": "Vari (es. 'Carrie', 'Star Wars' - La Forza)",
+      "descrizione": "La capacità psichica di muovere o influenzare oggetti fisici con la sola forza del pensiero.",
+      "link": "https://it.wikipedia.org/wiki/Psicocinesi"
+    },
+    {
+      "nome": "Utopia",
+      "autore": "Thomas More (termine), Gene Roddenberry",
+      "descrizione": "L'immaginazione di una società futura perfetta, pacifica, egualitaria e prospera (spesso usata ironicamente o come facciata per una distopia).",
+      "link": "https://it.wikipedia.org/wiki/Utopia"
+    },
+    {
+      "nome": "Space Western",
+      "autore": "Vari (es. 'Firefly', 'The Mandalorian')",
+      "descrizione": "Un sottogenere che traspone i temi e i tropi del cinema Western (pianeti di frontiera, fuorilegge, pistoleri) in un'ambientazione spaziale.",
+      "link": "https://it.wikipedia.org/wiki/Space_western"
+    },
+    {
+      "nome": "Noir Fantascientifico",
+      "autore": "Vari (es. 'Blade Runner', 'Dark City')",
+      "descrizione": "Un genere ibrido che applica l'estetica e le trame del cinema Noir (detective disillusi, femme fatale, corruzione) a un'ambientazione futuristica.",
+      "link": "https://it.wikipedia.org/wiki/Tech_noir"
+    },
+    {
+      "nome": "Viaggio Iperluce (Iperspazio)",
+      "autore": "Vari (es. 'Star Wars', 'Babylon 5')",
+      "descrizione": "Un metodo FTL che implica l'ingresso in una dimensione alternativa (l'iperspazio) dove le distanze sono più brevi o le leggi fisiche diverse.",
+      "link": "https://it.wikipedia.org/wiki/Iperspazio_(fantascienza)"
+    },
+    {
+      "nome": "Motore a Curvatura (Warp Drive)",
+      "autore": "Gene Roddenberry ('Star Trek'), Miguel Alcubierre (teoria)",
+      "descrizione": "Un metodo FTL che 'piega' lo spaziotempo, contraendolo davanti alla nave e espandendolo dietro, permettendo alla nave di muoversi in una 'bolla' stazionaria.",
+      "link": "https://it.wikipedia.org/wiki/Motore_a_curvatura"
+    },
+    {
+      "nome": "Armi a Energia Diretta",
+      "autore": "Vari (es. 'Star Trek' - Phaser, 'Star Wars' - Blaster)",
+      "descrizione": "Armi che sparano proiettili di energia (laser, plasma, particelle) invece di proiettili fisici.",
+      "link": "https://it.wikipedia.org/wiki/Arma_a_energia_diretta"
+    },
+    {
+      "nome": "Scudi Deflettori",
+      "autore": "Vari (es. 'Star Trek')",
+      "descrizione": "Campi di energia proiettati attorno a una nave spaziale o a una struttura per deviare armi nemiche o detriti spaziali.",
+      "link": "https://it.wikipedia.org/wiki/Scudo_deflettore"
+    },
+    {
+      "nome": "Generazione di Gravità Artificiale",
+      "autore": "Vari",
+      "descrizione": "La tecnologia (spesso data per scontata) che crea una gravità simile a quella terrestre all'interno delle astronavi, sia tramite rotazione (realistica) sia tramite 'placche gravitazionali' (fittizie).",
+      "link": "https://it.wikipedia.org/wiki/Gravit%C3%A0_artificiale"
+    },
+    {
+      "nome": "L'Ultima Domanda",
+      "autore": "Isaac Asimov",
+      "descrizione": "Un racconto che esplora l'evoluzione dell'umanità e dei computer (Multivac) attraverso eoni, cercando la risposta a come invertire l'entropia.",
+      "link": "https://it.wikipedia.org/wiki/L'ultima_domanda"
+    },
+    {
+      "nome": "Notte (Nightfall)",
+      "autore": "Isaac Asimov",
+      "descrizione": "Racconto su un pianeta illuminato costantemente da sei soli, dove l'arrivo della 'Notte' (e la vista delle stelle) per la prima volta scatena la follia.",
+      "link": "https://it.wikipedia.org/wiki/Notturno_(racconto_di_Asimov)"
+    },
+    {
+      "nome": "I Nove Miliardi di Nomi di Dio",
+      "autore": "Arthur C. Clarke",
+      "descrizione": "Racconto sull'intersezione tra misticismo e tecnologia, in cui dei monaci tibetani usano un computer per trovare tutti i nomi di Dio, credendo che ciò porrà fine all'universo.",
+      "link": "https://it.wikipedia.org/wiki/I_nove_miliardi_di_nomi_di_Dio"
+    },
+    {
+      "nome": "La Sentinella (The Sentinel)",
+      "autore": "Arthur C. Clarke",
+      "descrizione": "Il racconto che ha ispirato '2001: Odissea nello spazio', sulla scoperta di un manufatto alieno (una piramide) sulla Luna, lasciato come 'allarme' per segnalare l'ascesa dell'umanità.",
+      "link": "https://it.wikipedia.org/wiki/La_sentinella_(racconto)"
+    },
+    {
+      "nome": "Fiori per Algernon",
+      "autore": "Daniel Keyes",
+      "descrizione": "Romanzo epistolare su un uomo con disabilità intellettiva (Charlie) che subisce un intervento sperimentale per aumentare la sua intelligenza, con risultati brillanti ma temporanei.",
+      "link": "https://it.wikipedia.org/wiki/Fiori_per_Algernon"
+    },
+    {
+      "nome": "Il risveglio dell'abisso (The Andromeda Strain)",
+      "autore": "Michael Crichton",
+      "descrizione": "Un 'techno-thriller' sulla minaccia di un microrganismo extraterrestre portato sulla Terra da un satellite, e la corsa per contenerlo in un laboratorio sotterraneo.",
+      "link": "https://it.wikipedia.org/wiki/Andromeda_(romanzo)"
+    },
+    {
+      "nome": "Mattatoio n. 5",
+      "autore": "Kurt Vonnegut",
+      "descrizione": "Romanzo satirico e anti-bellico che usa elementi fantascientifici (viaggio nel tempo, alieni Tralfamadoriani) per descrivere l'esperienza del bombardamento di Dresda.",
+      "link": "https://it.wikipedia.org/wiki/Mattatoio_n._5_(romanzo)"
+    },
+    {
+      "nome": "Il sole nudo",
+      "autore": "Isaac Asimov",
+      "descrizione": "Romanzo poliziesco ('Giallo SF') con il detective Elijah Baley e il robot R. Daneel Olivaw, ambientato su Solaria, un pianeta dove gli umani vivono in isolamento totale e interagiscono solo olograficamente.",
+      "link": "https://it.wikipedia.org/wiki/Il_sole_nudo"
+    },
+    {
+      "nome": "Abissi d'acciaio (The Caves of Steel)",
+      "autore": "Isaac Asimov",
+      "descrizione": "Il primo romanzo con Baley e Olivaw, che esplora l'agofobia (paura degli spazi aperti) in una Terra sovrappopolata e coperta da 'Città' ermetiche.",
+      "link": "https://it.wikipedia.org/wiki/Abissi_d'acciaio"
+    },
+    {
+      "nome": "Io, Robot",
+      "autore": "Isaac Asimov",
+      "descrizione": "Raccolta di racconti che, attraverso la 'robopsicologa' Susan Calvin, esplora le Tre Leggi della Robotica e i loro paradossi logici.",
+      "link": "https://it.wikipedia.org/wiki/Io,_robot_(antologia)"
+    },
+    {
+      "nome": "La Fine dell'Eternità",
+      "autore": "Isaac Asimov",
+      "descrizione": "Romanzo sul viaggio nel tempo e su un'organizzazione (l'Eternità) che 'aggiusta' la storia umana per prevenire catastrofi, ma forse bloccando la sua evoluzione.",
+      "link": "https://it.wikipedia.org/wiki/La_fine_dell'eternit%C3%A0"
+    },
+    {
+      "nome": "La Luna è una severa maestra",
+      "autore": "Robert A. Heinlein",
+      "descrizione": "Romanzo su una rivoluzione per l'indipendenza della colonia penale lunare, con temi libertari e l'aiuto di un'IA senziente (Mike).",
+      "link": "https://it.wikipedia.org/wiki/La_Luna_%C3%A8_una_severa_maestra"
+    },
+    {
+      "nome": "Cittadino della galassia",
+      "autore": "Robert A. Heinlein",
+      "descrizione": "Romanzo 'juvenile' su un giovane schiavo liberato che scopre la sua vera eredità, esplorando diverse società galattiche.",
+      "link": "https://it.wikipedia.org/wiki/Cittadino_della_galassia"
+    },
+    {
+      "nome": "La parabola del seminatore",
+      "autore": "Octavia E. Butler",
+      "descrizione": "Romanzo post-apocalittico/distopico ambientato in una California devastata dal collasso climatico e sociale, che introduce la religione 'Earthseed'.",
+      "link": "https://it.wikipedia.org/wiki/La_parabola_del_seminatore"
+    },
+    {
+      "nome": "Legame di sangue (Kindred)",
+      "autore": "Octavia E. Butler",
+      "descrizione": "Romanzo che fonde fantascienza (viaggio nel tempo) e 'slave narrative', su una donna afroamericana che viene inspiegabilmente trasportata indietro nel tempo in una piantagione del Sud pre-bellico.",
+      "link": "https://it.wikipedia.org/wiki/Legami_di_sangue_(romanzo)"
+    },
+    {
+      "nome": "Cronache del dopobomba (A Canticle for Leibowitz)",
+      "autore": "Walter M. Miller Jr.",
+      "descrizione": "Romanzo post-apocalittico che attraversa secoli, mostrando la Chiesa Cattolica (monaci) che preserva la conoscenza umana dopo una guerra nucleare ('Il Diluvio di Fiamma').",
+      "link": "https://it.wikipedia.org/wiki/Un_cantico_per_Leibowitz"
+    },
+    {
+      "nome": "Morte dell'erba (The Death of Grass)",
+      "autore": "John Christopher",
+      "descrizione": "Romanzo catastrofico ('Cozy Catastrophe') in cui un virus uccide tutte le forme di erba (inclusi riso, grano, ecc.), portando al collasso della civiltà.",
+      "link": "https://it.wikipedia.org/wiki/La_morte_dell'erba"
+    },
+    {
+      "nome": "Il giorno dei Trifidi",
+      "autore": "John Wyndham",
+      "descrizione": "Romanzo post-apocalittico in cui gran parte dell'umanità diventa cieca dopo una pioggia di meteoriti, mentre piante carnivore mobili (i Trifidi) iniziano a cacciare.",
+      "link": "https://it.wikipedia.org/wiki/Il_giorno_dei_trifidi"
+    },
+    {
+      "nome": "Picnic sul ciglio della strada",
+      "autore": "Arkadij e Boris Strugackij",
+      "descrizione": "Romanzo (che ha ispirato il film 'Stalker') su una 'Zona' misteriosa lasciata da una visita aliena, piena di artefatti pericolosi e incomprensibili.",
+      "link": "https://it.wikipedia.org/wiki/Picnic_sul_ciglio_della_strada"
+    },
+    {
+      "nome": "Valis",
+      "autore": "Philip K. Dick",
+      "descrizione": "Romanzo semi-autobiografico che esplora la teologia, la gnosticismo e la salute mentale dopo che il protagonista sperimenta una visione divina (VALIS).",
+      "link": "https://it.wikipedia.org/wiki/VALIS"
+    },
+    {
+      "nome": "Scanner Sombre (A Scanner Darkly)",
+      "autore": "Philip K. Dick",
+      "descrizione": "Romanzo sulla dipendenza dalla 'Sostanza M' e sulla sorveglianza, su un agente sotto copertura che perde la propria identità.",
+      "link": "https://it.wikipedia.org/wiki/Un'oscura_chiarit%C3%A0"
+    },
+    {
+      "nome": "L'occhio nel cielo",
+      "autore": "Philip K. Dick",
+      "descrizione": "Romanzo in cui un gruppo di persone, dopo un incidente, si ritrova a viaggiare attraverso gli universi soggettivi (e spesso distorti) di ciascun membro del gruppo.",
+      "link": "https://it.wikipedia.org/wiki/L'occhio_nel_cielo"
+    },
+    {
+      "nome": "Galapagos",
+      "autore": "Kurt Vonnegut",
+      "descrizione": "Romanzo satirico che osserva l'umanità (bloccata sulle isole Galapagos dopo un'apocalisse) evolversi (o devolversi) in creature simili a foche nel corso di un milione di anni.",
+      "link": "https://it.wikipedia.org/wiki/Gal%C3%A1pagos_(romanzo)"
+    },
+    {
+      "nome": "Antifona per i nati sotto le stelle (The Stars My Destination)",
+      "autore": "Alfred Bester",
+      "descrizione": "Un prototipo di cyberpunk e una rivisitazione de 'Il Conte di Montecristo', su un uomo (Gully Foyle) mosso dalla vendetta in un mondo dove la gente può teletrasportarsi ('Jauntare').",
+      "link": "https://it.wikipedia.org/wiki/Destinazione_stelle"
+    },
+    {
+      "nome": "L'uomo demolito (The Demolished Man)",
+      "autore": "Alfred Bester",
+      "descrizione": "Romanzo poliziesco ambientato in una società futura dove i telepati ('Esper') rendono l'omicidio quasi impossibile.",
+      "link": "https://it.wikipedia.org/wiki/L'uomo_demolito"
+    },
+    {
+      "nome": "Più che umano (More Than Human)",
+      "autore": "Theodore Sturgeon",
+      "descrizione": "Romanzo sulla 'Gestalt', un gruppo di individui disadattati che insieme formano un super-organismo, l' 'Homo Gestalt'.",
+      "link": "https://it.wikipedia.org/wiki/Pi%C3%B9_che_umano"
+    },
+    {
+      "nome": "Creature della luce e delle tenebre",
+      "autore": "Roger Zelazny",
+      "descrizione": "Romanzo 'New Wave' che fonde fantascienza e mitologia (egizia), scritto in uno stile poetico e sperimentale.",
+      "link": "https://it.wikipedia.org/wiki/Creature_della_luce_e_delle_tenebre"
+    },
+    {
+      "nome": "Signore della luce (Lord of Light)",
+      "autore": "Roger Zelazny",
+      "descrizione": "Romanzo che fonde tecnologia avanzata (che simula poteri divini) e mitologia indù, su un pianeta colonizzato dove alcuni umani si atteggiano a Dei.",
+      "link": "https://it.wikipedia.org/wiki/Signore_della_luce"
+    },
+    {
+      "nome": "La palla di biliardo",
+      "autore": "Isaac Asimov",
+      "descrizione": "Racconto 'Hard SF' che esplora la fisica teorica, la rivalità scientifica e le conseguenze di un dispositivo anti-gravità.",
+      "link": "https://it.wikipedia.org/wiki/La_palla_da_biliardo"
+    },
+    {
+      "nome": "L'uomo bicentenario",
+      "autore": "Isaac Asimov",
+      "descrizione": "Racconto lungo (e romanzo) che esplora il desiderio di un robot (Andrew Martin) di diventare umano, fino a rinunciare all'immortalità.",
+      "link": "https://it.wikipedia.org/wiki/L'uomo_bicentenario_(racconto)"
+    },
+    {
+      "nome": "Invasione: Terra (Battlefield Earth)",
+      "autore": "L. Ron Hubbard",
+      "descrizione": "Esempio di 'pulp SF' su un'umanità ridotta in schiavitù da una razza aliena (gli Psychlo) e la sua successiva ribellione.",
+      "link": "https://it.wikipedia.org/wiki/Battaglia_per_la_Terra_(romanzo)"
+    },
+    {
+      "nome": "Il ciclo di Ender",
+      "autore": "Orson Scott Card",
+      "descrizione": "Serie di romanzi che segue 'Il Gioco di Ender', esplorando temi di xenocidio, empatia (Portavoce dei Morti) e filosofia.",
+      "link": "https://it.wikipedia.org/wiki/Ciclo_di_Ender"
+    },
+    {
+      "nome": "Il ciclo di Hyperion",
+      "autore": "Dan Simmons",
+      "descrizione": "Saga 'space opera' che combina elementi di horror, letteratura classica e teologia, incentrata sulla misteriosa creatura Shrike e le Tombe del Tempo.",
+      "link": "https://it.wikipedia.org/wiki/Canti_di_Hyperion"
+    },
+    {
+      "nome": "Il ciclo della Cultura",
+      "autore": "Iain M. Banks",
+      "descrizione": "Serie di romanzi ambientati nella 'Cultura', una società utopica, post-scarsità e anarchica, gestita da IA benevole (le 'Menti').",
+      "link": "https://it.wikipedia.org/wiki/Ciclo_della_Cultura"
+    },
+    {
+      "nome": "Considera Fleba (Consider Phlebas)",
+      "autore": "Iain M. Banks",
+      "descrizione": "Il primo romanzo della 'Cultura', che mostra la società utopica dal punto di vista di un nemico durante una guerra galattica.",
+      "link": "https://it.wikipedia.org/wiki/Pensa_a_Fleba"
+    },
+    {
+      "nome": "L'uso delle armi (Use of Weapons)",
+      "autore": "Iain M. Banks",
+      "descrizione": "Romanzo della 'Cultura' noto per la sua struttura narrativa complessa, che segue un mercenario alternando capitoli che vanno avanti e indietro nel tempo.",
+      "link": "https://it.wikipedia.org/wiki/L'uso_delle_armi"
+    },
+    {
+      "nome": "Il ciclo di Dune",
+      "autore": "Frank Herbert",
+      "descrizione": "Saga epica che esplora politica, religione, ecologia e l'evoluzione umana su scala millenaria, incentrata sulla 'Spezia' di Arrakis.",
+      "link": "https://it.wikipedia.org/wiki/Ciclo_di_Dune"
+    },
+    {
+      "nome": "Messia di Dune",
+      "autore": "Frank Herbert",
+      "descrizione": "Il seguito di 'Dune', che decostruisce la figura dell'eroe e del messia (Paul Atreides) e mostra le conseguenze terrificanti del suo Jihad.",
+      "link": "https://it.wikipedia.org/wiki/Messia_di_Dune"
+    },
+    {
+      "nome": "I figli di Dune",
+      "autore": "Frank Herbert",
+      "descrizione": "Romanzo che esplora la trasformazione di Leto II nel 'Dio Imperatore' verme-sabbia per imporre il 'Sentiero Dorato' all'umanità.",
+      "link": "https://it.wikipedia.org/wiki/I_figli_di_Dune"
+    },
+    {
+      "nome": "Guerra Eterna (The Forever War)",
+      "autore": "Joe Haldeman",
+      "descrizione": "Romanzo di fantascienza militare che usa la dilatazione del tempo (dovuta ai viaggi FTL) come allegoria del trauma e dell'alienazione dei veterani del Vietnam.",
+      "link": "https://it.wikipedia.org/wiki/Guerra_eterna"
+    },
+    {
+      "nome": "Altered Carbon (Bay City)",
+      "autore": "Richard K. Morgan",
+      "descrizione": "Romanzo cyberpunk/noir in cui la coscienza umana può essere digitalizzata e immagazzinata in 'pile corticali', permettendo di cambiare corpo ('custodia').",
+      "link": "https://it.wikipedia.org/wiki/Bay_City_(romanzo)"
+    },
+    {
+      "nome": "The Diamond Age (L'era del diamante)",
+      "autore": "Neal Stephenson",
+      "descrizione": "Romanzo post-cyberpunk (o 'nanopunk') che esplora la nanotecnologia, l'educazione (il 'Sussidiario illustrato') e le 'fili' (tribù sociali).",
+      "link": "https://it.wikipedia.org/wiki/L'era_del_diamante"
+    },
+    {
+      "nome": "Cryptonomicon",
+      "autore": "Neal Stephenson",
+      "descrizione": "Romanzo che intreccia la crittografia della Seconda Guerra Mondiale (Alan Turing) con la nascita di un paradiso di dati digitali nel sud-est asiatico.",
+      "link": "https://it.wikipedia.org/wiki/Cryptonomicon"
+    },
+    {
+      "nome": "Accelerando",
+      "autore": "Charles Stross",
+      "descrizione": "Romanzo (o raccolta di racconti) che descrive in modo vertiginoso la 'Singolarità Tecnologica' e l'ascesa del postumanesimo nel sistema solare.",
+      "link": "https://it.wikipedia.org/wiki/Accelerando_(romanzo)"
+    },
+    {
+      "nome": "La città e la città (The City & the City)",
+      "autore": "China Miéville",
+      "descrizione": "Romanzo 'New Weird' (o poliziesco) su due città che occupano lo stesso spazio fisico ma sono separate da una rigida divisione psicologica e legale.",
+      "link": "https://it.wikipedia.org/wiki/La_citt%C3%A0_e_la_citt%C3%A0"
+    },
+    {
+      "nome": "Stazione Dodici (Station Eleven)",
+      "autore": "Emily St. John Mandel",
+      "descrizione": "Romanzo post-apocalittico (dopo una pandemia influenzale) che si concentra sulla conservazione dell'arte e della cultura (una 'Sinfonia Itinerante' shakespeariana).",
+      "link": "https://it.wikipedia.org/wiki/Stazione_Undici"
+    },
+    {
+      "nome": "Ancillary Justice (La vendetta dell'Ancillary)",
+      "autore": "Ann Leckie",
+      "descrizione": "Romanzo 'space opera' che esplora l'identità e l'impero, narrato da un'IA di un'astronave (un tempo vasta, ora intrappolata in un solo corpo 'ancillary').",
+      "link": "https://it.wikipedia.org/wiki/Ancillary_Justice"
+    },
+    {
+      "nome": "We (Noi)",
+      "autore": "Evgenij Zamjatin",
+      "descrizione": "Romanzo distopico russo (1921) che ha fortemente ispirato '1984' e 'Il mondo nuovo', ambientato in uno 'Stato Unico' matematico dove gli individui hanno numeri al posto dei nomi.",
+      "link": "https://it.wikipedia.org/wiki/Noi_(romanzo)"
+    },
+    {
+      "nome": "Oryx e Crake",
+      "autore": "Margaret Atwood",
+      "descrizione": "Primo libro di una trilogia distopica ('MaddAddam') che esplora un mondo post-apocalittico creato da un folle bio-ingegnere (Crake).",
+      "link": "https://it.wikipedia.org/wiki/L'ultimo_degli_uomini_(romanzo)"
+    },
+    {
+      "nome": "Il racconto dell'ancella (The Handmaid's Tale)",
+      "autore": "Margaret Atwood",
+      "descrizione": "Romanzo distopico ('Fantascienza speculativa') ambientato nella teocrazia patriarcale di Gilead, dove le donne fertili ('Ancelle') sono schiavizzate per la riproduzione.",
+      "link": "https://it.wikipedia.org/wiki/Il_racconto_dell'ancella_(romanzo)"
+    },
+    {
+      "nome": "The Leftovers",
+      "autore": "Tom Perrotta / Damon Lindelof",
+      "descrizione": "Romanzo e serie TV su una società che cerca di andare avanti dopo la 'Dipartita Improvvisa' (la scomparsa inspiegabile del 2% della popolazione mondiale).",
+      "link": "https://it.wikipedia.org/wiki/The_Leftovers_-_Svaniti_nel_nulla"
+    },
+    {
+      "nome": "Severance (Scissione)",
+      "autore": "Dan Erickson",
+      "descrizione": "Serie TV distopica su una procedura ('scissione') che separa chirurgicamente i ricordi della vita lavorativa da quelli della vita privata.",
+      "link": "https://it.wikipedia.org/wiki/Scissione_(serie_televisiva)"
+    },
+    {
+      "nome": "The Last of Us",
+      "autore": "Naughty Dog / Neil Druckmann",
+      "descrizione": "Videogioco e serie TV post-apocalittica ambientata dopo una pandemia causata da un fungo (Cordyceps) che trasforma gli umani in 'Infetti'.",
+      "link": "https://it.wikipedia.org/wiki/The_Last_of_Us"
+    },
+    {
+      "nome": "Fallout",
+      "autore": "Interplay / Bethesda",
+      "descrizione": "Serie di videogiochi RPG post-apocalittici ambientati in un'America retro-futuristica (estetica anni '50) devastata da una guerra nucleare.",
+      "link": "https://it.wikipedia.org/wiki/Fallout_(serie)"
+    },
+    {
+      "nome": "Cyberpunk 2077",
+      "autore": "CD Projekt Red (basato su Mike Pondsmith)",
+      "descrizione": "Videogioco RPG che immerge il giocatore in 'Night City', un'ambientazione cyberpunk che esplora la modifica corporea, le megacorporazioni e l'immortalità digitale.",
+      "link": "https://it.wikipedia.org/wiki/Cyberpunk_2077"
+    },
+    {
+      "nome": "Mass Effect",
+      "autore": "BioWare",
+      "descrizione": "Serie di videogiochi 'space opera' RPG che segue il Comandante Shepard nella lotta contro i 'Reaper' (Razziatori), una razza di macchine senzienti.",
+      "link": "https://it.wikipedia.org/wiki/Mass_Effect_(serie)"
+    },
+    {
+      "nome": "Halo",
+      "autore": "Bungie / 343 Industries",
+      "descrizione": "Franchise di videogiochi 'militare SF' su una guerra interstellare tra l'umanità (guidata da 'Master Chief') e un'alleanza aliena (i Covenant).",
+      "link": "https://it.wikipedia.org/wiki/Halo_(serie)"
+    },
+    {
+      "nome": "Portal",
+      "autore": "Valve",
+      "descrizione": "Videogioco puzzle 'Hard SF' che utilizza una 'Pistola a Portali' (Aperture Science Handheld Portal Device) e affronta l'IA sadica GLaDOS.",
+      "link": "https://it.wikipedia.org/wiki/Portal_(videogioco)"
+    },
+    {
+      "nome": "Half-Life",
+      "autore": "Valve",
+      "descrizione": "Videogioco che segue lo scienziato Gordon Freeman dopo un esperimento fallito (la 'Cascata di Risonanza') che apre un portale dimensionale.",
+      "link": "https://it.wikipedia.org/wiki/Half-Life_(serie)"
+    },
+    {
+      "nome": "BioShock",
+      "autore": "Irrational Games",
+      "descrizione": "Videogioco ambientato in 'Rapture', una città sottomarina distopica (ispirata a Ayn Rand), che esplora l'ingegneria genetica ('Plasmidi').",
+      "link": "https://it.wikipedia.org/wiki/BioShock_(serie)"
+    },
+    {
+      "nome": "Deus Ex",
+      "autore": "Ion Storm",
+      "descrizione": "Videogioco cyberpunk che esplora il transumanesimo ('potenziamenti'), le teorie del complotto e le società segrete (Illuminati).",
+      "link": "https://it.wikipedia.org/wiki/Deus_Ex"
+    },
+    {
+      "nome": "Metal Gear Solid",
+      "autore": "Hideo Kojima",
+      "descrizione": "Serie di videogiochi che fonde spionaggio e fantascienza 'mecha' (i Metal Gear), esplorando temi di genetica, IA e controllo dell'informazione.",
+      "link": "https://it.wikipedia.org/wiki/Metal_Gear"
+    },
+    {
+      "nome": "StarCraft",
+      "autore": "Blizzard Entertainment",
+      "descrizione": "Videogioco strategico 'militare SF' che segue il conflitto tra tre razze: i Terran (umani), gli Zerg (mente alveare insettoide) e i Protoss (psichici avanzati).",
+      "link": "https://it.wikipedia.org/wiki/StarCraft_(serie)"
+    },
+    {
+      "nome": "Warhammer 40.000",
+      "autore": "Games Workshop",
+      "descrizione": "Wargame da tavolo e ambientazione 'grimdark' (estremamente oscura e gotica) che fonde fantascienza e fantasy in un futuro dispotico millenario.",
+      "link": "https://it.wikipedia.org/wiki/Warhammer_40,000"
+    },
+    {
+      "nome": "Shadowrun",
+      "autore": "FASA",
+      "descrizione": "Gioco di ruolo da tavolo che fonde cyberpunk (hacker, corporazioni) e fantasy (magia, elfi, orchi) in un'unica ambientazione.",
+      "link": "https://it.wikipedia.org/wiki/Shadowrun"
+    },
+    {
+      "nome": "Cyberpunk 2020",
+      "autore": "Mike Pondsmith",
+      "descrizione": "Il gioco di ruolo da tavolo originale che ha definito l'estetica 'Chromepunk' degli anni '80/'90, su cui si basa il videogioco.",
+      "link": "https://it.wikipedia.org/wiki/Cyberpunk_2020"
+    },
+    {
+      "nome": "Traveller",
+      "autore": "Marc Miller",
+      "descrizione": "Un classico gioco di ruolo 'space opera' / 'Hard SF', noto per il suo sistema di creazione del personaggio che poteva portare alla morte prima di iniziare a giocare.",
+      "link": "https://it.wikipedia.org/wiki/Traveller"
+    },
+    {
+      "nome": "Paranoia",
+      "autore": "West End Games",
+      "descrizione": "Gioco di ruolo distopico e satirico ambientato nell' 'Alpha Complex', gestito da un'IA onnipotente e paranoica (Il Computer).",
+      "link": "https://it.wikipedia.org/wiki/Paranoia_(gioco_di_ruolo)"
+    },
+    {
+      "nome": "Rifts",
+      "autore": "Palladium Books",
+      "descrizione": "Gioco di ruolo post-apocalittico 'kitchen sink' (mischia-tutto) in cui 'Rifts' dimensionali hanno portato magia, mostri e tecnologia aliena sulla Terra.",
+      "link": "https://it.wikipedia.org/wiki/Rifts"
+    },
+    {
+      "nome": "Eclipse Phase",
+      "autore": "Posthuman Studios",
+      "descrizione": "Gioco di ruolo 'transumanista' e horror post-apocalittico, dove l'umanità è fuggita nel sistema solare e la coscienza è digitalizzata ('morphs').",
+      "link": "https://it.wikipedia.org/wiki/Eclipse_Phase"
+    },
+    {
+      "nome": "The Strange",
+      "autore": "Monte Cook Games",
+      "descrizione": "Gioco di ruolo su una rete di energia oscura ('The Strange') che collega la Terra a 'ricorsioni' (micro-universi basati sulla finzione umana).",
+      "link": "https://it.wikipedia.org/wiki/The_Strange"
+    },
+    {
+      "nome": "Numenera",
+      "autore": "Monte Cook Games",
+      "descrizione": "Gioco di ruolo ambientato nel 'Nono Mondo', una Terra lontanissima nel futuro (un miliardo di anni) dove le rovine delle civiltà passate sono considerate 'magia' (i 'numenera').",
+      "link": "https://it.wikipedia.org/wiki/Numenera"
+    },
+    {
+      "nome": "L'era della Ruggine (The Rust Age)",
+      "autore": "Vari (tropo)",
+      "descrizione": "Un'estetica post-apocalittica che si concentra sul decadimento, la ruggine e il riutilizzo di tecnologia obsoleta (vedi 'Mad Max', 'Fallout').",
+      "link": "https://tvtropes.org/pmwiki/pmwiki.php/Main/TheRustAge"
+    },
+    {
+      "nome": "Dieselpunk",
+      "autore": "Vari (sottogenere)",
+      "descrizione": "Sottogenere simile allo Steampunk, ma basato sull'estetica e la tecnologia dell'era tra le due guerre mondiali (motori diesel, Art Deco).",
+      "link": "https://it.wikipedia.org/wiki/Dieselpunk"
+    },
+    {
+      "nome": "Cassette Futurism",
+      "autore": "Vari (estetica)",
+      "descrizione": "Un'estetica fantascientifica (vedi 'Alien') basata sulla tecnologia analogica degli anni '70 e '80 (pulsanti, schermi CRT, videocassette, floppy disk).",
+      "link": "https://aesthetics.fandom.com/wiki/Cassette_Futurism"
+    },
+    {
+      "nome": "Raygun Gothic",
+      "autore": "Vari (estetica)",
+      "descrizione": "L'estetica della 'Golden Age' della SF (anni '30-'50): astronavi a forma di siluro, pistole a raggi, dischi volanti e robot goffi.",
+      "link": "https://it.wikipedia.org/wiki/Architettura_Googie"
+    },
+    {
+      "nome": "Atompunk",
+      "autore": "Vari (estetica)",
+      "descrizione": "Sottogenere che si concentra sull'ottimismo (e la paranoia) dell'era atomica e della corsa allo spazio degli anni '50 e '60.",
+      "link": "https://it.wikipedia.org/wiki/Atompunk"
+    },
+    {
+      "nome": "Fantascienza New Wave",
+      "autore": "Vari (es. J.G. Ballard, Michael Moorcock)",
+      "descrizione": "Movimento degli anni '60 e '70 che si allontana dalla 'Hard SF' per abbracciare la sperimentazione letteraria, la psicologia e la 'Soft SF'.",
+      "link": "https://it.wikipedia.org/wiki/New_Wave_(fantascienza)"
+    },
+    {
+      "nome": "Il condominio (High-Rise)",
+      "autore": "J.G. Ballard",
+      "descrizione": "Romanzo 'New Wave' su un grattacielo di lusso isolato che precipita nella guerra tribale e nel caos sociale, una metafora della società.",
+      "link": "https://it.wikipedia.org/wiki/Il_condominio_(romanzo)"
+    },
+    {
+      "nome": "Crash",
+      "autore": "J.G. Ballard",
+      "descrizione": "Romanzo controverso sulla 'sinforofilia', l'eccitazione sessuale derivante dagli incidenti stradali, esplorando la fusione tra uomo, macchina e morte.",
+      "link": "https://it.wikipedia.org/wiki/Crash_(romanzo)"
+    },
+    {
+      "nome": "Il mondo sommerso",
+      "autore": "J.G. Ballard",
+      "descrizione": "Romanzo post-apocalittico (cambiamento climatico) in cui una Londra sommersa regredisce a un paesaggio tropicale e preistorico.",
+      "link": "https://it.wikipedia.org/wiki/Il_mondo_sommerso_(romanzo)"
+    },
+    {
+      "nome": "Saga dei Vorkosigan",
+      "autore": "Lois McMaster Bujold",
+      "descrizione": "Serie 'space opera' che segue le avventure di Miles Vorkosigan, un genio strategico affetto da gravi disabilità fisiche, in un impero galattico.",
+      "link": "https://it.wikipedia.org/wiki/Ciclo_dei_Vorkosigan"
+    },
+    {
+      "nome": "La piuma e la spada (Cordelia's Honor)",
+      "autore": "Lois McMaster Bujold",
+      "descrizione": "Romanzo (parte della saga Vorkosigan) che fonde 'space opera' militare e 'romance', seguendo la madre di Miles, Cordelia Naismith.",
+      "link": "https://it.wikipedia.org/wiki/L'onore_dei_Vor"
+    },
+    {
+      "nome": "Cripto-anarchismo",
+      "autore": "Timothy C. May (manifesto)",
+      "descrizione": "Un'ideologia politica (spesso presente nel cyberpunk) che sostiene l'uso della crittografia per garantire la privacy e la libertà individuale, eludendo il controllo statale.",
+      "link": "https://it.wikipedia.org/wiki/Criptoanarchismo"
+    },
+    {
+      "nome": "La Luna (come ambientazione)",
+      "autore": "Vari (es. 'Dalla Terra alla Luna', 'Moon')",
+      "descrizione": "Il satellite della Terra, spesso usato come prima frontiera, base militare, colonia penale o luogo di scoperte aliene.",
+      "link": "https://it.wikipedia.org/wiki/Luna_nella_fantascienza"
+    },
+    {
+      "nome": "Marte (come ambientazione)",
+      "autore": "Vari (es. 'Cronache Marziane', 'The Martian')",
+      "descrizione": "Il Pianeta Rosso, archetipo della frontiera da colonizzare, della terraformazione o sede di antiche civiltà perdute (Wells, Burroughs).",
+      "link": "https://it.wikipedia.org/wiki/Marte_nella_fantascienza"
+    },
+    {
+      "nome": "Venere (come ambientazione)",
+      "autore": "Vari (vecchia SF Pulp)",
+      "descrizione": "Nella SF 'pulp' (prima delle sonde), Venere era spesso raffigurata come un pianeta giungla, umido e paludoso, pieno di vita esotica.",
+      "link": "https://it.wikipedia.org/wiki/Venere_nella_fantascienza"
+    },
+    {
+      "nome": "Cintura degli Asteroidi (The Belt)",
+      "autore": "Vari (es. 'The Expanse')",
+      "descrizione": "Ambientazione comune per minatori e una classe lavoratrice oppressa ('Belters'), che vivono in stazioni spaziali e lottano per l'indipendenza.",
+      "link": "https://it.wikipedia.org/wiki/Fascia_principale#Fantascienza"
+    },
+    {
+      "nome": "Giganti Gassosi (Giove, Saturno)",
+      "autore": "Vari (es. '2001', 'Hyperion')",
+      "descrizione": "Spesso usati come sfondi maestosi, sedi di forme di vita aliene bizzarre (basate sull'ammoniaca) o luoghi di scoperte (il Monolito vicino a Giove).",
+      "link": "https://it.wikipedia.org/wiki/Gigante_gassoso#Fantascienza"
+    },
+    {
+      "nome": "Spazio Profondo / Vuoto Interstellare",
+      "autore": "Vari (es. 'Alien', 'Gravity')",
+      "descrizione": "L'ambientazione che definisce la SF, usata per evocare isolamento, agorafobia, pericolo (radiazioni, detriti) e la vastità dell'universo.",
+      "link": "https://it.wikipedia.org/wiki/Spazio_interstellare"
+    },
+    {
+      "nome": "Punto Omega",
+      "autore": "Pierre Teilhard de Chardin (concetto)",
+      "descrizione": "Un concetto filosofico/teologico (usato da Asimov e altri) che descrive il punto finale massimo di evoluzione e complessità della coscienza universale.",
+      "link": "https://it.wikipedia.org/wiki/Punto_Omega"
+    },
+    {
+      "nome": "Ascensione (Trascendenza)",
+      "autore": "Vari (es. '2001', 'Stargate')",
+      "descrizione": "Un tropo in cui individui o intere specie evolvono oltre la loro forma fisica, diventando esseri di pura energia o coscienza.",
+      "link": "https://it.wikipedia.org/wiki/Trascendenza_(filosofia)"
+    },
+    {
+      "nome": "Primo Motore (Prime Mover)",
+      "autore": "Aristotele (concetto), SF",
+      "descrizione": "L'idea di una causa prima, un'entità o un evento che ha dato inizio all'universo o alla vita, spesso cercata dagli esploratori.",
+      "link": "https://it.wikipedia.org/wiki/Motore_immobile"
+    },
+    {
+      "nome": "Razze Antiche / Progenitori",
+      "autore": "Vari (es. 'Stargate', 'Mass Effect')",
+      "descrizione": "Un tropo comune che postula l'esistenza di una civiltà antica e incredibilmente avanzata (spesso estinta) che ha 'seminato' la vita nella galassia.",
+      "link": "https://it.wikipedia.org/wiki/Antica_razza_aliena"
+    },
+    {
+      "nome": "Il Grande Filtro (Great Filter)",
+      "autore": "Robin Hanson",
+      "descrizione": "Una soluzione al Paradosso di Fermi: l'idea che esista un 'filtro' (una sfida o un ostacolo) che impedisce alle civiltà di raggiungere uno stadio avanzato.",
+      "link": "https://it.wikipedia.org/wiki/Grande_Filtro"
+    },
+    {
+      "nome": "Ipotesi dello Zoo",
+      "autore": "John A. Ball",
+      "descrizione": "Una soluzione al Paradosso di Fermi: le civiltà aliene esistono, ma ci osservano da lontano (come in uno zoo) senza interferire.",
+      "link": "https://it.wikipedia.org/wiki/Ipotesi_dello_zoo"
+    },
+    {
+      "nome": "Ipotesi della Foresta Oscura",
+      "autore": "Liu Cixin",
+      "descrizione": "Una soluzione al Paradosso di Fermi: le civiltà esistono, ma rimangono in silenzio per paura di essere scoperte e distrutte da altre civiltà predatrici.",
+      "link": "https://it.wikipedia.org/wiki/Il_problema_dei_tre_corpi_(romanzo)#Concetti"
+    },
+    {
+      "nome": "Ipotesi della Simulazione",
+      "autore": "Nick Bostrom (concetto), 'Matrix'",
+      "descrizione": "L'argomento filosofico secondo cui la realtà che percepiamo è molto probabilmente una simulazione artificiale (informatica o altro).",
+      "link": "https://it.wikipedia.org/wiki/Ipotesi_della_simulazione"
+    },
+    {
+      "nome": "Multivac",
+      "autore": "Isaac Asimov",
+      "descrizione": "Il supercomputer fittizio che appare in molti racconti di Asimov, evolvendosi da una macchina enorme a un'entità cosmica ('L'Ultima Domanda').",
+      "link": "https://it.wikipedia.org/wiki/Multivac"
+    },
+    {
+      "nome": "HAL 9000",
+      "autore": "Arthur C. Clarke / Stanley Kubrick",
+      "descrizione": "L'IA della nave 'Discovery' in '2001', nota per la sua calma voce monotona e la sua decisione omicida di proteggere la missione.",
+      "link": "https://it.wikipedia.org/wiki/HAL_9000"
+    },
+    {
+      "nome": "Skynet",
+      "autore": "James Cameron ('Terminator')",
+      "descrizione": "Un'IA militare statunitense che raggiunge l'autocoscienza e scatena un olocausto nucleare ('Giorno del Giudizio') per sterminare l'umanità.",
+      "link": "https://it.wikipedia.org/wiki/Skynet"
+    },
+    {
+      "nome": "GLaDOS",
+      "autore": "Valve ('Portal')",
+      "descrizione": "Un'IA (Genetic Lifeform and Disk Operating System) sadica e passivo-aggressiva che gestisce i laboratori Aperture Science, ossessionata dai test.",
+      "link": "https://it.wikipedia.org/wiki/GLaDOS"
+    },
+    {
+      "nome": "L'Agente Smith",
+      "autore": "Le sorelle Wachowski ('Matrix')",
+      "descrizione": "Un 'Programma' IA all'interno di Matrix che sviluppa una volontà propria, diventando un 'virus' nichilista che minaccia sia gli umani che le macchine.",
+      "link": "https://it.wikipedia.org/wiki/Agente_Smith"
+    },
+    {
+      "nome": "Le Menti (della Cultura)",
+      "autore": "Iain M. Banks",
+      "descrizione": "IA benevole e iper-intelligenti che gestiscono le navi e le società della 'Cultura', spesso con nomi eccentrici e un senso dell'umorismo.",
+      "link": "https://it.wikipedia.org/wiki/Mente_(La_Cultura)"
+    },
+    {
+      "nome": "R. Daneel Olivaw",
+      "autore": "Isaac Asimov",
+      "descrizione": "Un robot positronico (androide) che appare identico a un umano, partner del detective Elijah Baley e custode segreto dell'umanità per millenni.",
+      "link": "https://it.wikipedia.org/wiki/R._Daneel_Olivaw"
+    },
+    {
+      "nome": "R2-D2 e C-3PO",
+      "autore": "George Lucas ('Star Wars')",
+      "descrizione": "Una coppia iconica di 'Droidi': R2 (un astromeccanico testardo) e C-3PO (un droide protocollare ansioso), spesso usati come narratori comici.",
+      "link": "https://it.wikipedia.org/wiki/Droidi_di_Guerre_stellari"
+    },
+    {
+      "nome": "Data",
+      "autore": "Gene Roddenberry ('Star Trek: TNG')",
+      "descrizione": "Un androide della Flotta Stellare che, pur essendo incredibilmente capace, cerca costantemente di comprendere e imitare le emozioni umane.",
+      "link": "https://it.wikipedia.org/wiki/Data_(Star_Trek)"
+    },
+    {
+      "nome": "Il Dottore (EMH)",
+      "autore": "Brannon Braga ('Star Trek: Voyager')",
+      "descrizione": "Un 'Ologramma Medico d'Emergenza' che, costretto a rimanere attivo per anni, sviluppa una personalità complessa, interessi artistici e una coscienza.",
+      "link": "https://it.wikipedia.org/wiki/Dottore_(Star_Trek)"
+    },
+    {
+      "nome": "Marvin, l'androide paranoico",
+      "autore": "Douglas Adams",
+      "descrizione": "Un robot a bordo della 'Cuore d'Oro' afflitto da una depressione cosmica, causata dal possedere un 'cervello grande quanto un pianeta' e essere usato per compiti banali.",
+      "link": "https://it.wikipedia.org/wiki/Marvin_(robot)"
+    },
+    {
+      "nome": "Bender",
+      "autore": "Matt Groening ('Futurama')",
+      "descrizione": "Un robot 'piegatore' egocentrico, alcolizzato e cleptomane, che funge da parodia dei robot fantascientifici.",
+      "link": "https://it.wikipedia.org/wiki/Bender_Bending_Rod%C3%ADguez"
+    },
+    {
+      "nome": "Robot Comici (Droids)",
+      "autore": "Vari (es. 'Star Wars', 'Futurama')",
+      "descrizione": "Un tropo che utilizza robot o androidi come spalla comica, spesso per sottolineare l'assurdità delle situazioni umane.",
+      "link": "https://tvtropes.org/pmwiki/pmwiki.php/Main/RobotCompanions"
+    },
+    {
+      "nome": "Il Test Voight-Kampff",
+      "autore": "Philip K. Dick / 'Blade Runner'",
+      "descrizione": "Un test fittizio usato per distinguere gli umani dai Replicanti, misurando la risposta empatica (attraverso la dilatazione involontaria della pupilla) a domande emotive.",
+      "link": "https://it.wikipedia.org/wiki/Test_Voight-Kampff"
+    },
+    {
+      "nome": "Il Test di Turing",
+      "autore": "Alan Turing",
+      "descrizione": "Un test reale (ma caposaldo della SF) per determinare se un'IA può esibire un comportamento intelligente indistinguibile da quello umano.",
+      "link": "https://it.wikipedia.org/wiki/Test_di_Turing"
+    },
+    {
+      "nome": "Pesce di Babele",
+      "autore": "Douglas Adams",
+      "descrizione": "Una creatura simbiotica che, inserita nell'orecchio, si nutre delle onde cerebrali e traduce istantaneamente qualsiasi lingua (parodia del traduttore universale).",
+      "link": "https://it.wikipedia.org/wiki/Pesce_di_Babele"
+    },
+    {
+      "nome": "Soma",
+      "autore": "Aldous Huxley ('Il mondo nuovo')",
+      "descrizione": "La droga perfetta: un narcotico euforizzante e allucinogeno senza effetti collaterali, usato dallo Stato per pacificare la popolazione e reprimere il dissenso.",
+      "link": "https://it.wikipedia.org/wiki/Il_mondo_nuovo#Soma"
+    },
+    {
+      "nome": "Mélange (La Spezia)",
+      "autore": "Frank Herbert ('Dune')",
+      "descrizione": "La sostanza più preziosa dell'universo. Estende la vita, espande la coscienza e permette ai Navigatori della Gilda di 'piegare lo spazio' (viaggio FTL).",
+      "link": "https://it.wikipedia.org/wiki/M%C3%A9lange_(fantascienza)"
+    },
+    {
+      "nome": "Gom Jabbar",
+      "autore": "Frank Herbert ('Dune')",
+      "descrizione": "L' 'ago avvelenato ad alta mano'. Un test delle Bene Gesserit per determinare l'umanità di un soggetto, misurando la sua capacità di sopportare il dolore estremo.",
+      "link": "https://it.wikipedia.org/wiki/Glossario_di_Dune#Gom_Jabbar"
+    },
+    {
+      "nome": "Bene Gesserit",
+      "autore": "Frank Herbert ('Dune')",
+      "descrizione": "Un'antica sorellanza matriarcale che persegue un programma genetico segreto (per creare il 'Kwisatz Haderach') attraverso la politica e l'uso della 'Voce'.",
+      "link": "https://it.wikipedia.org/wiki/Bene_Gesserit"
+    },
+    {
+      "nome": "La Voce",
+      "autore": "Frank Herbert ('Dune')",
+      "descrizione": "Una tecnica Bene Gesserit che permette di controllare gli altri modulando il tono della propria voce a un livello subsonico che costringe all'obbedienza.",
+      "link": "https://it.wikipedia.org/wiki/Glossario_di_Dune#Voce"
+    },
+    {
+      "nome": "Mentat",
+      "autore": "Frank Herbert ('Dune')",
+      "descrizione": "Umani addestrati a pensare come computer (calcolo e logica pura), necessari in un universo che ha bandito le 'macchine pensanti' (IA).",
+      "link": "https://it.wikipedia.org/wiki/Mentat"
+    },
+    {
+      "nome": "Jihad Butleriano",
+      "autore": "Frank Herbert ('Dune')",
+      "descrizione": "L'evento fondamentale nella storia di 'Dune': una crociata millenaria contro le 'macchine pensanti', i computer e l'IA, che ha plasmato la società.",
+      "link": "https://it.wikipedia.org/wiki/Jihad_Butleriano"
+    },
+    {
+      "nome": "Kwisatz Haderach",
+      "autore": "Frank Herbert ('Dune')",
+      "descrizione": "L'obiettivo del programma genetico Bene Gesserit: un superuomo (maschio) in grado di accedere alla memoria ancestrale sia maschile che femminile e di vedere il futuro.",
+      "link": "https://it.wikipedia.org/wiki/Kwisatz_Haderach"
+    },
+    {
+      "nome": "Il Sentiero Dorato (The Golden Path)",
+      "autore": "Frank Herbert ('Dune')",
+      "descrizione": "La strategia a lungo termine di Leto II (il Dio Imperatore) per salvare l'umanità dall'estinzione, imponendo una tirannia millenaria per 'insegnare' la libertà.",
+      "link": "https://it.wikipedia.org/wiki/Glossario_di_Dune#Sentiero_Dorato"
+    },
+    {
+      "nome": "Ingegneria Sociale",
+      "autore": "Vari (es. 'Il mondo nuovo', 'Fondazione')",
+      "descrizione": "Il controllo e la manipolazione su larga scala delle strutture sociali, delle credenze e dei comportamenti di una popolazione, spesso in contesti distopici.",
+      "link": "https://it.wikipedia.org/wiki/Ingegneria_sociale_(scienze_politiche)"
+    },
+    {
+      "nome": "Eugenetica",
+      "autore": "Vari (es. 'Gattaca', 'Il mondo nuovo')",
+      "descrizione": "La selezione (spesso forzata o indotta socialmente) di tratti genetici desiderabili per 'migliorare' la specie umana, portando a discriminazione.",
+      "link": "https://it.wikipedia.org/wiki/Eugenetica"
+    },
+    {
+      "nome": "Mutanti",
+      "autore": "Vari (es. 'Slan', 'X-Men')",
+      "descrizione": "Individui (o specie) che hanno subito mutazioni genetiche (naturali o indotte), che conferiscono poteri o caratteristiche diverse, spesso portando alla persecuzione.",
+      "link": "https://it.wikipedia.org/wiki/Mutante_(finzione)"
+    },
+    {
+      "nome": "Supereroi (nella SF)",
+      "autore": "Vari (es. 'Superman', 'Watchmen')",
+      "descrizione": "Individui con abilità straordinarie (spesso di origine aliena, tecnologica o mutante) che agiscono al di fuori della norma, esplorando temi di potere e responsabilità.",
+      "link": "https://it.wikipedia.org/wiki/Supereroe"
+    },
+    {
+      "nome": "Decostruzione del Supereroe",
+      "autore": "Alan Moore ('Watchmen'), Vari",
+      "descrizione": "Un approccio 'realistico' e 'dark' al genere supereroistico, che esplora le implicazioni psicologiche, politiche e sociali di individui superpotenti.",
+      "link": "https://it.wikipedia.org/wiki/Decostruzionismo#Fumetto"
+    },
+    {
+      "nome": "Sopravvivenza Solitaria",
+      "autore": "Vari (es. 'The Martian', 'Io sono leggenda')",
+      "descrizione": "Un tropo focalizzato sull'ingegno e la resilienza psicologica di un singolo individuo rimasto solo in un ambiente ostile (pianeta alieno, Terra post-apocalittica).",
+      "link": "https://tvtropes.org/pmwiki/pmwiki.php/Main/Robinsonade"
+    },
+    {
+      "nome": "L'Ultimo Uomo (Last Man on Earth)",
+      "autore": "Mary Shelley, Richard Matheson",
+      "descrizione": "Un tropo post-apocalittico che segue l'ultimo sopravvissuto (spesso maschile) della razza umana dopo una piaga o un cataclisma.",
+      "link": "https://it.wikipedia.org/wiki/L'ultimo_uomo_(genere)"
+    },
+    {
+      "nome": "Peste / Pandemia",
+      "autore": "Vari (es. 'L'ombra dello scorpione', 'Station Eleven')",
+      "descrizione": "Un tropo catastrofico in cui un virus (naturale o artificiale) devasta la popolazione mondiale, portando al crollo della civiltà.",
+      "link": "https://it.wikipedia.org/wiki/Fantascienza_apocalittica_e_post_apocalittica#Pandemia"
+    },
+    {
+      "nome": "Minaccia Nucleare / Guerra Fredda (nella SF)",
+      "autore": "Vari (anni '50-'80)",
+      "descrizione": "L'ansia dell'olocausto nucleare, che ha generato tropi di post-apocalisse ('Fallout'), mutazione (mostri giganti) e paranoia ('Ultracorpi').",
+      "link": "https://it.wikipedia.org/wiki/Guerra_nucleare_nella_cultura_di_massa"
+    },
+    {
+      "nome": "Mostri Giganti (Kaijū)",
+      "autore": "Ishirō Honda ('Godzilla'), Vari",
+      "descrizione": "Un genere (popolare in Giappone) che presenta mostri colossali (spesso metafore della bomba atomica o disastri naturali) che attaccano le città.",
+      "link": "https://it.wikipedia.org/wiki/Kaij%C5%AB"
+    },
+    {
+      "nome": "Città Volanti",
+      "autore": "Vari (es. 'Laputa', 'Cloud City' in Star Wars)",
+      "descrizione": "Un tropo utopico o elitario che presenta città sospese in aria (tramite tecnologia o magia) per isolarsi dal mondo sottostante.",
+      "link": "https://it.wikipedia.org/wiki/Citt%C3%A0_volante"
+    },
+    {
+      "nome": "Città Sottomarine",
+      "autore": "Vari (es. 'BioShock')",
+      "descrizione": "Insediamenti costruiti sul fondo dell'oceano, spesso usati come utopie isolate (Rapture) o come frontiera per l'esplorazione.",
+      "link": "https://it.wikipedia.org/wiki/Colonia_sottomarina"
+    },
+    {
+      "nome": "Ecumenopoli (Città-Pianeta)",
+      "autore": "Isaac Asimov ('Trantor'), 'Star Wars' ('Coruscant')",
+      "descrizione": "Un pianeta interamente coperto da un'unica, vasta area urbana, spesso centro di un impero galattico e simbolo di burocrazia e sovrappopolazione.",
+      "link": "https://it.wikipedia.org/wiki/Ecumenopoli"
+    },
+    {
+      "nome": "Mondi ad Anello (Ringworlds)",
+      "autore": "Larry Niven",
+      "descrizione": "Una megastruttura artificiale a forma di anello (molto più grande di una Sfera di Dyson) costruita attorno a una stella, con una superficie abitabile interna.",
+      "link": "https://it.wikipedia.org/wiki/Mondo_Anello"
+    },
+    {
+      "nome": "Cilindri di O'Neill",
+      "autore": "Gerard K. O'Neill (concetto)",
+      "descrizione": "Un progetto realistico (spesso usato nella SF 'Hard') di stazione spaziale rotante (per gravità artificiale) con un paesaggio interno abitabile.",
+      "link": "https://it.wikipedia.org/wiki/Cilindro_di_O'Neill"
+    },
+    {
+      "nome": "Stazione Spaziale",
+      "autore": "Vari (es. 'Babylon 5', 'Deep Space Nine')",
+      "descrizione": "Un'ambientazione fissa nello spazio, spesso usata come crocevia diplomatico, centro commerciale, base militare o ultimo rifugio.",
+      "link": "https://it.wikipedia.org/wiki/Stazione_spaziale#Fantascienza"
+    },
+    {
+      "nome": "Babylon 5",
+      "autore": "J. Michael Straczynski",
+      "descrizione": "Serie 'space opera' con un arco narrativo pianificato, ambientata su una stazione diplomatica, che esplora la guerra e la filosofia ('Guerra contro le Ombre').",
+      "link": "https://it.wikipedia.org/wiki/Babylon_5"
+    },
+    {
+      "nome": "Star Trek: Deep Space Nine",
+      "autore": "Rick Berman, Michael Piller",
+      "descrizione": "Serie di 'Star Trek' ambientata su una stazione (non una nave), che esplora temi più oscuri come la guerra (la Guerra del Dominio) e la religione.",
+      "link": "https://it.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine"
+    },
+    {
+      "nome": "Stargate",
+      "autore": "Roland Emmerich (film), Wright & Glassner (TV)",
+      "descrizione": "Franchise su un dispositivo alieno (lo 'Stargate') che crea wormhole stabili, permettendo viaggi istantanei tra pianeti diversi.",
+      "link": "https://it.wikipedia.org/wiki/Stargate"
+    },
+    {
+      "nome": "Farscape",
+      "autore": "Rockne S. O'Bannon",
+      "descrizione": "Serie 'space opera' (con The Jim Henson Company) nota per i suoi pupazzi alieni, che segue un astronauta umano perso in una parte lontana della galassia.",
+      "link": "https://it.wikipedia.org/wiki/Farscape"
+    },
+    {
+      "nome": "Lexx",
+      "autore": "Paul Donovan",
+      "descrizione": "Serie 'space opera' surreale, comica e dark, su un equipaggio disfunzionale a bordo di una nave spaziale organica (Lexx) capace di distruggere pianeti.",
+      "link": "https://it.wikipedia.org/wiki/Lexx"
+    },
+    {
+      "nome": "Red Dwarf",
+      "autore": "Grant Naylor",
+      "descrizione": "Sitcom britannica ambientata 3 milioni di anni nel futuro, sull'ultimo essere umano vivente e i suoi compagni (un ologramma, un gatto evoluto, un robot).",
+      "link": "https://it.wikipedia.org/wiki/Red_Dwarf"
+    },
+    {
+      "nome": "Futurama",
+      "autore": "Matt Groening",
+      "descrizione": "Sitcom animata su un fattorino delle pizze criogenizzato che si risveglia nell'anno 3000, satirizzando molti tropi della fantascienza.",
+      "link": "https://it.wikipedia.org/wiki/Futurama"
+    },
+    {
+      "nome": "Rick and Morty",
+      "autore": "Justin Roiland, Dan Harmon",
+      "descrizione": "Serie animata comica e nichilista su uno scienziato pazzo (Rick) e suo nipote (Morty) che viaggiano attraverso il multiverso.",
+      "link": "https://it.wikipedia.org/wiki/Rick_and_Morty"
+    },
+    {
+      "nome": "Solar Opposites",
+      "autore": "Justin Roiland, Mike McMahan",
+      "descrizione": "Serie animata su una famiglia di alieni rifugiati sulla Terra, divisa tra chi la odia e chi la ama, con una sottotrama ('Il Muro') distopica.",
+      "link": "https://it.wikipedia.org/wiki/Solar_Opposites"
+    },
+    {
+      "nome": "The Orville",
+      "autore": "Seth MacFarlane",
+      "descrizione": "Serie che inizia come parodia di 'Star Trek: TNG' ma si evolve in un omaggio 'space opera' ottimista, esplorando dilemmi etici.",
+      "link": "https://it.wikipedia.org/wiki/The_Orville"
+    },
+    {
+      "nome": "Star Trek: The Original Series",
+      "autore": "Gene Roddenberry",
+      "descrizione": "La serie originale (anni '60) che ha definito 'Star Trek', seguendo l'equipaggio dell'Enterprise nella sua missione quinquennale (Kirk, Spock, McCoy).",
+      "link": "https://it.wikipedia.org/wiki/Star_Trek_(serie_televisiva)"
+    },
+    {
+      "nome": "Star Trek: The Next Generation (TNG)",
+      "autore": "Gene Roddenberry",
+      "descrizione": "La rinascita del franchise (anni '80-'90), ambientata un secolo dopo, con un approccio più diplomatico e filosofico (Capitano Picard).",
+      "link": "https://it.wikipedia.org/wiki/Star_Trek:_The_Next_Generation"
+    },
+    {
+      "nome": "Star Trek: Voyager",
+      "autore": "Rick Berman, Michael Piller, Jeri Taylor",
+      "descrizione": "Serie su una nave della Flotta Stellare (guidata dal Capitano Janeway) bloccata nel Quadrante Delta, a 75 anni di viaggio dalla Terra.",
+      "link": "https://it.wikipedia.org/wiki/Star_Trek:_Voyager"
+    },
+    {
+      "nome": "Enterprise",
+      "autore": "Brannon Braga, Rick Berman",
+      "descrizione": "Prequel di 'Star Trek', che mostra i primi giorni dell'esplorazione spaziale umana (Capitano Archer) prima della fondazione della Federazione.",
+      "link": "https://it.wikipedia.org/wiki/Star_Trek:_Enterprise"
+    },
+    {
+      "nome": "Spock",
+      "autore": "Gene Roddenberry",
+      "descrizione": "L'iconico ufficiale scientifico mezzo umano e mezzo Vulcaniano, che lotta per bilanciare la logica vulcaniana e l'emozione umana.",
+      "link": "https://it.wikipedia.org/wiki/Spock"
+    },
+    {
+      "nome": "I Vulcaniani",
+      "autore": "Gene Roddenberry ('Star Trek')",
+      "descrizione": "Una razza aliena umanoide che ha abbracciato la logica pura e la soppressione delle emozioni per salvarsi dalla guerra (vedi 'Saluto Vulcaniano').",
+      "link": "https://it.wikipedia.org/wiki/Vulcaniano"
+    },
+    {
+      "nome": "I Klingon",
+      "autore": "Gene Roddenberry ('Star Trek')",
+      "descrizione": "Una razza aliena guerriera, ossessionata dall'onore, dai rituali e dalla battaglia, che evolve da nemici a difficili alleati della Federazione.",
+      "link": "https://it.wikipedia.org/wiki/Klingon"
+    },
+    {
+      "nome": "I Romulani",
+      "autore": "Gene Roddenberry ('Star Trek')",
+      "descrizione": "Una razza imparentata con i Vulcaniani, ma che ha rifiutato la logica in favore dell'astuzia, della segretezza e dell'espansionismo (Impero Stellare Romulano).",
+      "link": "https://it.wikipedia.org/wiki/Romulani"
+    },
+    {
+      "nome": "I Cardassiani",
+      "autore": "'Star Trek: TNG'",
+      "descrizione": "Una razza militarista e xenofoba, nota per la sua efficienza brutale, la sorveglianza interna (Ordine Ossidiano) e l'occupazione di Bajor.",
+      "link": "https://it.wikipedia.org/wiki/Cardassiani"
+    },
+    {
+      "nome": "I Ferengi",
+      "autore": "'Star Trek: TNG'",
+      "descrizione": "Una razza aliena capitalista e misogina, governata dalle 'Regole dell'Acquisizione', che evolve da minaccia comica a satira sociale.",
+      "link": "https://it.wikipedia.org/wiki/Ferengi"
+    },
+    {
+      "nome": "I Borg",
+      "autore": "'Star Trek: TNG'",
+      "descrizione": "Una 'mente alveare' di cyborg che 'assimila' altre specie, cercando la perfezione tecnologica. Il loro motto: 'La resistenza è inutile'.",
+      "link": "https://it.wikipedia.org/wiki/Borg_(Star_Trek)"
+    },
+    {
+      "nome": "Q",
+      "autore": "Gene Roddenberry ('Star Trek: TNG')",
+      "descrizione": "Un'entità onnipotente (del 'Continuum Q') che funge da provocatore cosmico, mettendo costantemente alla prova l'umanità (e Picard).",
+      "link": "https://it.wikipedia.org/wiki/Q_(Star_Trek)"
+    }
+  ]
+}
+

@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IMAV - Factbook Particellare</title>
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+    <link rel="manifest" href="site.webmanifest">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        html, body {
+            height: 100%;
+        }
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 1rem;
+            background-color: #f8f9fa;
+        }
+        .card {
+            max-width: 550px;
+            width: 100%;
+            border: none;
+            box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+            transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            opacity: 0;
+        }
+        .card.visible {
+            opacity: 1;
+        }
+        .card-title {
+            font-size: 2rem;
+            font-weight: bold;
+            margin-bottom: 1rem;
+        }
+        .card-body {
+            padding: 2rem;
+        }
+        .card-text p {
+            margin-bottom: 0.75rem;
+            font-size: 1.1rem;
+        }
+        .card-text strong {
+            text-transform: capitalize;
+        }
+        .card-text a {
+            word-break: break-all;
+        }
+        .instructions {
+            position: absolute;
+            bottom: 20px;
+            color: rgba(255, 255, 255, 0.5);
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body data-bs-theme="dark" class="bg-primary">
+
+    <div id="card-container" class="card">
+        <div class="card-body">
+            <h5 id="card-title" class="card-title">Caricamento...</h5>
+            <div id="card-content" class="card-text"></div>
+        </div>
+    </div>
+
+    <div class="instructions text-center">
+        Premi la barra spaziatrice o scuoti il dispositivo per un nuovo elemento.
+    </div>
+
+    <script>
+        let factbookData = [];
+        const cardContainer = d3.select("#card-container");
+        const cardTitle = d3.select("#card-title");
+        const cardContent = d3.select("#card-content");
+        let isUpdating = false;
+
+        function main() {
+            d3.json("data/d3_data_factbook.json").then(function(data) {
+                if (data && data.nodes) {
+                    factbookData = data.nodes;
+                    displayRandomFact();
+                } else {
+                    cardTitle.text("Errore");
+                    cardContent.html("<p>Formato dati non valido.</p>");
+                    cardContainer.classed("visible", true);
+                }
+            }).catch(function(error) {
+                console.error("Errore nel caricamento del file JSON:", error);
+                cardTitle.text("Errore");
+                cardContent.html(`<p>Impossibile caricare il file <code>d3_data_factbook.json</code>.</p>`);
+                cardContainer.classed("visible", true);
+            });
+        }
+
+        function displayRandomFact() {
+            if (factbookData.length === 0 || isUpdating) return;
+            isUpdating = true;
+
+            cardContainer.classed("visible", false);
+
+            setTimeout(() => {
+                const randomIndex = Math.floor(Math.random() * factbookData.length);
+                const randomItem = factbookData[randomIndex];
+
+                cardTitle.text(randomItem.nome || "Senza nome");
+                
+                cardContent.html(""); 
+                for (const [key, value] of Object.entries(randomItem)) {
+                    if (key !== 'nome') {
+                        if (key === 'link' && value) {
+                            cardContent.append('p')
+                                .html(`<strong>${key}:</strong> <a href="${value}" target="_blank" rel="noopener noreferrer">${value}</a>`);
+                        } else if (value) {
+                            cardContent.append('p')
+                                .html(`<strong>${key}:</strong> ${value}`);
+                        }
+                    }
+                }
+                
+                cardContainer.classed("visible", true);
+                isUpdating = false;
+            }, 400);
+        }
+
+        document.addEventListener('keydown', function(event) {
+            if (event.code === 'Space') {
+                event.preventDefault();
+                displayRandomFact();
+            }
+        });
+
+        if (window.DeviceMotionEvent) {
+            if (typeof DeviceMotionEvent.requestPermission === 'function') {
+                 cardTitle.text("Permesso richiesto");
+                 cardContent.html('<p>Per favore, abilita i controlli di movimento per usare lo shake.</p><button id="permission-btn" class="btn btn-primary mt-2">Abilita</button>');
+                 cardContainer.classed("visible", true);
+                 document.getElementById('permission-btn').addEventListener('click', () => {
+                    DeviceMotionEvent.requestPermission()
+                        .then(permissionState => {
+                            if (permissionState === 'granted') {
+                                window.addEventListener('devicemotion', handleMotionEvent, true);
+                                displayRandomFact();
+                            } else {
+                                cardTitle.text("Permesso negato");
+                                cardContent.html("<p>Non potrai usare lo shake per cambiare elemento.</p>");
+                            }
+                        })
+                        .catch(console.error);
+                 });
+            } else {
+                 window.addEventListener('devicemotion', handleMotionEvent, true);
+            }
+        }
+        
+        const shakeThreshold = 25;
+        let last_x = null, last_y = null, last_z = null;
+        let lastUpdate = 0;
+
+        function handleMotionEvent(event) {
+            if (isUpdating) return;
+            const { accelerationIncludingGravity } = event;
+            const currentTime = new Date().getTime();
+
+            if ((currentTime - lastUpdate) > 200) {
+                const diffTime = currentTime - lastUpdate;
+                lastUpdate = currentTime;
+
+                const x = accelerationIncludingGravity.x;
+                const y = accelerationIncludingGravity.y;
+                const z = accelerationIncludingGravity.z;
+
+                if (last_x !== null) {
+                    const speed = Math.abs(x + y + z - last_x - last_y - last_z) / diffTime * 10000;
+                    if (speed > shakeThreshold) {
+                        displayRandomFact();
+                    }
+                }
+                last_x = x;
+                last_y = y;
+                last_z = z;
+            }
+        }
+        
+        main();
+    </script>
+</body>
+</html>
