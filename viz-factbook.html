@@ -10,7 +10,7 @@
     <link rel="manifest" href="site.webmanifest">
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <script src="https://d3js.org/d3.v7.min.js"></script>
-    <script src="shake.js"></script>
+    <script src="shake-detector.js"></script>
     <style>
         html, body {
             height: 100%;
@@ -84,7 +84,7 @@
                     factbookData = data.nodes;
                     displayRandomFact();
                 } else {
-                    cardTitle.text("Errore");
+                    cardTitle.text("Erro");
                     cardContent.html("<p>Formato dati non valido.</p>");
                     cardContainer.classed("visible", true);
                 }
@@ -133,50 +133,22 @@
             }
         });
 
-        // --- Shake Detection using shake.js library ---
-        function setupShakeLibrary() {
-            if (typeof Shake === 'undefined') {
-                console.error('Libreria shake.js non caricata.');
+        // --- Shake Detection using shake-detector.js ---
+        function setupShakeListener() {
+            if (typeof ShakeDetector === 'undefined') {
+                console.error('Libreria shake-detector.js non caricata.');
+                // If the shake detector is not available, we can still use the spacebar.
+                // So we just log the error and continue.
                 return;
             }
-
-            // Need to request permission on iOS 13+ devices
-            if (typeof DeviceMotionEvent.requestPermission === 'function') {
-                cardTitle.text("Permesso richiesto");
-                cardContent.html('<p>Per favore, abilita i controlli di movimento per usare lo shake.</p><button id="permission-btn" class="btn btn-primary mt-2">Abilita</button>');
-                cardContainer.classed("visible", true);
-                document.getElementById('permission-btn').addEventListener('click', () => {
-                    DeviceMotionEvent.requestPermission()
-                        .then(permissionState => {
-                            if (permissionState === 'granted') {
-                                startShakeListener();
-                                setTimeout(displayRandomFact, 200);
-                            } else {
-                                cardTitle.text("Permesso negato");
-                                cardContent.html("<p>Non potrai usare lo shake per cambiare elemento.</p>");
-                            }
-                        })
-                        .catch(console.error);
-                });
-            } else {
-                // For Android and other devices, we can start listening immediately.
-                startShakeListener();
-            }
-        }
-
-        function startShakeListener() {
-            const myShakeEvent = new Shake({
-                threshold: 15,
-                timeout: 1000
-            });
-            myShakeEvent.start();
-            window.addEventListener('shake', function () {
-                displayRandomFact();
-            }, false);
+            
+            // The ShakeDetector will automatically ask for permissions and start listening.
+            // We pass the displayRandomFact function as a callback.
+            new ShakeDetector(displayRandomFact);
         }
         
         main();
-        setupShakeLibrary();
+        setupShakeListener();
 
     </script>
 </body>
