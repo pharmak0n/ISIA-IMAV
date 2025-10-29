@@ -13,15 +13,13 @@
     <style>
         /* Reduced custom CSS, keeping only what Bootstrap doesn't provide */
         body {
-            background-color: #f8f9fa;
             padding-top: 70px;
         }
         .timeline-wrapper {
             overflow-x: auto;
-            margin: 0 -20px;
+            margin: 0 -25px;
             /* Simple scrollbar styling for better aesthetics */
             scrollbar-width: thin;
-            scrollbar-color: #0d6efd #e9ecef;
         }
         .timeline-wrapper .year-slot {
             border-left: 2px solid #000000;
@@ -31,18 +29,15 @@
             height: 12px;
         }
         .timeline-wrapper::-webkit-scrollbar-track {
-            background: #e9ecef;
             border-radius: 10px;
         }
         .timeline-wrapper::-webkit-scrollbar-thumb {
-            background-color: #0d6efd;
             border-radius: 10px;
             border: 3px solid #e9ecef;
         }
         .year-marker {
             position: sticky;
-            top: 0;
-            background: #f8f9fa;
+            top: 10px;
             z-index: 1;
             padding-bottom: 1rem;
         }
@@ -56,7 +51,7 @@
         }
     </style>
 </head>
-<body>
+<body data-bs-theme="dark" class="bg-primary">
     <nav class="navbar navbar-expand-xs fixed-top bg-primary">
         <div class="mx-3 d-flex flex-row justify-content-start align-items-center">
             <a class="btn btn-outline-primary" href="index.html">&larr;</a>
@@ -134,7 +129,7 @@
                 const yearSection = timeline.append('div').attr('class', 'year-slot col-7 col-md-5 col-lg-4 col-xl-3');
                 
                 yearSection.append('h2')
-                    .attr('class', 'display-6 year-marker text-primary')
+                    .attr('class', 'year-marker text-dark')
                     .text(year);
 
                 // Create Bootstrap cards for each event
@@ -157,6 +152,9 @@
                         </div>
                         `
                     });
+                yearSection.append('h2')
+                    .attr('class', 'year-marker text-dark')
+                    .text(year);  
             });
 
         }).catch(function(error) {
