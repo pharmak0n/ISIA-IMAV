@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>IMAV - Timeline Milestone</title>
+    <title>IMAV - Milestone</title>
     <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
@@ -14,6 +14,7 @@
         /* Reduced custom CSS, keeping only what Bootstrap doesn't provide */
         body {
             background-color: #f8f9fa;
+            padding-top: 70px;
         }
         .timeline-wrapper {
             overflow-x: auto;
@@ -56,9 +57,14 @@
     </style>
 </head>
 <body>
+    <nav class="navbar navbar-expand-xs fixed-top bg-primary">
+        <div class="mx-3 d-flex flex-row justify-content-start align-items-center">
+            <a class="btn btn-outline-primary" href="index.html">&larr;</a>
+            <h1 class="text-dark m-0 ms-3">Milestone</h1>
+        </div>
+    </nav>
 
     <div class="container-fluid px-4">
-        <h1 class="text-center my-4">Milestone</h1>
         <div id="timeline-wrapper" class="timeline-wrapper">
             <div id="timeline" class="row flex-nowrap gx-4"></div>
         </div>
